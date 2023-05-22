@@ -1,0 +1,1001 @@
+﻿id,Género,Edad,¿En qué semestre estás actualmente?,"¿Estás satisfecho con la cantidad de información que el instituto proporciona sobre los programas académicos, las políticas y los procedimientos?","¿Sueles seguir las redes sociales del instituto, como Facebook, Instagram o Twitter?",¿Crees que el instituto publica suficiente información en sus redes sociales?,"¿Sueles interactuar con el instituto a través de sus redes sociales, como comentar o dar ""me gusta"" en sus publicaciones?","¿Cómo calificarías la calidad de la información que el instituto publica en sus redes sociales, como eventos, noticias y actualizaciones?",¿Crees que el instituto responde de manera efectiva a las preguntas y comentarios que se hacen en sus redes sociales?,¿Cómo calificarías la calidad de las fotografías y videos que el instituto publica en sus redes sociales?,¿Con qué frecuencia utilizas la información que publica el instituto para tus estudios?,"¿Crees que la información que publica el instituto te ayuda a tomar decisiones importantes sobre tus estudios, como qué programas académicos tomar o qué carreras seguir?","¿Te sientes motivado a estudiar más por la información que publica el instituto, como noticias sobre logros académicos y oportunidades de estudio?",¿Crees que la información que publica el instituto está dirigida específicamente a los estudiantes y es fácil de entender y acceder?
+1,Femenino,28,Quinto Semestre,Satisfecho,A menudo,A menudo,Rara vez,Excelente,Nunca,Regular,Nunca,Rara vez,Rara vez,Totalmente en desacuerdo
+2,Femenino,33,Primer semestre,Neutral,Ocasionalmente,Nunca,A menudo,Mala,Nunca,Muy buena,Siempre,Rara vez,A menudo,En desacuerdo
+3,Masculino,30,Quinto Semestre,Insatisfecho,Rara vez,Nunca,Nunca,Mala,A menudo,Excelente,Rara vez,Nunca,Ocasionalmente,Neutral
+4,Masculino,45,Tercer semestre,Muy satisfecho,A menudo,Siempre,A menudo,Mala,Rara vez,Regular,Nunca,Nunca,Siempre,Totalmente en desacuerdo
+5,Masculino,29,Quinto Semestre,Insatisfecho,Siempre,Nunca,Ocasionalmente,Buena,A menudo,Mala,Rara vez,Ocasionalmente,Siempre,Totalmente en desacuerdo
+6,Masculino,53,Cuarto semestre,Muy satisfecho,Nunca,A menudo,A menudo,Mala,A menudo,Regular,Rara vez,A menudo,Nunca,De acuerdo en gran medida
+7,Masculino,46,Primer semestre,Muy satisfecho,Nunca,Nunca,Ocasionalmente,Muy buena,Nunca,Muy buena,A menudo,Siempre,Nunca,En desacuerdo
+8,Masculino,16,Cuarto semestre,Neutral,Nunca,Nunca,Rara vez,Buena,Ocasionalmente,Regular,A menudo,Rara vez,A menudo,En desacuerdo
+9,Masculino,48,Quinto Semestre,Insatisfecho,A menudo,Ocasionalmente,Rara vez,Buena,Rara vez,Muy buena,Siempre,Nunca,Rara vez,Totalmente de acuerdo
+10,Masculino,22,Segundo semestre,Satisfecho,Rara vez,Siempre,Nunca,Excelente,Ocasionalmente,Mala,Nunca,Rara vez,Ocasionalmente,Neutral
+11,Masculino,23,Primer semestre,Satisfecho,Rara vez,Siempre,Siempre,Buena,A menudo,Regular,Nunca,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+12,Masculino,46,Quinto Semestre,Muy insatisfecho,Nunca,Nunca,Rara vez,Mala,Siempre,Excelente,Rara vez,Siempre,Siempre,De acuerdo en gran medida
+13,Femenino,47,Primer semestre,Muy satisfecho,Rara vez,Nunca,Nunca,Regular,Siempre,Muy buena,A menudo,Rara vez,Ocasionalmente,De acuerdo en gran medida
+14,Masculino,54,Tercer semestre,Muy satisfecho,Rara vez,Nunca,Rara vez,Mala,A menudo,Regular,A menudo,Ocasionalmente,A menudo,Totalmente de acuerdo
+15,Masculino,55,Cuarto semestre,Muy insatisfecho,Siempre,Siempre,Siempre,Buena,Rara vez,Regular,Ocasionalmente,Siempre,Rara vez,Totalmente en desacuerdo
+16,Femenino,38,Primer semestre,Muy satisfecho,A menudo,A menudo,Siempre,Regular,Siempre,Muy buena,Ocasionalmente,Rara vez,Ocasionalmente,Neutral
+17,Masculino,37,Tercer semestre,Muy satisfecho,Nunca,Nunca,A menudo,Regular,Nunca,Regular,Rara vez,Nunca,Rara vez,Totalmente en desacuerdo
+18,Masculino,49,Cuarto semestre,Muy satisfecho,Nunca,Rara vez,Nunca,Regular,Nunca,Regular,Nunca,Nunca,A menudo,Neutral
+19,Masculino,18,Segundo semestre,Muy satisfecho,Ocasionalmente,Rara vez,Ocasionalmente,Regular,Ocasionalmente,Muy buena,Rara vez,A menudo,Ocasionalmente,Totalmente de acuerdo
+20,Masculino,42,Primer semestre,Satisfecho,Nunca,Nunca,A menudo,Mala,Siempre,Buena,Siempre,A menudo,Rara vez,Totalmente en desacuerdo
+21,Femenino,48,Primer semestre,Muy insatisfecho,A menudo,Siempre,Nunca,Buena,A menudo,Excelente,A menudo,Ocasionalmente,Siempre,Totalmente de acuerdo
+22,Masculino,36,Primer semestre,Neutral,A menudo,Siempre,Nunca,Muy buena,Siempre,Regular,Nunca,Ocasionalmente,Siempre,Totalmente de acuerdo
+23,Masculino,30,Segundo semestre,Neutral,Rara vez,Ocasionalmente,Ocasionalmente,Excelente,Siempre,Buena,Ocasionalmente,Rara vez,Nunca,Totalmente en desacuerdo
+24,Masculino,26,Quinto Semestre,Muy satisfecho,Nunca,Siempre,Ocasionalmente,Regular,Siempre,Muy buena,A menudo,Siempre,A menudo,Totalmente de acuerdo
+25,Masculino,32,Tercer semestre,Satisfecho,Nunca,Nunca,Ocasionalmente,Excelente,Rara vez,Muy buena,Rara vez,Nunca,Ocasionalmente,De acuerdo en gran medida
+26,Masculino,21,Segundo semestre,Satisfecho,Siempre,Siempre,Siempre,Mala,Ocasionalmente,Buena,Rara vez,Siempre,Rara vez,Neutral
+27,Masculino,34,Segundo semestre,Insatisfecho,Rara vez,Nunca,Ocasionalmente,Regular,Rara vez,Regular,Rara vez,Siempre,Ocasionalmente,Totalmente en desacuerdo
+28,Femenino,46,Primer semestre,Insatisfecho,Nunca,A menudo,Siempre,Regular,A menudo,Mala,A menudo,Ocasionalmente,Ocasionalmente,Neutral
+29,Masculino,22,Segundo semestre,Insatisfecho,Rara vez,Nunca,Siempre,Mala,Ocasionalmente,Buena,A menudo,Ocasionalmente,Nunca,Totalmente en desacuerdo
+30,Masculino,48,Segundo semestre,Satisfecho,Siempre,Rara vez,A menudo,Buena,Ocasionalmente,Buena,Ocasionalmente,A menudo,A menudo,En desacuerdo
+31,Femenino,30,Primer semestre,Neutral,Ocasionalmente,Siempre,Ocasionalmente,Excelente,Rara vez,Regular,Siempre,Ocasionalmente,Nunca,De acuerdo en gran medida
+32,Femenino,52,Segundo semestre,Neutral,Siempre,Siempre,A menudo,Muy buena,Nunca,Mala,A menudo,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+33,Masculino,25,Primer semestre,Insatisfecho,Ocasionalmente,Siempre,Siempre,Buena,Siempre,Mala,Ocasionalmente,Ocasionalmente,Ocasionalmente,En desacuerdo
+34,Femenino,51,Primer semestre,Muy satisfecho,Nunca,Siempre,Siempre,Muy buena,Siempre,Mala,Siempre,A menudo,Nunca,Totalmente de acuerdo
+35,Masculino,27,Primer semestre,Muy insatisfecho,A menudo,Nunca,A menudo,Excelente,Ocasionalmente,Mala,Rara vez,Nunca,A menudo,Totalmente en desacuerdo
+36,Masculino,43,Cuarto semestre,Satisfecho,A menudo,Rara vez,Nunca,Buena,Ocasionalmente,Excelente,Ocasionalmente,Siempre,Ocasionalmente,De acuerdo en gran medida
+37,Masculino,17,Cuarto semestre,Insatisfecho,Rara vez,Rara vez,A menudo,Excelente,Ocasionalmente,Mala,Siempre,A menudo,A menudo,De acuerdo en gran medida
+38,Femenino,19,Cuarto semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Siempre,Excelente,Nunca,Excelente,Ocasionalmente,A menudo,Rara vez,De acuerdo en gran medida
+39,Masculino,43,Cuarto semestre,Muy insatisfecho,Rara vez,A menudo,Rara vez,Buena,Nunca,Buena,Nunca,Nunca,Ocasionalmente,Totalmente de acuerdo
+40,Femenino,29,Segundo semestre,Muy satisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Mala,Nunca,Mala,A menudo,Rara vez,Ocasionalmente,De acuerdo en gran medida
+41,Femenino,19,Segundo semestre,Insatisfecho,Rara vez,Siempre,Siempre,Muy buena,Ocasionalmente,Buena,Ocasionalmente,Ocasionalmente,A menudo,En desacuerdo
+42,Femenino,19,Tercer semestre,Muy insatisfecho,Ocasionalmente,Rara vez,Ocasionalmente,Regular,Ocasionalmente,Excelente,Ocasionalmente,A menudo,Siempre,En desacuerdo
+43,Masculino,33,Segundo semestre,Muy satisfecho,Siempre,Siempre,Siempre,Muy buena,Rara vez,Mala,Rara vez,A menudo,Siempre,Neutral
+44,Masculino,34,Quinto Semestre,Satisfecho,A menudo,Rara vez,Ocasionalmente,Mala,Rara vez,Excelente,Nunca,A menudo,Nunca,En desacuerdo
+45,Masculino,32,Tercer semestre,Insatisfecho,Ocasionalmente,Ocasionalmente,Rara vez,Regular,Nunca,Mala,Ocasionalmente,Rara vez,A menudo,Totalmente de acuerdo
+46,Femenino,52,Quinto Semestre,Insatisfecho,A menudo,Ocasionalmente,Ocasionalmente,Buena,A menudo,Excelente,Siempre,Rara vez,Nunca,Totalmente en desacuerdo
+47,Masculino,54,Cuarto semestre,Muy insatisfecho,A menudo,Ocasionalmente,Siempre,Regular,Nunca,Excelente,Siempre,Ocasionalmente,Siempre,En desacuerdo
+48,Femenino,24,Quinto Semestre,Neutral,Ocasionalmente,Siempre,Ocasionalmente,Muy buena,A menudo,Mala,Nunca,Ocasionalmente,Rara vez,En desacuerdo
+49,Femenino,41,Primer semestre,Muy insatisfecho,Nunca,Ocasionalmente,Nunca,Excelente,Rara vez,Mala,A menudo,Nunca,A menudo,Totalmente de acuerdo
+50,Masculino,36,Segundo semestre,Muy satisfecho,Siempre,Rara vez,Nunca,Regular,Ocasionalmente,Mala,Rara vez,Rara vez,Nunca,De acuerdo en gran medida
+51,Masculino,29,Quinto Semestre,Neutral,Siempre,Nunca,Ocasionalmente,Muy buena,Nunca,Excelente,Ocasionalmente,Siempre,Rara vez,De acuerdo en gran medida
+52,Masculino,53,Cuarto semestre,Neutral,A menudo,Ocasionalmente,Ocasionalmente,Mala,Rara vez,Mala,Siempre,Ocasionalmente,Nunca,En desacuerdo
+53,Masculino,32,Primer semestre,Neutral,A menudo,A menudo,Rara vez,Mala,A menudo,Regular,Siempre,Ocasionalmente,Nunca,En desacuerdo
+54,Femenino,29,Tercer semestre,Satisfecho,Siempre,Rara vez,Siempre,Buena,Nunca,Mala,Ocasionalmente,A menudo,Rara vez,Totalmente en desacuerdo
+55,Masculino,40,Quinto Semestre,Satisfecho,Siempre,Ocasionalmente,Siempre,Regular,Ocasionalmente,Buena,Rara vez,Rara vez,Nunca,En desacuerdo
+56,Masculino,31,Primer semestre,Muy satisfecho,A menudo,Siempre,A menudo,Muy buena,Siempre,Excelente,Siempre,Nunca,Rara vez,Neutral
+57,Masculino,25,Tercer semestre,Muy insatisfecho,Rara vez,Ocasionalmente,A menudo,Regular,Rara vez,Excelente,A menudo,A menudo,A menudo,De acuerdo en gran medida
+58,Masculino,21,Segundo semestre,Insatisfecho,Nunca,Siempre,A menudo,Mala,Siempre,Buena,A menudo,A menudo,Rara vez,De acuerdo en gran medida
+59,Masculino,54,Primer semestre,Satisfecho,Siempre,Ocasionalmente,Ocasionalmente,Regular,Nunca,Excelente,Ocasionalmente,Rara vez,A menudo,Totalmente en desacuerdo
+60,Masculino,17,Cuarto semestre,Satisfecho,Ocasionalmente,A menudo,Nunca,Muy buena,Nunca,Muy buena,A menudo,Nunca,Rara vez,En desacuerdo
+61,Masculino,36,Primer semestre,Neutral,Ocasionalmente,A menudo,Rara vez,Buena,Nunca,Excelente,Siempre,Ocasionalmente,Ocasionalmente,Totalmente en desacuerdo
+62,Masculino,22,Primer semestre,Muy insatisfecho,A menudo,A menudo,Nunca,Mala,A menudo,Excelente,A menudo,Siempre,Siempre,Totalmente en desacuerdo
+63,Masculino,50,Primer semestre,Neutral,A menudo,Siempre,Ocasionalmente,Muy buena,Ocasionalmente,Muy buena,Nunca,Ocasionalmente,Rara vez,En desacuerdo
+64,Femenino,17,Segundo semestre,Insatisfecho,Ocasionalmente,Ocasionalmente,Nunca,Excelente,A menudo,Mala,Siempre,A menudo,Siempre,Neutral
+65,Femenino,24,Quinto Semestre,Insatisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Regular,Siempre,Mala,A menudo,Rara vez,Nunca,En desacuerdo
+66,Femenino,21,Quinto Semestre,Muy insatisfecho,Ocasionalmente,Siempre,Ocasionalmente,Regular,Nunca,Muy buena,Rara vez,A menudo,Rara vez,En desacuerdo
+67,Masculino,32,Primer semestre,Muy satisfecho,Ocasionalmente,Siempre,Siempre,Muy buena,Ocasionalmente,Regular,A menudo,A menudo,Siempre,Totalmente de acuerdo
+68,Masculino,22,Cuarto semestre,Insatisfecho,Nunca,Nunca,Nunca,Muy buena,Nunca,Regular,Nunca,Siempre,A menudo,Totalmente de acuerdo
+69,Femenino,36,Segundo semestre,Satisfecho,Nunca,Rara vez,Ocasionalmente,Regular,Ocasionalmente,Mala,Siempre,Rara vez,A menudo,Neutral
+70,Femenino,46,Cuarto semestre,Neutral,A menudo,A menudo,Rara vez,Mala,Nunca,Excelente,Ocasionalmente,Siempre,Nunca,Totalmente de acuerdo
+71,Femenino,32,Cuarto semestre,Muy satisfecho,Ocasionalmente,Ocasionalmente,Nunca,Regular,A menudo,Excelente,Ocasionalmente,Ocasionalmente,Nunca,Totalmente de acuerdo
+72,Femenino,51,Segundo semestre,Neutral,Rara vez,Nunca,Nunca,Mala,Siempre,Mala,Rara vez,Nunca,Nunca,En desacuerdo
+73,Femenino,32,Cuarto semestre,Muy insatisfecho,A menudo,Nunca,A menudo,Mala,Ocasionalmente,Buena,A menudo,Nunca,Rara vez,Neutral
+74,Masculino,19,Quinto Semestre,Muy satisfecho,Siempre,Siempre,A menudo,Excelente,Nunca,Buena,A menudo,Siempre,Nunca,Neutral
+75,Masculino,52,Primer semestre,Muy satisfecho,Siempre,Siempre,Rara vez,Muy buena,Rara vez,Regular,Siempre,A menudo,Siempre,En desacuerdo
+76,Femenino,25,Segundo semestre,Muy insatisfecho,Nunca,A menudo,Ocasionalmente,Buena,Nunca,Regular,A menudo,Nunca,Nunca,En desacuerdo
+77,Masculino,18,Primer semestre,Muy satisfecho,Ocasionalmente,Rara vez,A menudo,Mala,A menudo,Mala,A menudo,Rara vez,Nunca,De acuerdo en gran medida
+78,Femenino,22,Tercer semestre,Neutral,Nunca,A menudo,Nunca,Regular,Siempre,Regular,Nunca,Ocasionalmente,Ocasionalmente,Neutral
+79,Masculino,44,Tercer semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Mala,Rara vez,Buena,Rara vez,Siempre,Nunca,Totalmente de acuerdo
+80,Masculino,35,Primer semestre,Neutral,Siempre,Siempre,Siempre,Muy buena,Nunca,Buena,Siempre,A menudo,A menudo,Neutral
+81,Femenino,36,Tercer semestre,Muy insatisfecho,A menudo,A menudo,Rara vez,Buena,A menudo,Regular,Nunca,Siempre,A menudo,Totalmente de acuerdo
+82,Femenino,27,Cuarto semestre,Insatisfecho,Rara vez,A menudo,Ocasionalmente,Excelente,Siempre,Mala,Rara vez,Rara vez,Nunca,De acuerdo en gran medida
+83,Masculino,31,Tercer semestre,Satisfecho,A menudo,Ocasionalmente,Siempre,Excelente,Nunca,Regular,A menudo,Ocasionalmente,A menudo,Totalmente en desacuerdo
+84,Masculino,20,Segundo semestre,Muy satisfecho,Nunca,Nunca,A menudo,Buena,Siempre,Mala,Siempre,A menudo,Rara vez,En desacuerdo
+85,Masculino,42,Cuarto semestre,Satisfecho,Ocasionalmente,Rara vez,Ocasionalmente,Muy buena,Ocasionalmente,Mala,Ocasionalmente,Siempre,Rara vez,En desacuerdo
+86,Masculino,22,Segundo semestre,Muy insatisfecho,Rara vez,Ocasionalmente,A menudo,Mala,A menudo,Mala,A menudo,Siempre,Siempre,Totalmente en desacuerdo
+87,Femenino,50,Cuarto semestre,Insatisfecho,A menudo,A menudo,Siempre,Mala,Siempre,Regular,Siempre,Nunca,Rara vez,De acuerdo en gran medida
+88,Masculino,19,Tercer semestre,Insatisfecho,Nunca,Nunca,Siempre,Mala,Nunca,Regular,Rara vez,Rara vez,Siempre,En desacuerdo
+89,Masculino,28,Cuarto semestre,Muy satisfecho,Ocasionalmente,Nunca,A menudo,Excelente,Rara vez,Regular,Rara vez,Ocasionalmente,Ocasionalmente,Neutral
+90,Femenino,44,Segundo semestre,Muy insatisfecho,A menudo,Rara vez,Nunca,Excelente,Rara vez,Regular,Rara vez,Ocasionalmente,Rara vez,De acuerdo en gran medida
+91,Femenino,24,Segundo semestre,Muy insatisfecho,Ocasionalmente,Rara vez,Siempre,Regular,A menudo,Regular,Nunca,Siempre,Ocasionalmente,Totalmente en desacuerdo
+92,Masculino,20,Quinto Semestre,Muy satisfecho,Nunca,Siempre,Rara vez,Excelente,A menudo,Regular,Rara vez,Siempre,Rara vez,Neutral
+93,Femenino,50,Cuarto semestre,Muy insatisfecho,Rara vez,A menudo,Ocasionalmente,Regular,Siempre,Muy buena,Ocasionalmente,Ocasionalmente,Siempre,Totalmente en desacuerdo
+94,Masculino,49,Quinto Semestre,Muy satisfecho,A menudo,Ocasionalmente,Ocasionalmente,Muy buena,Nunca,Excelente,Ocasionalmente,Ocasionalmente,Rara vez,En desacuerdo
+95,Masculino,46,Primer semestre,Muy satisfecho,Siempre,Siempre,Nunca,Excelente,Siempre,Excelente,Nunca,Ocasionalmente,Ocasionalmente,Neutral
+96,Masculino,43,Segundo semestre,Muy satisfecho,Rara vez,A menudo,Ocasionalmente,Muy buena,Nunca,Muy buena,Siempre,Nunca,Siempre,Neutral
+97,Masculino,49,Cuarto semestre,Muy satisfecho,Nunca,Nunca,Nunca,Regular,Siempre,Buena,Nunca,Rara vez,A menudo,De acuerdo en gran medida
+98,Masculino,30,Tercer semestre,Insatisfecho,A menudo,Nunca,Ocasionalmente,Excelente,Ocasionalmente,Buena,Siempre,Nunca,Siempre,Totalmente de acuerdo
+99,Masculino,27,Primer semestre,Muy insatisfecho,A menudo,Rara vez,Ocasionalmente,Excelente,Ocasionalmente,Mala,Rara vez,Nunca,A menudo,Totalmente en desacuerdo
+100,Masculino,23,Tercer semestre,Satisfecho,A menudo,Nunca,Siempre,Muy buena,Nunca,Buena,Rara vez,A menudo,Nunca,En desacuerdo
+101,Masculino,47,Cuarto semestre,Muy insatisfecho,Siempre,Rara vez,A menudo,Buena,Ocasionalmente,Mala,Nunca,Siempre,Ocasionalmente,Totalmente en desacuerdo
+102,Femenino,26,Primer semestre,Muy insatisfecho,Nunca,A menudo,Ocasionalmente,Excelente,Rara vez,Regular,A menudo,Nunca,Nunca,Totalmente en desacuerdo
+103,Masculino,53,Primer semestre,Satisfecho,A menudo,A menudo,Siempre,Mala,Rara vez,Muy buena,Ocasionalmente,A menudo,A menudo,En desacuerdo
+104,Masculino,31,Primer semestre,Satisfecho,Nunca,Nunca,Siempre,Muy buena,Nunca,Buena,Rara vez,A menudo,Rara vez,En desacuerdo
+105,Masculino,47,Primer semestre,Muy satisfecho,Nunca,Rara vez,Siempre,Excelente,A menudo,Regular,Nunca,Nunca,Rara vez,En desacuerdo
+106,Masculino,24,Tercer semestre,Insatisfecho,Nunca,Nunca,A menudo,Excelente,Siempre,Excelente,A menudo,Rara vez,A menudo,Totalmente en desacuerdo
+107,Masculino,54,Segundo semestre,Satisfecho,Rara vez,Nunca,Nunca,Regular,Rara vez,Regular,Rara vez,Nunca,Siempre,De acuerdo en gran medida
+108,Femenino,51,Primer semestre,Insatisfecho,Rara vez,A menudo,A menudo,Buena,A menudo,Excelente,A menudo,Siempre,Rara vez,Totalmente en desacuerdo
+109,Masculino,37,Segundo semestre,Neutral,Siempre,Nunca,A menudo,Regular,Ocasionalmente,Muy buena,Siempre,Nunca,Nunca,En desacuerdo
+110,Masculino,36,Tercer semestre,Muy satisfecho,Ocasionalmente,A menudo,Nunca,Excelente,Nunca,Excelente,Nunca,Nunca,Rara vez,De acuerdo en gran medida
+111,Femenino,36,Primer semestre,Muy insatisfecho,Siempre,A menudo,Rara vez,Muy buena,A menudo,Excelente,Rara vez,Siempre,A menudo,Totalmente de acuerdo
+112,Masculino,17,Quinto Semestre,Satisfecho,Ocasionalmente,Siempre,Nunca,Excelente,Ocasionalmente,Muy buena,Ocasionalmente,Nunca,Siempre,En desacuerdo
+113,Masculino,31,Cuarto semestre,Muy insatisfecho,Rara vez,Nunca,Nunca,Mala,Nunca,Muy buena,Ocasionalmente,A menudo,Rara vez,Totalmente de acuerdo
+114,Femenino,37,Cuarto semestre,Muy insatisfecho,Rara vez,Ocasionalmente,A menudo,Muy buena,Rara vez,Muy buena,Nunca,Siempre,Nunca,Neutral
+115,Masculino,39,Primer semestre,Neutral,A menudo,Rara vez,Siempre,Muy buena,Siempre,Regular,Nunca,Nunca,Ocasionalmente,En desacuerdo
+116,Femenino,27,Segundo semestre,Muy satisfecho,A menudo,A menudo,Siempre,Mala,Siempre,Mala,Ocasionalmente,A menudo,Siempre,Totalmente de acuerdo
+117,Masculino,39,Primer semestre,Muy insatisfecho,Siempre,A menudo,Nunca,Buena,Rara vez,Mala,A menudo,Nunca,Nunca,Neutral
+118,Masculino,30,Tercer semestre,Muy satisfecho,Rara vez,Siempre,Ocasionalmente,Mala,A menudo,Buena,A menudo,Siempre,Nunca,En desacuerdo
+119,Masculino,47,Primer semestre,Muy insatisfecho,Nunca,Ocasionalmente,Rara vez,Mala,A menudo,Buena,Rara vez,Rara vez,Ocasionalmente,Totalmente en desacuerdo
+120,Femenino,53,Primer semestre,Neutral,A menudo,Nunca,A menudo,Excelente,A menudo,Mala,Ocasionalmente,Ocasionalmente,Siempre,Totalmente de acuerdo
+121,Masculino,20,Cuarto semestre,Muy insatisfecho,Ocasionalmente,Siempre,Rara vez,Regular,Siempre,Muy buena,Nunca,Ocasionalmente,Rara vez,Neutral
+122,Femenino,35,Primer semestre,Neutral,Rara vez,Siempre,Siempre,Regular,Ocasionalmente,Mala,Siempre,Rara vez,Siempre,En desacuerdo
+123,Femenino,48,Tercer semestre,Muy insatisfecho,Rara vez,A menudo,Rara vez,Buena,Siempre,Muy buena,Rara vez,Rara vez,Ocasionalmente,De acuerdo en gran medida
+124,Masculino,51,Cuarto semestre,Muy insatisfecho,Nunca,Ocasionalmente,A menudo,Muy buena,Nunca,Regular,A menudo,Siempre,Rara vez,De acuerdo en gran medida
+125,Masculino,30,Cuarto semestre,Muy satisfecho,A menudo,Nunca,Siempre,Regular,Nunca,Mala,Ocasionalmente,Nunca,A menudo,De acuerdo en gran medida
+126,Femenino,33,Segundo semestre,Neutral,Rara vez,Rara vez,Rara vez,Mala,Rara vez,Excelente,A menudo,Rara vez,Ocasionalmente,Totalmente en desacuerdo
+127,Masculino,27,Tercer semestre,Muy insatisfecho,Siempre,Nunca,Ocasionalmente,Mala,Rara vez,Excelente,Nunca,Siempre,Rara vez,De acuerdo en gran medida
+128,Masculino,37,Cuarto semestre,Muy insatisfecho,Siempre,Rara vez,Ocasionalmente,Regular,Siempre,Muy buena,Nunca,Ocasionalmente,Siempre,Totalmente de acuerdo
+129,Masculino,28,Quinto Semestre,Muy insatisfecho,Rara vez,Ocasionalmente,A menudo,Buena,Rara vez,Mala,Ocasionalmente,Rara vez,Siempre,Totalmente en desacuerdo
+130,Masculino,16,Tercer semestre,Muy satisfecho,A menudo,Nunca,A menudo,Buena,Rara vez,Mala,Ocasionalmente,Rara vez,Rara vez,De acuerdo en gran medida
+131,Masculino,42,Primer semestre,Muy insatisfecho,A menudo,Rara vez,Rara vez,Muy buena,Ocasionalmente,Buena,A menudo,A menudo,Siempre,Neutral
+132,Masculino,25,Quinto Semestre,Satisfecho,Siempre,Ocasionalmente,A menudo,Muy buena,Nunca,Buena,Ocasionalmente,Siempre,Ocasionalmente,Neutral
+133,Femenino,27,Tercer semestre,Muy satisfecho,Nunca,Nunca,Nunca,Excelente,A menudo,Muy buena,Nunca,Ocasionalmente,A menudo,De acuerdo en gran medida
+134,Masculino,17,Cuarto semestre,Muy insatisfecho,Ocasionalmente,A menudo,Ocasionalmente,Regular,A menudo,Buena,A menudo,Ocasionalmente,Ocasionalmente,De acuerdo en gran medida
+135,Masculino,52,Primer semestre,Insatisfecho,Nunca,Ocasionalmente,A menudo,Buena,Siempre,Mala,Ocasionalmente,Siempre,A menudo,En desacuerdo
+136,Masculino,49,Segundo semestre,Satisfecho,Nunca,Nunca,Siempre,Excelente,Siempre,Regular,Siempre,A menudo,Rara vez,Totalmente de acuerdo
+137,Masculino,51,Primer semestre,Muy satisfecho,A menudo,Ocasionalmente,Nunca,Excelente,Siempre,Regular,Rara vez,Rara vez,Siempre,De acuerdo en gran medida
+138,Femenino,23,Cuarto semestre,Muy satisfecho,Ocasionalmente,Nunca,A menudo,Mala,Ocasionalmente,Excelente,Ocasionalmente,A menudo,Nunca,De acuerdo en gran medida
+139,Femenino,50,Segundo semestre,Muy satisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Buena,A menudo,Mala,Rara vez,Ocasionalmente,Rara vez,De acuerdo en gran medida
+140,Masculino,55,Quinto Semestre,Insatisfecho,Nunca,Rara vez,A menudo,Regular,A menudo,Muy buena,Ocasionalmente,Siempre,Nunca,Totalmente en desacuerdo
+141,Masculino,26,Primer semestre,Muy satisfecho,A menudo,Rara vez,Nunca,Mala,Ocasionalmente,Muy buena,A menudo,A menudo,Siempre,Totalmente de acuerdo
+142,Masculino,49,Segundo semestre,Neutral,Ocasionalmente,A menudo,A menudo,Muy buena,A menudo,Buena,Rara vez,Siempre,A menudo,Totalmente en desacuerdo
+143,Femenino,17,Cuarto semestre,Satisfecho,Nunca,Ocasionalmente,A menudo,Buena,Rara vez,Muy buena,A menudo,Nunca,Siempre,De acuerdo en gran medida
+144,Femenino,52,Quinto Semestre,Neutral,Rara vez,Siempre,Rara vez,Buena,Rara vez,Mala,Nunca,Ocasionalmente,A menudo,En desacuerdo
+145,Masculino,49,Quinto Semestre,Neutral,Ocasionalmente,Rara vez,Rara vez,Muy buena,Siempre,Excelente,Nunca,Rara vez,A menudo,En desacuerdo
+146,Masculino,41,Segundo semestre,Muy satisfecho,A menudo,Ocasionalmente,Rara vez,Muy buena,Rara vez,Buena,Ocasionalmente,Nunca,A menudo,Neutral
+147,Masculino,20,Cuarto semestre,Satisfecho,Rara vez,Siempre,A menudo,Regular,Ocasionalmente,Mala,Ocasionalmente,A menudo,Rara vez,Totalmente de acuerdo
+148,Masculino,26,Tercer semestre,Insatisfecho,A menudo,Rara vez,Rara vez,Mala,Nunca,Mala,A menudo,Rara vez,Siempre,Neutral
+149,Masculino,47,Quinto Semestre,Insatisfecho,Nunca,Nunca,Nunca,Excelente,Rara vez,Muy buena,A menudo,Nunca,Ocasionalmente,En desacuerdo
+150,Femenino,26,Segundo semestre,Muy insatisfecho,Nunca,Rara vez,Siempre,Muy buena,Nunca,Muy buena,Siempre,Ocasionalmente,Ocasionalmente,Totalmente en desacuerdo
+151,Masculino,42,Segundo semestre,Muy satisfecho,Nunca,A menudo,Siempre,Mala,Siempre,Muy buena,Rara vez,Rara vez,Rara vez,Neutral
+152,Femenino,55,Quinto Semestre,Muy satisfecho,Ocasionalmente,Rara vez,Ocasionalmente,Regular,Ocasionalmente,Excelente,Siempre,Rara vez,Ocasionalmente,Neutral
+153,Masculino,46,Quinto Semestre,Satisfecho,Siempre,Nunca,Rara vez,Muy buena,Siempre,Regular,A menudo,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+154,Masculino,44,Primer semestre,Insatisfecho,Ocasionalmente,Ocasionalmente,A menudo,Muy buena,Ocasionalmente,Buena,Nunca,Rara vez,Ocasionalmente,De acuerdo en gran medida
+155,Masculino,39,Segundo semestre,Muy satisfecho,Ocasionalmente,Nunca,Siempre,Muy buena,A menudo,Muy buena,Siempre,A menudo,Nunca,Totalmente en desacuerdo
+156,Masculino,16,Tercer semestre,Muy insatisfecho,A menudo,Nunca,A menudo,Buena,Siempre,Regular,A menudo,Nunca,Rara vez,Totalmente en desacuerdo
+157,Femenino,30,Segundo semestre,Neutral,Ocasionalmente,A menudo,Ocasionalmente,Regular,Siempre,Regular,Nunca,Rara vez,Ocasionalmente,En desacuerdo
+158,Masculino,28,Tercer semestre,Neutral,Siempre,Ocasionalmente,Nunca,Buena,Siempre,Buena,Rara vez,Siempre,Ocasionalmente,En desacuerdo
+159,Masculino,25,Primer semestre,Insatisfecho,Nunca,Rara vez,Nunca,Regular,Ocasionalmente,Buena,A menudo,A menudo,A menudo,Totalmente de acuerdo
+160,Masculino,47,Cuarto semestre,Satisfecho,Rara vez,Nunca,Nunca,Excelente,Siempre,Mala,Siempre,Rara vez,A menudo,De acuerdo en gran medida
+161,Masculino,48,Tercer semestre,Muy insatisfecho,A menudo,A menudo,Nunca,Regular,Siempre,Buena,Rara vez,Nunca,Ocasionalmente,Neutral
+162,Femenino,31,Tercer semestre,Muy insatisfecho,Ocasionalmente,Nunca,Siempre,Regular,Nunca,Regular,Siempre,Rara vez,Nunca,Neutral
+163,Masculino,17,Primer semestre,Muy insatisfecho,Rara vez,Rara vez,A menudo,Buena,Ocasionalmente,Buena,Siempre,Nunca,Nunca,Totalmente en desacuerdo
+164,Femenino,41,Primer semestre,Muy satisfecho,Rara vez,Siempre,Ocasionalmente,Buena,Nunca,Regular,Rara vez,Ocasionalmente,Ocasionalmente,Totalmente en desacuerdo
+165,Femenino,26,Segundo semestre,Satisfecho,Ocasionalmente,A menudo,Siempre,Excelente,Siempre,Buena,Nunca,Nunca,Nunca,De acuerdo en gran medida
+166,Masculino,39,Segundo semestre,Insatisfecho,Nunca,Rara vez,Rara vez,Excelente,Rara vez,Mala,Siempre,Siempre,Siempre,De acuerdo en gran medida
+167,Femenino,30,Tercer semestre,Neutral,Rara vez,Ocasionalmente,Siempre,Regular,Rara vez,Excelente,Ocasionalmente,Ocasionalmente,Siempre,Totalmente en desacuerdo
+168,Femenino,38,Segundo semestre,Neutral,Siempre,A menudo,Ocasionalmente,Buena,A menudo,Buena,A menudo,Ocasionalmente,A menudo,Totalmente en desacuerdo
+169,Masculino,22,Quinto Semestre,Muy satisfecho,Rara vez,A menudo,Rara vez,Excelente,Siempre,Regular,Ocasionalmente,Ocasionalmente,Rara vez,Totalmente de acuerdo
+170,Masculino,30,Tercer semestre,Satisfecho,Nunca,Siempre,A menudo,Excelente,Rara vez,Buena,Siempre,Ocasionalmente,Rara vez,Neutral
+171,Masculino,23,Primer semestre,Insatisfecho,Nunca,Nunca,Ocasionalmente,Regular,Siempre,Excelente,Nunca,A menudo,Nunca,Totalmente de acuerdo
+172,Femenino,28,Cuarto semestre,Insatisfecho,Nunca,Ocasionalmente,Nunca,Excelente,Ocasionalmente,Excelente,Rara vez,Rara vez,Nunca,Neutral
+173,Masculino,43,Segundo semestre,Insatisfecho,Rara vez,A menudo,A menudo,Buena,Ocasionalmente,Mala,Siempre,Siempre,A menudo,Totalmente en desacuerdo
+174,Femenino,50,Primer semestre,Muy insatisfecho,A menudo,Ocasionalmente,Nunca,Muy buena,Ocasionalmente,Mala,Ocasionalmente,Siempre,Ocasionalmente,De acuerdo en gran medida
+175,Masculino,32,Quinto Semestre,Neutral,Ocasionalmente,Rara vez,Siempre,Regular,A menudo,Buena,A menudo,Nunca,A menudo,Totalmente en desacuerdo
+176,Femenino,30,Tercer semestre,Satisfecho,Ocasionalmente,A menudo,Siempre,Excelente,Siempre,Regular,Rara vez,A menudo,Ocasionalmente,De acuerdo en gran medida
+177,Femenino,40,Quinto Semestre,Insatisfecho,Ocasionalmente,Siempre,Nunca,Buena,Rara vez,Excelente,Nunca,Ocasionalmente,A menudo,En desacuerdo
+178,Femenino,35,Tercer semestre,Neutral,A menudo,Nunca,Siempre,Buena,A menudo,Excelente,Nunca,A menudo,A menudo,Totalmente de acuerdo
+179,Masculino,54,Primer semestre,Neutral,Ocasionalmente,Nunca,A menudo,Buena,Nunca,Excelente,A menudo,A menudo,Siempre,Totalmente en desacuerdo
+180,Masculino,54,Tercer semestre,Muy satisfecho,Nunca,Ocasionalmente,Nunca,Muy buena,Siempre,Excelente,Ocasionalmente,Ocasionalmente,Ocasionalmente,En desacuerdo
+181,Masculino,44,Tercer semestre,Insatisfecho,Nunca,A menudo,Ocasionalmente,Mala,Ocasionalmente,Buena,Ocasionalmente,Rara vez,Ocasionalmente,Totalmente en desacuerdo
+182,Masculino,38,Primer semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Nunca,Excelente,Ocasionalmente,Excelente,A menudo,Rara vez,Ocasionalmente,En desacuerdo
+183,Masculino,25,Quinto Semestre,Muy insatisfecho,Nunca,A menudo,Nunca,Excelente,A menudo,Regular,Ocasionalmente,Siempre,Siempre,En desacuerdo
+184,Masculino,17,Cuarto semestre,Neutral,A menudo,Siempre,Siempre,Excelente,A menudo,Excelente,Siempre,A menudo,A menudo,Totalmente de acuerdo
+185,Masculino,45,Tercer semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Nunca,Buena,Rara vez,Mala,Nunca,Rara vez,Nunca,De acuerdo en gran medida
+186,Femenino,30,Segundo semestre,Satisfecho,A menudo,A menudo,Nunca,Mala,Nunca,Mala,A menudo,Rara vez,Ocasionalmente,En desacuerdo
+187,Femenino,51,Primer semestre,Muy satisfecho,Rara vez,Rara vez,Rara vez,Excelente,Nunca,Buena,Ocasionalmente,Siempre,Siempre,En desacuerdo
+188,Femenino,55,Cuarto semestre,Insatisfecho,Rara vez,Ocasionalmente,A menudo,Mala,Siempre,Regular,Siempre,Siempre,Siempre,Totalmente de acuerdo
+189,Masculino,32,Cuarto semestre,Satisfecho,Siempre,Siempre,A menudo,Muy buena,Ocasionalmente,Regular,Siempre,Siempre,Nunca,En desacuerdo
+190,Femenino,38,Primer semestre,Satisfecho,Ocasionalmente,A menudo,Nunca,Excelente,Ocasionalmente,Regular,Nunca,A menudo,Nunca,En desacuerdo
+191,Masculino,20,Segundo semestre,Satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Buena,Siempre,Buena,Rara vez,Rara vez,Ocasionalmente,Totalmente de acuerdo
+192,Masculino,26,Segundo semestre,Neutral,A menudo,Nunca,Nunca,Muy buena,Nunca,Excelente,Rara vez,Siempre,Ocasionalmente,Neutral
+193,Masculino,28,Cuarto semestre,Insatisfecho,Siempre,Ocasionalmente,Rara vez,Buena,Ocasionalmente,Excelente,A menudo,Siempre,Rara vez,En desacuerdo
+194,Masculino,17,Cuarto semestre,Satisfecho,A menudo,Nunca,Siempre,Excelente,Siempre,Buena,Rara vez,Rara vez,Nunca,De acuerdo en gran medida
+195,Masculino,49,Primer semestre,Muy satisfecho,A menudo,Siempre,Rara vez,Mala,Rara vez,Regular,Nunca,A menudo,Nunca,Totalmente en desacuerdo
+196,Masculino,45,Primer semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Siempre,Buena,Rara vez,Regular,A menudo,Ocasionalmente,Rara vez,Neutral
+197,Femenino,44,Quinto Semestre,Muy insatisfecho,Rara vez,Rara vez,Rara vez,Mala,Nunca,Excelente,Rara vez,Rara vez,Rara vez,Totalmente de acuerdo
+198,Masculino,22,Quinto Semestre,Muy insatisfecho,Ocasionalmente,Nunca,Ocasionalmente,Buena,Rara vez,Regular,A menudo,Rara vez,Rara vez,Totalmente de acuerdo
+199,Femenino,18,Tercer semestre,Muy satisfecho,A menudo,A menudo,Rara vez,Excelente,Ocasionalmente,Mala,Ocasionalmente,Ocasionalmente,A menudo,De acuerdo en gran medida
+200,Masculino,54,Tercer semestre,Neutral,Nunca,Rara vez,Siempre,Buena,Ocasionalmente,Excelente,Ocasionalmente,Rara vez,Nunca,Totalmente de acuerdo
+201,Masculino,32,Primer semestre,Satisfecho,A menudo,Nunca,A menudo,Excelente,Nunca,Muy buena,A menudo,Ocasionalmente,A menudo,En desacuerdo
+202,Masculino,33,Cuarto semestre,Satisfecho,Rara vez,Nunca,Nunca,Buena,Siempre,Excelente,Siempre,Siempre,Nunca,Totalmente de acuerdo
+203,Masculino,48,Tercer semestre,Neutral,Ocasionalmente,Ocasionalmente,Nunca,Regular,Siempre,Muy buena,Nunca,Ocasionalmente,Siempre,De acuerdo en gran medida
+204,Femenino,45,Cuarto semestre,Neutral,Ocasionalmente,Ocasionalmente,Rara vez,Regular,A menudo,Muy buena,Nunca,Rara vez,A menudo,Totalmente de acuerdo
+205,Masculino,51,Tercer semestre,Muy satisfecho,A menudo,Nunca,Ocasionalmente,Excelente,Ocasionalmente,Excelente,Rara vez,Ocasionalmente,Siempre,En desacuerdo
+206,Masculino,38,Primer semestre,Satisfecho,A menudo,A menudo,Siempre,Regular,Rara vez,Buena,Siempre,Ocasionalmente,Ocasionalmente,De acuerdo en gran medida
+207,Femenino,52,Segundo semestre,Muy insatisfecho,A menudo,Ocasionalmente,Rara vez,Buena,Siempre,Buena,Ocasionalmente,Siempre,Rara vez,De acuerdo en gran medida
+208,Femenino,55,Quinto Semestre,Neutral,A menudo,Rara vez,Siempre,Regular,Nunca,Regular,Nunca,Ocasionalmente,Ocasionalmente,En desacuerdo
+209,Femenino,32,Tercer semestre,Satisfecho,A menudo,A menudo,Rara vez,Excelente,Siempre,Mala,Rara vez,Rara vez,A menudo,De acuerdo en gran medida
+210,Masculino,21,Tercer semestre,Satisfecho,Ocasionalmente,Siempre,Ocasionalmente,Regular,Rara vez,Excelente,A menudo,Nunca,Rara vez,En desacuerdo
+211,Femenino,39,Tercer semestre,Muy satisfecho,Nunca,Ocasionalmente,Siempre,Mala,Nunca,Muy buena,Rara vez,Nunca,Rara vez,Neutral
+212,Femenino,23,Tercer semestre,Satisfecho,Siempre,Rara vez,A menudo,Muy buena,Ocasionalmente,Mala,Siempre,Nunca,Rara vez,Totalmente en desacuerdo
+213,Masculino,52,Primer semestre,Neutral,Ocasionalmente,A menudo,A menudo,Buena,Siempre,Mala,Ocasionalmente,Siempre,A menudo,Neutral
+214,Masculino,38,Cuarto semestre,Neutral,Siempre,Ocasionalmente,Ocasionalmente,Buena,Nunca,Mala,A menudo,Ocasionalmente,Siempre,Totalmente de acuerdo
+215,Masculino,53,Quinto Semestre,Satisfecho,A menudo,Rara vez,Siempre,Excelente,Ocasionalmente,Mala,Ocasionalmente,Ocasionalmente,A menudo,Neutral
+216,Masculino,52,Quinto Semestre,Satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Mala,A menudo,Muy buena,Siempre,Nunca,Rara vez,Totalmente de acuerdo
+217,Masculino,51,Cuarto semestre,Muy insatisfecho,Rara vez,Rara vez,Rara vez,Regular,Rara vez,Mala,Siempre,Siempre,Nunca,Neutral
+218,Femenino,16,Primer semestre,Insatisfecho,A menudo,Rara vez,A menudo,Mala,A menudo,Buena,Nunca,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+219,Masculino,18,Segundo semestre,Insatisfecho,Nunca,Ocasionalmente,Ocasionalmente,Regular,Ocasionalmente,Buena,Rara vez,Siempre,Siempre,Totalmente en desacuerdo
+220,Femenino,53,Segundo semestre,Neutral,Nunca,A menudo,Siempre,Mala,Ocasionalmente,Excelente,A menudo,Siempre,Nunca,Totalmente de acuerdo
+221,Masculino,48,Segundo semestre,Muy satisfecho,Ocasionalmente,Nunca,Siempre,Excelente,Nunca,Excelente,Siempre,Rara vez,A menudo,Totalmente en desacuerdo
+222,Masculino,22,Segundo semestre,Neutral,A menudo,Rara vez,Ocasionalmente,Buena,Ocasionalmente,Excelente,A menudo,A menudo,Siempre,Totalmente de acuerdo
+223,Masculino,43,Primer semestre,Muy insatisfecho,A menudo,Siempre,Nunca,Muy buena,Nunca,Buena,Rara vez,Rara vez,Rara vez,Totalmente en desacuerdo
+224,Masculino,42,Quinto Semestre,Insatisfecho,Siempre,Nunca,Ocasionalmente,Excelente,Nunca,Excelente,Siempre,Rara vez,Rara vez,Totalmente de acuerdo
+225,Masculino,45,Quinto Semestre,Muy satisfecho,Rara vez,A menudo,Nunca,Excelente,Nunca,Regular,Ocasionalmente,A menudo,Siempre,En desacuerdo
+226,Masculino,19,Quinto Semestre,Insatisfecho,Rara vez,Rara vez,A menudo,Regular,Rara vez,Muy buena,A menudo,Rara vez,A menudo,Neutral
+227,Masculino,51,Tercer semestre,Neutral,Rara vez,Rara vez,Nunca,Buena,Ocasionalmente,Excelente,Siempre,A menudo,Nunca,Neutral
+228,Masculino,24,Tercer semestre,Muy satisfecho,A menudo,Siempre,Siempre,Regular,A menudo,Excelente,Nunca,A menudo,A menudo,De acuerdo en gran medida
+229,Masculino,23,Quinto Semestre,Muy satisfecho,Nunca,Nunca,Rara vez,Mala,Siempre,Mala,Nunca,A menudo,Siempre,De acuerdo en gran medida
+230,Masculino,33,Primer semestre,Muy insatisfecho,Ocasionalmente,A menudo,Rara vez,Mala,Nunca,Mala,Siempre,Nunca,Rara vez,Totalmente en desacuerdo
+231,Femenino,43,Cuarto semestre,Satisfecho,Ocasionalmente,Siempre,Rara vez,Buena,A menudo,Excelente,Siempre,Ocasionalmente,Nunca,En desacuerdo
+232,Masculino,39,Cuarto semestre,Satisfecho,Nunca,Ocasionalmente,Nunca,Regular,Rara vez,Buena,Rara vez,Nunca,Ocasionalmente,Neutral
+233,Masculino,29,Quinto Semestre,Neutral,Ocasionalmente,Nunca,A menudo,Muy buena,Siempre,Buena,Rara vez,Rara vez,A menudo,Totalmente en desacuerdo
+234,Masculino,43,Quinto Semestre,Muy insatisfecho,Ocasionalmente,Siempre,Rara vez,Excelente,Rara vez,Muy buena,Nunca,Ocasionalmente,Rara vez,Neutral
+235,Masculino,47,Primer semestre,Neutral,Siempre,Ocasionalmente,Nunca,Mala,A menudo,Regular,Ocasionalmente,Rara vez,Ocasionalmente,Totalmente en desacuerdo
+236,Masculino,21,Segundo semestre,Muy satisfecho,Ocasionalmente,Rara vez,Nunca,Excelente,Rara vez,Regular,Rara vez,Nunca,Siempre,Neutral
+237,Femenino,32,Tercer semestre,Insatisfecho,Siempre,Nunca,A menudo,Buena,Nunca,Muy buena,Ocasionalmente,Ocasionalmente,Siempre,Totalmente de acuerdo
+238,Masculino,27,Cuarto semestre,Insatisfecho,Siempre,Ocasionalmente,Siempre,Excelente,A menudo,Muy buena,Siempre,Ocasionalmente,Ocasionalmente,Neutral
+239,Masculino,43,Tercer semestre,Muy satisfecho,A menudo,Ocasionalmente,A menudo,Buena,Siempre,Muy buena,Siempre,Siempre,Siempre,Totalmente en desacuerdo
+240,Masculino,39,Segundo semestre,Muy satisfecho,Nunca,Rara vez,Rara vez,Buena,Siempre,Buena,A menudo,Nunca,Rara vez,Totalmente en desacuerdo
+241,Masculino,31,Segundo semestre,Muy insatisfecho,Nunca,Ocasionalmente,Rara vez,Excelente,Ocasionalmente,Regular,Ocasionalmente,Siempre,Nunca,Totalmente en desacuerdo
+242,Femenino,26,Quinto Semestre,Neutral,Rara vez,Nunca,Rara vez,Excelente,Siempre,Muy buena,Rara vez,Siempre,Rara vez,De acuerdo en gran medida
+243,Masculino,25,Tercer semestre,Muy satisfecho,Ocasionalmente,Nunca,Ocasionalmente,Muy buena,Nunca,Buena,A menudo,A menudo,Siempre,Totalmente en desacuerdo
+244,Masculino,34,Tercer semestre,Muy insatisfecho,Rara vez,A menudo,Siempre,Buena,A menudo,Muy buena,Ocasionalmente,A menudo,Rara vez,De acuerdo en gran medida
+245,Masculino,27,Segundo semestre,Muy satisfecho,Nunca,A menudo,Rara vez,Regular,Ocasionalmente,Buena,Siempre,Ocasionalmente,Ocasionalmente,Neutral
+246,Femenino,51,Quinto Semestre,Muy satisfecho,Rara vez,Nunca,Rara vez,Muy buena,Ocasionalmente,Mala,Siempre,Ocasionalmente,Nunca,De acuerdo en gran medida
+247,Masculino,38,Tercer semestre,Neutral,Rara vez,Nunca,Rara vez,Buena,Nunca,Mala,Nunca,Rara vez,Ocasionalmente,Totalmente en desacuerdo
+248,Femenino,19,Primer semestre,Insatisfecho,Nunca,Siempre,Ocasionalmente,Muy buena,Ocasionalmente,Buena,Nunca,Nunca,Siempre,Totalmente en desacuerdo
+249,Femenino,32,Segundo semestre,Muy satisfecho,Ocasionalmente,Siempre,Rara vez,Regular,Siempre,Mala,Ocasionalmente,Rara vez,Rara vez,De acuerdo en gran medida
+250,Femenino,49,Tercer semestre,Neutral,Siempre,A menudo,Nunca,Muy buena,Nunca,Excelente,A menudo,Nunca,Ocasionalmente,Totalmente de acuerdo
+251,Masculino,31,Tercer semestre,Neutral,Ocasionalmente,A menudo,Rara vez,Mala,Ocasionalmente,Mala,Rara vez,A menudo,Nunca,En desacuerdo
+252,Masculino,36,Primer semestre,Muy insatisfecho,A menudo,Siempre,Nunca,Buena,Rara vez,Muy buena,Nunca,A menudo,A menudo,De acuerdo en gran medida
+253,Masculino,20,Quinto Semestre,Satisfecho,Ocasionalmente,Siempre,Rara vez,Excelente,Siempre,Regular,Nunca,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+254,Masculino,34,Segundo semestre,Satisfecho,Nunca,Siempre,A menudo,Muy buena,Rara vez,Excelente,Rara vez,Nunca,Nunca,Neutral
+255,Masculino,44,Quinto Semestre,Muy satisfecho,A menudo,Rara vez,Nunca,Excelente,Siempre,Regular,A menudo,Ocasionalmente,Nunca,De acuerdo en gran medida
+256,Femenino,28,Quinto Semestre,Neutral,Ocasionalmente,Rara vez,Ocasionalmente,Buena,Siempre,Muy buena,Ocasionalmente,Siempre,Nunca,Totalmente de acuerdo
+257,Masculino,48,Primer semestre,Muy satisfecho,Siempre,Siempre,Siempre,Mala,Nunca,Muy buena,Rara vez,Rara vez,Nunca,En desacuerdo
+258,Femenino,24,Primer semestre,Satisfecho,Ocasionalmente,Siempre,Nunca,Excelente,A menudo,Mala,Siempre,Nunca,Ocasionalmente,En desacuerdo
+259,Masculino,20,Quinto Semestre,Muy satisfecho,A menudo,Rara vez,Nunca,Mala,Ocasionalmente,Mala,Rara vez,Rara vez,Nunca,Neutral
+260,Masculino,17,Segundo semestre,Insatisfecho,Nunca,Nunca,Ocasionalmente,Mala,Ocasionalmente,Mala,Nunca,Nunca,A menudo,En desacuerdo
+261,Masculino,30,Segundo semestre,Neutral,Ocasionalmente,Nunca,Ocasionalmente,Mala,Rara vez,Regular,Nunca,Siempre,Siempre,Totalmente de acuerdo
+262,Masculino,52,Cuarto semestre,Satisfecho,A menudo,Nunca,Rara vez,Regular,Siempre,Mala,Ocasionalmente,A menudo,Siempre,Totalmente en desacuerdo
+263,Femenino,47,Tercer semestre,Neutral,A menudo,A menudo,Rara vez,Excelente,Nunca,Mala,Ocasionalmente,Siempre,A menudo,Neutral
+264,Masculino,23,Primer semestre,Neutral,Siempre,Siempre,Siempre,Buena,A menudo,Buena,Rara vez,Ocasionalmente,Rara vez,De acuerdo en gran medida
+265,Masculino,16,Quinto Semestre,Muy insatisfecho,Siempre,Rara vez,A menudo,Regular,Rara vez,Excelente,Rara vez,Nunca,Nunca,En desacuerdo
+266,Masculino,17,Quinto Semestre,Neutral,Siempre,Rara vez,Nunca,Buena,A menudo,Regular,Nunca,A menudo,Nunca,De acuerdo en gran medida
+267,Femenino,46,Tercer semestre,Satisfecho,Rara vez,Rara vez,Ocasionalmente,Mala,Nunca,Regular,A menudo,Nunca,Nunca,Neutral
+268,Femenino,24,Quinto Semestre,Muy satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Buena,Nunca,Excelente,Nunca,Nunca,Rara vez,En desacuerdo
+269,Masculino,32,Tercer semestre,Muy insatisfecho,A menudo,Rara vez,Rara vez,Excelente,A menudo,Buena,Siempre,Rara vez,Siempre,Neutral
+270,Femenino,38,Primer semestre,Muy satisfecho,Siempre,Rara vez,Nunca,Muy buena,Rara vez,Buena,Nunca,A menudo,Siempre,De acuerdo en gran medida
+271,Masculino,55,Cuarto semestre,Muy insatisfecho,Ocasionalmente,Ocasionalmente,Rara vez,Mala,Nunca,Mala,Rara vez,A menudo,Nunca,Neutral
+272,Femenino,45,Primer semestre,Muy satisfecho,Rara vez,A menudo,A menudo,Muy buena,A menudo,Buena,Rara vez,Ocasionalmente,Nunca,Totalmente de acuerdo
+273,Masculino,55,Primer semestre,Neutral,Ocasionalmente,Nunca,Nunca,Mala,A menudo,Regular,Ocasionalmente,Siempre,Ocasionalmente,De acuerdo en gran medida
+274,Masculino,51,Segundo semestre,Neutral,Nunca,Siempre,Siempre,Regular,A menudo,Buena,A menudo,A menudo,Ocasionalmente,En desacuerdo
+275,Masculino,39,Primer semestre,Muy insatisfecho,Siempre,Rara vez,Ocasionalmente,Buena,Siempre,Excelente,Nunca,Rara vez,Rara vez,Neutral
+276,Masculino,38,Primer semestre,Insatisfecho,A menudo,Ocasionalmente,Rara vez,Buena,Rara vez,Mala,A menudo,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+277,Masculino,40,Quinto Semestre,Muy insatisfecho,A menudo,Rara vez,Rara vez,Mala,A menudo,Mala,A menudo,Rara vez,Nunca,Totalmente de acuerdo
+278,Masculino,20,Segundo semestre,Muy satisfecho,Nunca,Rara vez,Siempre,Mala,A menudo,Muy buena,Rara vez,A menudo,Nunca,Neutral
+279,Masculino,23,Cuarto semestre,Satisfecho,A menudo,A menudo,Siempre,Buena,Siempre,Excelente,Nunca,Ocasionalmente,Siempre,Totalmente en desacuerdo
+280,Masculino,23,Tercer semestre,Insatisfecho,Siempre,Rara vez,A menudo,Muy buena,Nunca,Regular,Nunca,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+281,Masculino,45,Primer semestre,Insatisfecho,Ocasionalmente,Rara vez,A menudo,Mala,Ocasionalmente,Regular,Ocasionalmente,Rara vez,Nunca,Neutral
+282,Masculino,30,Primer semestre,Muy insatisfecho,A menudo,A menudo,Nunca,Excelente,Nunca,Regular,Siempre,Rara vez,Rara vez,Totalmente de acuerdo
+283,Masculino,52,Tercer semestre,Muy insatisfecho,A menudo,Nunca,A menudo,Mala,A menudo,Buena,Siempre,Nunca,A menudo,Totalmente de acuerdo
+284,Femenino,18,Segundo semestre,Neutral,Rara vez,Rara vez,A menudo,Buena,Rara vez,Excelente,Nunca,Rara vez,Ocasionalmente,Neutral
+285,Masculino,41,Quinto Semestre,Muy satisfecho,A menudo,Ocasionalmente,Rara vez,Mala,Ocasionalmente,Mala,Ocasionalmente,A menudo,Ocasionalmente,Totalmente en desacuerdo
+286,Femenino,40,Tercer semestre,Satisfecho,Rara vez,A menudo,Rara vez,Mala,Ocasionalmente,Muy buena,Nunca,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+287,Masculino,47,Quinto Semestre,Satisfecho,Rara vez,Rara vez,Nunca,Regular,Nunca,Muy buena,Rara vez,Nunca,Siempre,Totalmente en desacuerdo
+288,Masculino,31,Cuarto semestre,Muy satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Muy buena,Ocasionalmente,Excelente,Nunca,A menudo,A menudo,Neutral
+289,Femenino,40,Cuarto semestre,Insatisfecho,Nunca,Rara vez,Rara vez,Excelente,Rara vez,Mala,Siempre,A menudo,A menudo,Totalmente en desacuerdo
+290,Femenino,22,Primer semestre,Satisfecho,Nunca,Nunca,Nunca,Regular,Siempre,Buena,Nunca,A menudo,A menudo,Totalmente de acuerdo
+291,Masculino,32,Quinto Semestre,Satisfecho,Nunca,A menudo,Nunca,Excelente,Nunca,Mala,Nunca,Siempre,Ocasionalmente,De acuerdo en gran medida
+292,Femenino,37,Tercer semestre,Satisfecho,Siempre,Siempre,Siempre,Excelente,Nunca,Mala,Rara vez,Ocasionalmente,Nunca,Totalmente en desacuerdo
+293,Femenino,41,Tercer semestre,Neutral,Rara vez,Siempre,Nunca,Excelente,Ocasionalmente,Excelente,Nunca,Nunca,Nunca,Totalmente de acuerdo
+294,Femenino,52,Cuarto semestre,Neutral,A menudo,A menudo,Nunca,Regular,Ocasionalmente,Regular,Nunca,Siempre,Ocasionalmente,Totalmente de acuerdo
+295,Femenino,20,Primer semestre,Muy insatisfecho,Siempre,Ocasionalmente,Siempre,Muy buena,Nunca,Buena,Nunca,Nunca,Rara vez,En desacuerdo
+296,Femenino,52,Cuarto semestre,Muy insatisfecho,Siempre,A menudo,Nunca,Mala,Ocasionalmente,Mala,Siempre,Ocasionalmente,A menudo,De acuerdo en gran medida
+297,Masculino,18,Segundo semestre,Muy insatisfecho,Rara vez,A menudo,Rara vez,Regular,Siempre,Excelente,Ocasionalmente,Rara vez,Nunca,Totalmente de acuerdo
+298,Masculino,48,Segundo semestre,Neutral,Rara vez,Siempre,A menudo,Regular,Nunca,Muy buena,Ocasionalmente,Rara vez,Siempre,Neutral
+299,Femenino,44,Cuarto semestre,Muy satisfecho,Ocasionalmente,Rara vez,Siempre,Buena,Ocasionalmente,Mala,Ocasionalmente,Rara vez,Ocasionalmente,Totalmente de acuerdo
+300,Masculino,19,Cuarto semestre,Neutral,A menudo,Siempre,Rara vez,Regular,A menudo,Excelente,A menudo,Rara vez,Siempre,De acuerdo en gran medida
+301,Femenino,41,Segundo semestre,Neutral,Ocasionalmente,Siempre,A menudo,Excelente,A menudo,Regular,A menudo,A menudo,Rara vez,De acuerdo en gran medida
+302,Masculino,27,Segundo semestre,Muy insatisfecho,Rara vez,Nunca,Nunca,Mala,Ocasionalmente,Buena,Rara vez,A menudo,A menudo,Totalmente de acuerdo
+303,Masculino,19,Tercer semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Rara vez,Regular,Siempre,Mala,Ocasionalmente,A menudo,Nunca,En desacuerdo
+304,Masculino,41,Primer semestre,Insatisfecho,Rara vez,Nunca,A menudo,Buena,Nunca,Mala,A menudo,Ocasionalmente,Rara vez,En desacuerdo
+305,Masculino,41,Cuarto semestre,Muy insatisfecho,Nunca,Ocasionalmente,Rara vez,Buena,Siempre,Muy buena,Siempre,A menudo,Siempre,De acuerdo en gran medida
+306,Femenino,16,Primer semestre,Muy satisfecho,Rara vez,Nunca,Ocasionalmente,Mala,Nunca,Muy buena,Ocasionalmente,Ocasionalmente,Siempre,Neutral
+307,Masculino,39,Tercer semestre,Satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Buena,Siempre,Muy buena,Ocasionalmente,Ocasionalmente,Ocasionalmente,En desacuerdo
+308,Masculino,24,Tercer semestre,Satisfecho,A menudo,A menudo,A menudo,Regular,Siempre,Mala,Rara vez,Rara vez,A menudo,Totalmente en desacuerdo
+309,Femenino,48,Segundo semestre,Muy insatisfecho,Rara vez,A menudo,Rara vez,Muy buena,Ocasionalmente,Mala,Ocasionalmente,Nunca,Nunca,En desacuerdo
+310,Masculino,20,Segundo semestre,Neutral,Rara vez,Siempre,Nunca,Muy buena,Siempre,Mala,Siempre,A menudo,A menudo,Totalmente de acuerdo
+311,Masculino,17,Segundo semestre,Muy insatisfecho,Rara vez,Nunca,Siempre,Mala,A menudo,Muy buena,Siempre,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+312,Masculino,36,Primer semestre,Muy insatisfecho,Nunca,Siempre,Nunca,Regular,Siempre,Regular,Nunca,Siempre,Rara vez,De acuerdo en gran medida
+313,Masculino,32,Primer semestre,Insatisfecho,Ocasionalmente,Rara vez,A menudo,Muy buena,Nunca,Muy buena,Nunca,Nunca,Rara vez,Neutral
+314,Masculino,54,Quinto Semestre,Insatisfecho,Nunca,Ocasionalmente,Ocasionalmente,Regular,Nunca,Mala,Nunca,A menudo,Ocasionalmente,Neutral
+315,Masculino,52,Quinto Semestre,Satisfecho,A menudo,Rara vez,Siempre,Excelente,Rara vez,Mala,Rara vez,Ocasionalmente,Siempre,En desacuerdo
+316,Femenino,55,Quinto Semestre,Muy insatisfecho,Nunca,A menudo,Siempre,Muy buena,Ocasionalmente,Muy buena,Nunca,Rara vez,Siempre,Totalmente de acuerdo
+317,Masculino,31,Tercer semestre,Insatisfecho,A menudo,Rara vez,Ocasionalmente,Regular,Siempre,Excelente,Ocasionalmente,A menudo,Rara vez,Neutral
+318,Masculino,35,Quinto Semestre,Neutral,A menudo,A menudo,A menudo,Muy buena,Siempre,Buena,Rara vez,Nunca,Rara vez,De acuerdo en gran medida
+319,Masculino,45,Segundo semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Ocasionalmente,Regular,A menudo,Excelente,Rara vez,Siempre,Nunca,De acuerdo en gran medida
+320,Femenino,34,Segundo semestre,Neutral,Nunca,Siempre,Nunca,Mala,Rara vez,Buena,Nunca,A menudo,Siempre,En desacuerdo
+321,Masculino,44,Primer semestre,Muy insatisfecho,Siempre,Ocasionalmente,A menudo,Mala,Siempre,Buena,Siempre,Ocasionalmente,Rara vez,Totalmente de acuerdo
+322,Femenino,51,Cuarto semestre,Insatisfecho,Siempre,A menudo,Nunca,Regular,A menudo,Mala,Rara vez,Nunca,Ocasionalmente,Totalmente de acuerdo
+323,Masculino,53,Cuarto semestre,Muy satisfecho,Siempre,Siempre,Rara vez,Regular,Nunca,Regular,Rara vez,A menudo,Rara vez,Totalmente en desacuerdo
+324,Femenino,23,Primer semestre,Muy insatisfecho,Rara vez,Rara vez,A menudo,Muy buena,Nunca,Muy buena,Nunca,Ocasionalmente,Siempre,En desacuerdo
+325,Masculino,16,Cuarto semestre,Muy satisfecho,A menudo,Rara vez,Rara vez,Muy buena,A menudo,Excelente,Ocasionalmente,Ocasionalmente,Ocasionalmente,En desacuerdo
+326,Masculino,48,Cuarto semestre,Neutral,Nunca,Nunca,Ocasionalmente,Excelente,A menudo,Buena,A menudo,Nunca,Rara vez,Neutral
+327,Masculino,17,Primer semestre,Muy satisfecho,Ocasionalmente,Siempre,Rara vez,Muy buena,Rara vez,Regular,Nunca,Siempre,A menudo,Neutral
+328,Masculino,23,Tercer semestre,Satisfecho,Nunca,A menudo,Rara vez,Excelente,Siempre,Regular,Ocasionalmente,A menudo,Siempre,De acuerdo en gran medida
+329,Femenino,32,Quinto Semestre,Neutral,Ocasionalmente,Nunca,Ocasionalmente,Buena,Nunca,Excelente,A menudo,Nunca,Nunca,De acuerdo en gran medida
+330,Femenino,35,Quinto Semestre,Muy insatisfecho,A menudo,Ocasionalmente,Siempre,Regular,Siempre,Regular,Rara vez,Ocasionalmente,Nunca,Totalmente de acuerdo
+331,Femenino,53,Tercer semestre,Neutral,Siempre,A menudo,Rara vez,Muy buena,Siempre,Mala,A menudo,A menudo,Siempre,Totalmente de acuerdo
+332,Masculino,38,Quinto Semestre,Muy insatisfecho,A menudo,Rara vez,Rara vez,Regular,A menudo,Buena,A menudo,Ocasionalmente,Ocasionalmente,De acuerdo en gran medida
+333,Femenino,54,Tercer semestre,Insatisfecho,Rara vez,Siempre,Nunca,Buena,Ocasionalmente,Regular,Nunca,Siempre,Nunca,Totalmente en desacuerdo
+334,Femenino,18,Tercer semestre,Muy satisfecho,Siempre,Nunca,Siempre,Buena,Ocasionalmente,Regular,Siempre,A menudo,Siempre,Totalmente de acuerdo
+335,Femenino,36,Cuarto semestre,Muy insatisfecho,Siempre,Rara vez,Ocasionalmente,Buena,Ocasionalmente,Regular,A menudo,Rara vez,Ocasionalmente,Totalmente de acuerdo
+336,Femenino,24,Cuarto semestre,Muy insatisfecho,A menudo,Siempre,Rara vez,Excelente,Nunca,Buena,Rara vez,Siempre,A menudo,Neutral
+337,Femenino,18,Tercer semestre,Muy satisfecho,Siempre,Ocasionalmente,Siempre,Excelente,A menudo,Muy buena,Siempre,Ocasionalmente,Ocasionalmente,En desacuerdo
+338,Masculino,25,Tercer semestre,Satisfecho,Ocasionalmente,Rara vez,Rara vez,Buena,Ocasionalmente,Buena,Ocasionalmente,A menudo,A menudo,De acuerdo en gran medida
+339,Femenino,26,Quinto Semestre,Insatisfecho,Rara vez,Siempre,Rara vez,Buena,Ocasionalmente,Buena,Nunca,A menudo,A menudo,Neutral
+340,Femenino,49,Cuarto semestre,Muy insatisfecho,Siempre,A menudo,A menudo,Regular,A menudo,Excelente,Siempre,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+341,Femenino,19,Cuarto semestre,Satisfecho,Ocasionalmente,Rara vez,Siempre,Regular,Rara vez,Regular,Ocasionalmente,Ocasionalmente,Ocasionalmente,Neutral
+342,Femenino,44,Primer semestre,Muy insatisfecho,Rara vez,A menudo,Ocasionalmente,Muy buena,A menudo,Mala,Nunca,Nunca,Nunca,Neutral
+343,Femenino,34,Quinto Semestre,Insatisfecho,Siempre,A menudo,Nunca,Excelente,Nunca,Mala,Siempre,Nunca,Siempre,Totalmente de acuerdo
+344,Femenino,41,Cuarto semestre,Muy satisfecho,A menudo,Siempre,A menudo,Muy buena,Nunca,Mala,Rara vez,Siempre,A menudo,Totalmente en desacuerdo
+345,Femenino,19,Cuarto semestre,Muy satisfecho,Ocasionalmente,Nunca,A menudo,Excelente,A menudo,Muy buena,A menudo,Rara vez,Nunca,Totalmente de acuerdo
+346,Femenino,33,Primer semestre,Satisfecho,Rara vez,Rara vez,Nunca,Regular,Rara vez,Regular,Siempre,A menudo,Ocasionalmente,Neutral
+347,Femenino,49,Quinto Semestre,Satisfecho,Nunca,Siempre,Rara vez,Regular,Siempre,Excelente,Siempre,Nunca,Rara vez,De acuerdo en gran medida
+348,Masculino,49,Tercer semestre,Neutral,A menudo,Ocasionalmente,Ocasionalmente,Mala,Rara vez,Buena,Rara vez,Siempre,A menudo,En desacuerdo
+349,Femenino,36,Quinto Semestre,Neutral,Ocasionalmente,Nunca,Ocasionalmente,Buena,Siempre,Buena,Siempre,Siempre,A menudo,Neutral
+350,Masculino,17,Tercer semestre,Muy satisfecho,Rara vez,Siempre,Siempre,Regular,Rara vez,Regular,Siempre,Rara vez,Nunca,Totalmente en desacuerdo
+351,Femenino,24,Tercer semestre,Satisfecho,Rara vez,A menudo,Rara vez,Excelente,Nunca,Muy buena,Siempre,Nunca,Nunca,En desacuerdo
+352,Femenino,45,Primer semestre,Neutral,Nunca,Ocasionalmente,Nunca,Mala,Ocasionalmente,Mala,Siempre,Ocasionalmente,Rara vez,De acuerdo en gran medida
+353,Femenino,55,Tercer semestre,Muy satisfecho,Rara vez,Rara vez,Ocasionalmente,Muy buena,Ocasionalmente,Muy buena,Nunca,A menudo,Ocasionalmente,Totalmente en desacuerdo
+354,Masculino,33,Tercer semestre,Satisfecho,Rara vez,Ocasionalmente,Nunca,Muy buena,Siempre,Buena,Rara vez,Ocasionalmente,Rara vez,En desacuerdo
+355,Femenino,52,Cuarto semestre,Insatisfecho,Ocasionalmente,Ocasionalmente,Ocasionalmente,Mala,Ocasionalmente,Buena,Ocasionalmente,Rara vez,Nunca,Totalmente en desacuerdo
+356,Femenino,47,Segundo semestre,Muy satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Muy buena,Siempre,Regular,Nunca,A menudo,Siempre,En desacuerdo
+357,Femenino,43,Primer semestre,Insatisfecho,A menudo,Nunca,Ocasionalmente,Regular,A menudo,Regular,Nunca,Nunca,Ocasionalmente,En desacuerdo
+358,Masculino,24,Primer semestre,Neutral,A menudo,A menudo,A menudo,Muy buena,A menudo,Mala,A menudo,Siempre,Siempre,Totalmente de acuerdo
+359,Masculino,51,Primer semestre,Neutral,Siempre,Nunca,A menudo,Mala,Nunca,Regular,Rara vez,A menudo,Ocasionalmente,Totalmente de acuerdo
+360,Femenino,19,Quinto Semestre,Satisfecho,Nunca,Siempre,Rara vez,Buena,Nunca,Regular,A menudo,Siempre,Siempre,De acuerdo en gran medida
+361,Femenino,17,Tercer semestre,Muy satisfecho,Rara vez,Nunca,A menudo,Excelente,Ocasionalmente,Regular,Rara vez,Siempre,Ocasionalmente,Neutral
+362,Femenino,55,Tercer semestre,Muy insatisfecho,Ocasionalmente,Rara vez,Ocasionalmente,Buena,Rara vez,Mala,Rara vez,Siempre,Ocasionalmente,Totalmente en desacuerdo
+363,Masculino,32,Cuarto semestre,Insatisfecho,Ocasionalmente,Nunca,A menudo,Excelente,Rara vez,Mala,Siempre,Ocasionalmente,Nunca,Totalmente de acuerdo
+364,Femenino,30,Cuarto semestre,Insatisfecho,Ocasionalmente,Siempre,A menudo,Regular,Nunca,Excelente,A menudo,Ocasionalmente,Nunca,Neutral
+365,Femenino,51,Tercer semestre,Neutral,Siempre,Siempre,Rara vez,Muy buena,Rara vez,Excelente,Rara vez,Nunca,A menudo,Totalmente de acuerdo
+366,Femenino,23,Quinto Semestre,Insatisfecho,Nunca,Siempre,A menudo,Mala,A menudo,Buena,Nunca,Rara vez,Ocasionalmente,Neutral
+367,Masculino,40,Quinto Semestre,Muy satisfecho,A menudo,Rara vez,Siempre,Buena,Ocasionalmente,Muy buena,Rara vez,A menudo,Ocasionalmente,Neutral
+368,Masculino,40,Quinto Semestre,Insatisfecho,Rara vez,Nunca,Rara vez,Buena,Nunca,Muy buena,A menudo,Nunca,Rara vez,En desacuerdo
+369,Masculino,19,Primer semestre,Muy insatisfecho,Siempre,Ocasionalmente,Ocasionalmente,Excelente,A menudo,Excelente,Ocasionalmente,Siempre,Rara vez,Neutral
+370,Femenino,45,Cuarto semestre,Satisfecho,Rara vez,Rara vez,Siempre,Mala,Ocasionalmente,Excelente,Rara vez,Rara vez,Ocasionalmente,Neutral
+371,Masculino,39,Cuarto semestre,Insatisfecho,Siempre,Ocasionalmente,A menudo,Buena,Siempre,Mala,Siempre,Siempre,Siempre,Totalmente en desacuerdo
+372,Masculino,43,Segundo semestre,Satisfecho,A menudo,Rara vez,A menudo,Muy buena,Siempre,Excelente,A menudo,A menudo,Rara vez,En desacuerdo
+373,Femenino,37,Cuarto semestre,Neutral,Nunca,Ocasionalmente,Siempre,Buena,Siempre,Excelente,Nunca,Rara vez,Rara vez,Totalmente en desacuerdo
+374,Femenino,48,Segundo semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Nunca,Muy buena,A menudo,Mala,Siempre,Nunca,Siempre,Totalmente de acuerdo
+375,Femenino,40,Segundo semestre,Muy satisfecho,Siempre,Rara vez,Ocasionalmente,Regular,A menudo,Regular,Ocasionalmente,Ocasionalmente,Nunca,De acuerdo en gran medida
+376,Femenino,30,Segundo semestre,Muy insatisfecho,Rara vez,Siempre,Siempre,Regular,A menudo,Muy buena,Nunca,Rara vez,Rara vez,De acuerdo en gran medida
+377,Masculino,42,Primer semestre,Muy insatisfecho,A menudo,A menudo,Siempre,Muy buena,A menudo,Excelente,A menudo,Rara vez,Siempre,De acuerdo en gran medida
+378,Femenino,19,Primer semestre,Satisfecho,Ocasionalmente,Siempre,Rara vez,Mala,Nunca,Regular,Nunca,Nunca,Nunca,Totalmente de acuerdo
+379,Femenino,23,Cuarto semestre,Muy insatisfecho,Ocasionalmente,Ocasionalmente,Nunca,Regular,Ocasionalmente,Regular,Rara vez,Rara vez,Nunca,Totalmente de acuerdo
+380,Femenino,55,Cuarto semestre,Insatisfecho,Rara vez,Rara vez,Siempre,Mala,Ocasionalmente,Buena,Siempre,Nunca,Siempre,En desacuerdo
+381,Femenino,40,Quinto Semestre,Satisfecho,Ocasionalmente,Nunca,Rara vez,Regular,Siempre,Excelente,Ocasionalmente,Nunca,Ocasionalmente,Neutral
+382,Masculino,37,Quinto Semestre,Insatisfecho,Siempre,Rara vez,Ocasionalmente,Regular,Nunca,Mala,Rara vez,Siempre,Rara vez,En desacuerdo
+383,Masculino,45,Tercer semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Buena,Ocasionalmente,Mala,Siempre,A menudo,Ocasionalmente,Neutral
+384,Masculino,32,Primer semestre,Insatisfecho,Nunca,Nunca,Ocasionalmente,Muy buena,A menudo,Buena,Nunca,Ocasionalmente,Siempre,Totalmente de acuerdo
+385,Masculino,41,Segundo semestre,Satisfecho,A menudo,Nunca,A menudo,Regular,Ocasionalmente,Muy buena,Siempre,Siempre,Siempre,En desacuerdo
+386,Masculino,25,Segundo semestre,Muy satisfecho,Rara vez,A menudo,Rara vez,Excelente,Nunca,Muy buena,Ocasionalmente,Ocasionalmente,A menudo,Neutral
+387,Femenino,34,Tercer semestre,Muy insatisfecho,A menudo,Siempre,Rara vez,Muy buena,Ocasionalmente,Buena,Rara vez,Rara vez,Rara vez,De acuerdo en gran medida
+388,Femenino,39,Quinto Semestre,Muy insatisfecho,Nunca,Ocasionalmente,Siempre,Regular,Ocasionalmente,Excelente,Ocasionalmente,Siempre,Siempre,Totalmente de acuerdo
+389,Masculino,20,Tercer semestre,Muy satisfecho,Siempre,Ocasionalmente,A menudo,Regular,Ocasionalmente,Mala,Siempre,A menudo,Siempre,Neutral
+390,Femenino,35,Tercer semestre,Muy insatisfecho,Ocasionalmente,Ocasionalmente,Rara vez,Excelente,Siempre,Buena,A menudo,Rara vez,Ocasionalmente,Totalmente de acuerdo
+391,Femenino,30,Quinto Semestre,Insatisfecho,Ocasionalmente,Rara vez,Nunca,Mala,Siempre,Regular,Ocasionalmente,Ocasionalmente,A menudo,Totalmente en desacuerdo
+392,Masculino,39,Tercer semestre,Insatisfecho,Nunca,A menudo,Siempre,Mala,Rara vez,Buena,A menudo,Ocasionalmente,Nunca,De acuerdo en gran medida
+393,Masculino,41,Primer semestre,Muy satisfecho,Nunca,Ocasionalmente,Ocasionalmente,Muy buena,Siempre,Excelente,Siempre,Siempre,Nunca,Neutral
+394,Masculino,29,Cuarto semestre,Muy insatisfecho,A menudo,Siempre,Nunca,Muy buena,Nunca,Muy buena,Ocasionalmente,Siempre,Rara vez,Totalmente de acuerdo
+395,Masculino,55,Tercer semestre,Insatisfecho,Siempre,Rara vez,A menudo,Buena,Siempre,Buena,Siempre,Nunca,Nunca,Totalmente de acuerdo
+396,Femenino,44,Tercer semestre,Satisfecho,Rara vez,A menudo,Nunca,Mala,A menudo,Buena,A menudo,Siempre,A menudo,Neutral
+397,Masculino,23,Segundo semestre,Neutral,Nunca,Rara vez,Ocasionalmente,Excelente,Siempre,Muy buena,Rara vez,A menudo,A menudo,Totalmente de acuerdo
+398,Femenino,40,Primer semestre,Muy satisfecho,Siempre,Siempre,Siempre,Mala,Siempre,Muy buena,Rara vez,A menudo,A menudo,Neutral
+399,Masculino,37,Primer semestre,Muy satisfecho,Rara vez,Rara vez,Siempre,Muy buena,Ocasionalmente,Regular,Ocasionalmente,Ocasionalmente,Siempre,Neutral
+400,Masculino,44,Segundo semestre,Muy satisfecho,A menudo,Ocasionalmente,Nunca,Regular,Nunca,Muy buena,Ocasionalmente,A menudo,Ocasionalmente,En desacuerdo
+401,Femenino,20,Cuarto semestre,Neutral,Nunca,A menudo,Ocasionalmente,Muy buena,Ocasionalmente,Buena,Ocasionalmente,Siempre,Rara vez,Totalmente de acuerdo
+402,Femenino,21,Cuarto semestre,Muy satisfecho,Siempre,A menudo,Rara vez,Excelente,Ocasionalmente,Excelente,A menudo,A menudo,Siempre,Totalmente de acuerdo
+403,Femenino,23,Segundo semestre,Neutral,A menudo,A menudo,A menudo,Regular,A menudo,Regular,Rara vez,Nunca,Rara vez,De acuerdo en gran medida
+404,Femenino,35,Segundo semestre,Muy insatisfecho,Nunca,Rara vez,Siempre,Buena,Ocasionalmente,Buena,Nunca,Ocasionalmente,Nunca,Totalmente de acuerdo
+405,Femenino,30,Primer semestre,Neutral,A menudo,A menudo,Rara vez,Excelente,A menudo,Excelente,Rara vez,Ocasionalmente,Nunca,De acuerdo en gran medida
+406,Femenino,17,Quinto Semestre,Muy insatisfecho,Ocasionalmente,Rara vez,Nunca,Muy buena,A menudo,Regular,Ocasionalmente,A menudo,Ocasionalmente,Totalmente de acuerdo
+407,Femenino,44,Cuarto semestre,Muy satisfecho,Nunca,A menudo,Nunca,Regular,A menudo,Excelente,A menudo,Ocasionalmente,Rara vez,De acuerdo en gran medida
+408,Masculino,38,Quinto Semestre,Muy satisfecho,A menudo,A menudo,Siempre,Excelente,Ocasionalmente,Regular,Nunca,Nunca,Siempre,Totalmente en desacuerdo
+409,Femenino,48,Tercer semestre,Insatisfecho,Nunca,Ocasionalmente,Ocasionalmente,Excelente,A menudo,Excelente,Rara vez,Nunca,Rara vez,En desacuerdo
+410,Femenino,46,Tercer semestre,Insatisfecho,Ocasionalmente,Rara vez,A menudo,Mala,Rara vez,Buena,Nunca,Nunca,Siempre,De acuerdo en gran medida
+411,Masculino,46,Tercer semestre,Satisfecho,Rara vez,Nunca,Rara vez,Mala,Siempre,Muy buena,Siempre,Ocasionalmente,Rara vez,En desacuerdo
+412,Masculino,51,Quinto Semestre,Muy insatisfecho,A menudo,A menudo,A menudo,Muy buena,Ocasionalmente,Mala,Siempre,Ocasionalmente,Siempre,Totalmente en desacuerdo
+413,Femenino,48,Cuarto semestre,Neutral,Siempre,A menudo,Ocasionalmente,Buena,Nunca,Excelente,Ocasionalmente,A menudo,Ocasionalmente,Neutral
+414,Femenino,34,Primer semestre,Satisfecho,Nunca,Nunca,A menudo,Excelente,Ocasionalmente,Regular,Ocasionalmente,Rara vez,Ocasionalmente,Totalmente en desacuerdo
+415,Femenino,46,Tercer semestre,Insatisfecho,Nunca,Ocasionalmente,Nunca,Muy buena,Ocasionalmente,Mala,Rara vez,A menudo,Siempre,Neutral
+416,Femenino,33,Segundo semestre,Neutral,Ocasionalmente,Rara vez,Siempre,Excelente,Rara vez,Excelente,Siempre,Nunca,Rara vez,Neutral
+417,Femenino,46,Quinto Semestre,Muy insatisfecho,Ocasionalmente,Ocasionalmente,A menudo,Muy buena,Nunca,Excelente,A menudo,Rara vez,Siempre,De acuerdo en gran medida
+418,Femenino,46,Primer semestre,Insatisfecho,Nunca,A menudo,Nunca,Regular,Siempre,Regular,Siempre,A menudo,Siempre,Totalmente de acuerdo
+419,Femenino,47,Primer semestre,Insatisfecho,Nunca,A menudo,Siempre,Muy buena,Siempre,Muy buena,Ocasionalmente,Siempre,Ocasionalmente,En desacuerdo
+420,Femenino,30,Primer semestre,Neutral,Ocasionalmente,Ocasionalmente,A menudo,Buena,Rara vez,Buena,Ocasionalmente,Siempre,A menudo,De acuerdo en gran medida
+421,Masculino,21,Cuarto semestre,Insatisfecho,Nunca,Ocasionalmente,Nunca,Regular,Ocasionalmente,Regular,Ocasionalmente,Ocasionalmente,A menudo,Neutral
+422,Femenino,30,Cuarto semestre,Satisfecho,Nunca,Nunca,Siempre,Excelente,A menudo,Regular,Rara vez,Rara vez,Siempre,Totalmente de acuerdo
+423,Masculino,20,Quinto Semestre,Neutral,A menudo,A menudo,Nunca,Excelente,A menudo,Mala,Siempre,Rara vez,Nunca,De acuerdo en gran medida
+424,Femenino,23,Cuarto semestre,Muy insatisfecho,Ocasionalmente,Rara vez,Nunca,Regular,Ocasionalmente,Excelente,A menudo,Nunca,Siempre,En desacuerdo
+425,Masculino,35,Quinto Semestre,Muy satisfecho,Ocasionalmente,Rara vez,Ocasionalmente,Mala,Rara vez,Mala,Siempre,A menudo,Ocasionalmente,Neutral
+426,Masculino,39,Segundo semestre,Muy insatisfecho,Siempre,Rara vez,Ocasionalmente,Mala,Nunca,Mala,Ocasionalmente,Rara vez,Siempre,En desacuerdo
+427,Masculino,55,Cuarto semestre,Satisfecho,Siempre,Rara vez,Rara vez,Mala,Siempre,Mala,A menudo,Ocasionalmente,A menudo,Neutral
+428,Femenino,55,Tercer semestre,Muy satisfecho,Siempre,A menudo,Nunca,Mala,Nunca,Excelente,A menudo,Nunca,Rara vez,De acuerdo en gran medida
+429,Masculino,48,Cuarto semestre,Insatisfecho,Rara vez,Nunca,Ocasionalmente,Buena,Siempre,Excelente,Rara vez,Ocasionalmente,Ocasionalmente,Totalmente en desacuerdo
+430,Femenino,22,Segundo semestre,Muy satisfecho,Siempre,Ocasionalmente,Rara vez,Buena,Ocasionalmente,Regular,Ocasionalmente,Siempre,Siempre,Neutral
+431,Femenino,40,Cuarto semestre,Neutral,Rara vez,Rara vez,Rara vez,Excelente,Nunca,Muy buena,A menudo,Nunca,Ocasionalmente,Totalmente de acuerdo
+432,Masculino,18,Primer semestre,Neutral,Ocasionalmente,A menudo,Rara vez,Buena,Siempre,Excelente,Rara vez,Siempre,Nunca,Neutral
+433,Femenino,40,Cuarto semestre,Muy satisfecho,A menudo,Rara vez,Ocasionalmente,Regular,Rara vez,Buena,Ocasionalmente,A menudo,Siempre,Totalmente en desacuerdo
+434,Femenino,55,Cuarto semestre,Insatisfecho,A menudo,Nunca,A menudo,Excelente,Rara vez,Mala,Rara vez,Rara vez,A menudo,En desacuerdo
+435,Femenino,53,Primer semestre,Satisfecho,Rara vez,Nunca,Ocasionalmente,Buena,A menudo,Muy buena,Siempre,A menudo,A menudo,Totalmente en desacuerdo
+436,Femenino,44,Cuarto semestre,Insatisfecho,Rara vez,Siempre,A menudo,Buena,Siempre,Buena,A menudo,Rara vez,Siempre,De acuerdo en gran medida
+437,Masculino,29,Segundo semestre,Insatisfecho,Ocasionalmente,Nunca,A menudo,Excelente,A menudo,Muy buena,Siempre,Rara vez,Rara vez,Totalmente de acuerdo
+438,Femenino,33,Tercer semestre,Muy satisfecho,A menudo,Rara vez,A menudo,Muy buena,Siempre,Regular,A menudo,Nunca,Siempre,En desacuerdo
+439,Femenino,35,Tercer semestre,Insatisfecho,Nunca,Ocasionalmente,Siempre,Regular,Rara vez,Muy buena,A menudo,A menudo,Rara vez,De acuerdo en gran medida
+440,Masculino,55,Cuarto semestre,Satisfecho,Rara vez,Ocasionalmente,Nunca,Mala,Ocasionalmente,Regular,Ocasionalmente,Siempre,Rara vez,De acuerdo en gran medida
+441,Femenino,22,Segundo semestre,Insatisfecho,Nunca,A menudo,Siempre,Regular,Siempre,Regular,A menudo,Nunca,A menudo,Neutral
+442,Femenino,38,Primer semestre,Neutral,Nunca,Rara vez,Rara vez,Regular,Ocasionalmente,Regular,Nunca,Nunca,A menudo,Totalmente de acuerdo
+443,Femenino,44,Quinto Semestre,Neutral,Nunca,Siempre,Ocasionalmente,Buena,A menudo,Buena,Rara vez,A menudo,Ocasionalmente,Totalmente de acuerdo
+444,Masculino,34,Cuarto semestre,Muy insatisfecho,Siempre,Nunca,Nunca,Mala,A menudo,Buena,Siempre,Rara vez,Nunca,Totalmente en desacuerdo
+445,Femenino,20,Segundo semestre,Neutral,A menudo,Nunca,Rara vez,Regular,Rara vez,Excelente,Nunca,Rara vez,Ocasionalmente,De acuerdo en gran medida
+446,Masculino,49,Tercer semestre,Insatisfecho,Nunca,Ocasionalmente,Ocasionalmente,Regular,Ocasionalmente,Buena,A menudo,Siempre,Ocasionalmente,Totalmente de acuerdo
+447,Femenino,27,Primer semestre,Neutral,Ocasionalmente,Ocasionalmente,Ocasionalmente,Excelente,Siempre,Buena,Rara vez,A menudo,Ocasionalmente,De acuerdo en gran medida
+448,Femenino,47,Primer semestre,Insatisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Muy buena,Ocasionalmente,Excelente,A menudo,Rara vez,A menudo,De acuerdo en gran medida
+449,Masculino,54,Cuarto semestre,Muy satisfecho,A menudo,Rara vez,Siempre,Regular,Ocasionalmente,Muy buena,Ocasionalmente,Nunca,Nunca,De acuerdo en gran medida
+450,Femenino,47,Cuarto semestre,Muy satisfecho,Ocasionalmente,Rara vez,Ocasionalmente,Buena,Siempre,Muy buena,Rara vez,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+451,Femenino,23,Quinto Semestre,Satisfecho,Nunca,A menudo,Nunca,Regular,Ocasionalmente,Excelente,Siempre,A menudo,Ocasionalmente,Neutral
+452,Femenino,26,Quinto Semestre,Satisfecho,A menudo,Nunca,A menudo,Regular,A menudo,Mala,Ocasionalmente,A menudo,Rara vez,Neutral
+453,Masculino,30,Cuarto semestre,Insatisfecho,Nunca,Nunca,Rara vez,Muy buena,Nunca,Buena,Nunca,Rara vez,Nunca,En desacuerdo
+454,Femenino,26,Primer semestre,Muy insatisfecho,Rara vez,Rara vez,Nunca,Excelente,Nunca,Excelente,Nunca,Rara vez,Ocasionalmente,En desacuerdo
+455,Masculino,43,Tercer semestre,Satisfecho,A menudo,Nunca,Rara vez,Muy buena,Nunca,Regular,A menudo,A menudo,Ocasionalmente,De acuerdo en gran medida
+456,Masculino,25,Segundo semestre,Muy insatisfecho,Rara vez,Rara vez,Nunca,Regular,A menudo,Buena,Siempre,Rara vez,Siempre,Totalmente en desacuerdo
+457,Masculino,34,Tercer semestre,Neutral,A menudo,Ocasionalmente,A menudo,Muy buena,Ocasionalmente,Buena,Siempre,Nunca,Ocasionalmente,Totalmente en desacuerdo
+458,Masculino,23,Segundo semestre,Muy satisfecho,Rara vez,Rara vez,Rara vez,Mala,Ocasionalmente,Muy buena,A menudo,Siempre,Nunca,De acuerdo en gran medida
+459,Femenino,16,Quinto Semestre,Neutral,Siempre,Ocasionalmente,Rara vez,Buena,Siempre,Excelente,A menudo,A menudo,Ocasionalmente,Neutral
+460,Masculino,52,Cuarto semestre,Neutral,Nunca,Nunca,Ocasionalmente,Excelente,Siempre,Muy buena,Ocasionalmente,Rara vez,A menudo,Neutral
+461,Femenino,47,Quinto Semestre,Muy insatisfecho,A menudo,Rara vez,Ocasionalmente,Mala,Siempre,Regular,A menudo,Rara vez,Rara vez,Totalmente en desacuerdo
+462,Femenino,46,Primer semestre,Insatisfecho,Ocasionalmente,Rara vez,Siempre,Muy buena,Rara vez,Mala,Nunca,A menudo,Nunca,En desacuerdo
+463,Femenino,47,Tercer semestre,Neutral,Nunca,Rara vez,Siempre,Mala,Ocasionalmente,Muy buena,Nunca,Ocasionalmente,Nunca,De acuerdo en gran medida
+464,Masculino,54,Primer semestre,Insatisfecho,Nunca,Ocasionalmente,Nunca,Buena,Nunca,Mala,A menudo,Rara vez,Siempre,Neutral
+465,Masculino,46,Cuarto semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Buena,Nunca,Muy buena,Rara vez,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+466,Masculino,54,Cuarto semestre,Neutral,Siempre,Siempre,Nunca,Mala,Ocasionalmente,Buena,Siempre,Nunca,A menudo,Totalmente de acuerdo
+467,Femenino,36,Cuarto semestre,Muy insatisfecho,Rara vez,Siempre,Siempre,Muy buena,Siempre,Buena,Nunca,Siempre,Ocasionalmente,Totalmente en desacuerdo
+468,Femenino,55,Tercer semestre,Neutral,Rara vez,Nunca,Siempre,Buena,Rara vez,Mala,A menudo,Rara vez,Rara vez,De acuerdo en gran medida
+469,Femenino,20,Tercer semestre,Insatisfecho,Nunca,Nunca,Ocasionalmente,Buena,Ocasionalmente,Mala,Rara vez,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+470,Femenino,27,Tercer semestre,Muy satisfecho,A menudo,Rara vez,A menudo,Muy buena,Ocasionalmente,Muy buena,Siempre,Nunca,Siempre,Totalmente de acuerdo
+471,Masculino,24,Cuarto semestre,Muy insatisfecho,Siempre,Rara vez,Rara vez,Muy buena,Rara vez,Excelente,Ocasionalmente,Nunca,Nunca,Totalmente en desacuerdo
+472,Femenino,16,Primer semestre,Muy satisfecho,Nunca,Ocasionalmente,Rara vez,Buena,Siempre,Regular,Ocasionalmente,A menudo,Rara vez,Neutral
+473,Masculino,31,Cuarto semestre,Muy insatisfecho,Nunca,A menudo,Ocasionalmente,Muy buena,A menudo,Muy buena,Nunca,Ocasionalmente,Rara vez,Totalmente de acuerdo
+474,Masculino,16,Tercer semestre,Muy insatisfecho,Siempre,Rara vez,Nunca,Mala,Siempre,Buena,Nunca,Nunca,Ocasionalmente,Totalmente en desacuerdo
+475,Femenino,40,Segundo semestre,Insatisfecho,A menudo,Ocasionalmente,Nunca,Excelente,Rara vez,Buena,Siempre,Ocasionalmente,Nunca,Totalmente en desacuerdo
+476,Femenino,21,Cuarto semestre,Insatisfecho,Nunca,Rara vez,Nunca,Muy buena,Siempre,Excelente,Rara vez,Rara vez,Ocasionalmente,De acuerdo en gran medida
+477,Femenino,51,Cuarto semestre,Muy insatisfecho,Siempre,Ocasionalmente,Nunca,Buena,A menudo,Regular,Rara vez,Nunca,Nunca,Totalmente de acuerdo
+478,Femenino,33,Segundo semestre,Muy satisfecho,Rara vez,A menudo,Rara vez,Muy buena,Ocasionalmente,Mala,Nunca,Siempre,A menudo,Neutral
+479,Femenino,21,Cuarto semestre,Satisfecho,Rara vez,Nunca,Ocasionalmente,Muy buena,Nunca,Muy buena,Siempre,Rara vez,Ocasionalmente,Totalmente de acuerdo
+480,Femenino,37,Cuarto semestre,Muy insatisfecho,Rara vez,Nunca,Siempre,Muy buena,Nunca,Mala,Siempre,Rara vez,Siempre,Totalmente en desacuerdo
+481,Femenino,26,Quinto Semestre,Insatisfecho,Rara vez,A menudo,Nunca,Regular,Rara vez,Mala,Rara vez,Nunca,Siempre,Neutral
+482,Femenino,17,Quinto Semestre,Satisfecho,Nunca,A menudo,Ocasionalmente,Buena,Ocasionalmente,Mala,Siempre,Siempre,A menudo,De acuerdo en gran medida
+483,Masculino,49,Primer semestre,Muy insatisfecho,Siempre,Siempre,Ocasionalmente,Muy buena,Ocasionalmente,Excelente,A menudo,Rara vez,Nunca,En desacuerdo
+484,Femenino,27,Tercer semestre,Neutral,A menudo,A menudo,Rara vez,Muy buena,Siempre,Mala,A menudo,Nunca,Ocasionalmente,Totalmente en desacuerdo
+485,Femenino,20,Cuarto semestre,Insatisfecho,A menudo,Rara vez,A menudo,Mala,A menudo,Muy buena,Nunca,Rara vez,Rara vez,En desacuerdo
+486,Masculino,36,Primer semestre,Muy insatisfecho,Rara vez,Siempre,Rara vez,Excelente,Rara vez,Excelente,A menudo,Ocasionalmente,Nunca,En desacuerdo
+487,Femenino,48,Tercer semestre,Satisfecho,Siempre,Siempre,Rara vez,Mala,Ocasionalmente,Mala,Siempre,Siempre,Siempre,De acuerdo en gran medida
+488,Femenino,44,Primer semestre,Insatisfecho,Siempre,Ocasionalmente,A menudo,Buena,Rara vez,Excelente,Siempre,Nunca,Nunca,Totalmente de acuerdo
+489,Femenino,21,Primer semestre,Satisfecho,Rara vez,Nunca,Nunca,Buena,Rara vez,Muy buena,Rara vez,Rara vez,A menudo,Neutral
+490,Masculino,21,Tercer semestre,Muy satisfecho,Ocasionalmente,Nunca,Rara vez,Buena,Siempre,Mala,Siempre,A menudo,Nunca,Totalmente en desacuerdo
+491,Femenino,29,Tercer semestre,Insatisfecho,Siempre,Siempre,Nunca,Regular,A menudo,Buena,Rara vez,Ocasionalmente,A menudo,Totalmente de acuerdo
+492,Masculino,16,Tercer semestre,Insatisfecho,Siempre,Ocasionalmente,Ocasionalmente,Regular,Ocasionalmente,Regular,A menudo,A menudo,Ocasionalmente,De acuerdo en gran medida
+493,Masculino,40,Primer semestre,Neutral,Ocasionalmente,Ocasionalmente,Ocasionalmente,Buena,Nunca,Regular,Nunca,Nunca,Siempre,De acuerdo en gran medida
+494,Femenino,23,Quinto Semestre,Muy insatisfecho,Rara vez,Rara vez,Rara vez,Mala,A menudo,Buena,Nunca,Rara vez,A menudo,De acuerdo en gran medida
+495,Masculino,29,Cuarto semestre,Neutral,Nunca,Ocasionalmente,Siempre,Mala,Ocasionalmente,Excelente,Ocasionalmente,Siempre,A menudo,Neutral
+496,Masculino,47,Segundo semestre,Neutral,Siempre,Nunca,Nunca,Mala,Ocasionalmente,Mala,Nunca,Nunca,Ocasionalmente,Neutral
+497,Femenino,54,Segundo semestre,Satisfecho,Nunca,Siempre,A menudo,Muy buena,Rara vez,Buena,A menudo,Ocasionalmente,A menudo,De acuerdo en gran medida
+498,Femenino,44,Quinto Semestre,Neutral,A menudo,A menudo,Nunca,Mala,Siempre,Regular,Nunca,Siempre,Rara vez,En desacuerdo
+499,Femenino,46,Tercer semestre,Neutral,Rara vez,A menudo,Siempre,Buena,A menudo,Regular,Siempre,Rara vez,Rara vez,Totalmente de acuerdo
+500,Masculino,28,Cuarto semestre,Muy insatisfecho,Ocasionalmente,Nunca,Rara vez,Mala,Siempre,Mala,Nunca,Nunca,Rara vez,Totalmente de acuerdo
+501,Femenino,32,Tercer semestre,Insatisfecho,Ocasionalmente,Ocasionalmente,Ocasionalmente,Regular,Rara vez,Buena,Ocasionalmente,Ocasionalmente,Rara vez,Totalmente de acuerdo
+502,Masculino,21,Cuarto semestre,Muy satisfecho,Ocasionalmente,A menudo,Nunca,Excelente,Ocasionalmente,Regular,Nunca,Siempre,Nunca,Totalmente de acuerdo
+503,Masculino,50,Primer semestre,Insatisfecho,Siempre,Ocasionalmente,Siempre,Mala,Ocasionalmente,Excelente,Ocasionalmente,Rara vez,A menudo,De acuerdo en gran medida
+504,Femenino,45,Cuarto semestre,Satisfecho,Nunca,Ocasionalmente,Siempre,Muy buena,Nunca,Regular,Siempre,Nunca,Rara vez,En desacuerdo
+505,Femenino,45,Primer semestre,Muy insatisfecho,Siempre,Siempre,Rara vez,Muy buena,Nunca,Buena,A menudo,Siempre,A menudo,Totalmente en desacuerdo
+506,Masculino,43,Segundo semestre,Muy satisfecho,Siempre,Siempre,A menudo,Mala,Rara vez,Regular,A menudo,Nunca,Siempre,En desacuerdo
+507,Masculino,17,Cuarto semestre,Neutral,Rara vez,Ocasionalmente,A menudo,Buena,Siempre,Mala,Rara vez,Nunca,Ocasionalmente,De acuerdo en gran medida
+508,Femenino,19,Primer semestre,Neutral,A menudo,A menudo,Nunca,Regular,Rara vez,Muy buena,Nunca,Ocasionalmente,Rara vez,En desacuerdo
+509,Masculino,46,Segundo semestre,Neutral,Rara vez,Nunca,Ocasionalmente,Regular,Nunca,Muy buena,Rara vez,Ocasionalmente,Nunca,Totalmente en desacuerdo
+510,Femenino,42,Cuarto semestre,Insatisfecho,Ocasionalmente,Nunca,A menudo,Regular,Ocasionalmente,Mala,A menudo,Nunca,Rara vez,De acuerdo en gran medida
+511,Femenino,19,Tercer semestre,Muy insatisfecho,Siempre,Siempre,Rara vez,Excelente,Nunca,Excelente,Ocasionalmente,Rara vez,Nunca,Neutral
+512,Masculino,49,Segundo semestre,Muy satisfecho,A menudo,Ocasionalmente,A menudo,Mala,Rara vez,Mala,A menudo,Siempre,Ocasionalmente,Neutral
+513,Femenino,49,Tercer semestre,Neutral,Siempre,Ocasionalmente,A menudo,Muy buena,A menudo,Excelente,Siempre,Ocasionalmente,Nunca,Totalmente en desacuerdo
+514,Femenino,17,Segundo semestre,Muy insatisfecho,Rara vez,Siempre,Nunca,Regular,Ocasionalmente,Buena,Rara vez,Rara vez,Rara vez,Totalmente en desacuerdo
+515,Femenino,35,Segundo semestre,Neutral,Siempre,Rara vez,Rara vez,Excelente,Nunca,Regular,Siempre,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+516,Femenino,43,Segundo semestre,Muy satisfecho,Ocasionalmente,Rara vez,Rara vez,Excelente,A menudo,Muy buena,Nunca,Siempre,Siempre,De acuerdo en gran medida
+517,Femenino,50,Segundo semestre,Muy insatisfecho,Nunca,Siempre,Ocasionalmente,Buena,A menudo,Mala,Siempre,A menudo,Ocasionalmente,En desacuerdo
+518,Masculino,21,Cuarto semestre,Muy satisfecho,Rara vez,Siempre,Siempre,Mala,A menudo,Regular,Rara vez,Rara vez,Ocasionalmente,De acuerdo en gran medida
+519,Femenino,20,Quinto Semestre,Muy insatisfecho,Rara vez,Nunca,Nunca,Excelente,Rara vez,Muy buena,Rara vez,Siempre,Siempre,En desacuerdo
+520,Femenino,19,Segundo semestre,Insatisfecho,A menudo,Ocasionalmente,Rara vez,Excelente,A menudo,Excelente,A menudo,Ocasionalmente,Siempre,De acuerdo en gran medida
+521,Femenino,34,Tercer semestre,Satisfecho,Nunca,Nunca,A menudo,Mala,Siempre,Muy buena,Rara vez,Nunca,Ocasionalmente,Totalmente en desacuerdo
+522,Masculino,26,Primer semestre,Satisfecho,Ocasionalmente,Siempre,Rara vez,Buena,Rara vez,Mala,A menudo,Siempre,Ocasionalmente,Totalmente en desacuerdo
+523,Femenino,22,Segundo semestre,Muy satisfecho,Rara vez,Ocasionalmente,Nunca,Buena,Nunca,Muy buena,Siempre,Nunca,Nunca,De acuerdo en gran medida
+524,Femenino,55,Tercer semestre,Satisfecho,A menudo,Nunca,A menudo,Mala,Ocasionalmente,Regular,Ocasionalmente,A menudo,A menudo,En desacuerdo
+525,Masculino,46,Primer semestre,Muy insatisfecho,A menudo,Siempre,Rara vez,Muy buena,Rara vez,Excelente,Ocasionalmente,Nunca,Siempre,Totalmente de acuerdo
+526,Femenino,47,Primer semestre,Satisfecho,Ocasionalmente,Rara vez,Nunca,Muy buena,Siempre,Excelente,Rara vez,Nunca,Nunca,Totalmente en desacuerdo
+527,Femenino,39,Segundo semestre,Muy satisfecho,Siempre,Siempre,Rara vez,Excelente,Ocasionalmente,Regular,Nunca,Ocasionalmente,Ocasionalmente,En desacuerdo
+528,Femenino,42,Quinto Semestre,Muy insatisfecho,Ocasionalmente,Siempre,A menudo,Regular,Nunca,Excelente,Siempre,Ocasionalmente,A menudo,Totalmente en desacuerdo
+529,Masculino,52,Quinto Semestre,Satisfecho,A menudo,A menudo,Ocasionalmente,Muy buena,Siempre,Muy buena,Siempre,Nunca,Rara vez,Totalmente de acuerdo
+530,Masculino,17,Segundo semestre,Satisfecho,A menudo,Rara vez,Siempre,Buena,Siempre,Muy buena,Ocasionalmente,Rara vez,Siempre,Neutral
+531,Femenino,48,Tercer semestre,Satisfecho,Rara vez,Siempre,Siempre,Mala,Siempre,Excelente,Rara vez,Ocasionalmente,Siempre,Neutral
+532,Masculino,19,Tercer semestre,Satisfecho,Siempre,Nunca,Ocasionalmente,Regular,Siempre,Mala,Rara vez,Ocasionalmente,Rara vez,Neutral
+533,Femenino,31,Quinto Semestre,Insatisfecho,Nunca,Siempre,Nunca,Regular,Rara vez,Muy buena,Siempre,Rara vez,Nunca,Totalmente en desacuerdo
+534,Femenino,48,Primer semestre,Neutral,Nunca,Siempre,Nunca,Regular,Ocasionalmente,Excelente,Rara vez,Ocasionalmente,Rara vez,De acuerdo en gran medida
+535,Femenino,46,Cuarto semestre,Neutral,Nunca,Rara vez,A menudo,Mala,A menudo,Mala,Nunca,Rara vez,A menudo,Totalmente en desacuerdo
+536,Masculino,52,Cuarto semestre,Muy satisfecho,Ocasionalmente,Siempre,Nunca,Buena,Siempre,Excelente,A menudo,Siempre,Ocasionalmente,Totalmente de acuerdo
+537,Masculino,46,Primer semestre,Muy insatisfecho,Ocasionalmente,Nunca,Nunca,Buena,Rara vez,Muy buena,Ocasionalmente,Siempre,Nunca,Totalmente de acuerdo
+538,Masculino,34,Segundo semestre,Muy insatisfecho,Siempre,Nunca,Siempre,Excelente,A menudo,Muy buena,Nunca,A menudo,Siempre,Totalmente en desacuerdo
+539,Femenino,38,Cuarto semestre,Satisfecho,Ocasionalmente,A menudo,A menudo,Excelente,A menudo,Excelente,Nunca,Nunca,Siempre,De acuerdo en gran medida
+540,Femenino,47,Quinto Semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Regular,Siempre,Muy buena,Nunca,Nunca,Rara vez,Totalmente de acuerdo
+541,Masculino,41,Primer semestre,Insatisfecho,Nunca,A menudo,Rara vez,Regular,Nunca,Regular,Rara vez,Siempre,A menudo,En desacuerdo
+542,Femenino,24,Cuarto semestre,Insatisfecho,A menudo,Nunca,Nunca,Muy buena,Ocasionalmente,Excelente,Siempre,Rara vez,Siempre,Totalmente en desacuerdo
+543,Masculino,24,Segundo semestre,Muy satisfecho,Nunca,A menudo,Rara vez,Buena,Rara vez,Muy buena,A menudo,Nunca,Siempre,Neutral
+544,Femenino,18,Quinto Semestre,Muy satisfecho,Nunca,Siempre,Ocasionalmente,Mala,Siempre,Excelente,Rara vez,A menudo,Ocasionalmente,Totalmente de acuerdo
+545,Masculino,41,Tercer semestre,Neutral,Ocasionalmente,A menudo,Siempre,Buena,Rara vez,Mala,Nunca,Nunca,Nunca,Totalmente de acuerdo
+546,Femenino,47,Quinto Semestre,Neutral,Rara vez,Ocasionalmente,A menudo,Excelente,Ocasionalmente,Mala,Nunca,Siempre,A menudo,Totalmente de acuerdo
+547,Femenino,24,Tercer semestre,Insatisfecho,Ocasionalmente,Nunca,A menudo,Mala,Rara vez,Buena,Nunca,Nunca,Nunca,Totalmente en desacuerdo
+548,Masculino,19,Tercer semestre,Insatisfecho,Nunca,Siempre,Nunca,Regular,A menudo,Regular,Nunca,Nunca,Siempre,En desacuerdo
+549,Femenino,54,Primer semestre,Satisfecho,Nunca,Ocasionalmente,Ocasionalmente,Buena,Nunca,Regular,Nunca,Nunca,Siempre,Totalmente de acuerdo
+550,Femenino,33,Quinto Semestre,Satisfecho,Siempre,Siempre,A menudo,Buena,A menudo,Buena,Ocasionalmente,Siempre,Nunca,Totalmente de acuerdo
+551,Femenino,40,Tercer semestre,Muy satisfecho,A menudo,Nunca,Ocasionalmente,Excelente,Siempre,Mala,A menudo,Ocasionalmente,Ocasionalmente,En desacuerdo
+552,Femenino,32,Tercer semestre,Muy insatisfecho,A menudo,Ocasionalmente,A menudo,Excelente,A menudo,Muy buena,Nunca,Rara vez,Rara vez,Neutral
+553,Masculino,21,Primer semestre,Neutral,Rara vez,Siempre,Ocasionalmente,Buena,A menudo,Muy buena,A menudo,Siempre,Siempre,En desacuerdo
+554,Femenino,27,Segundo semestre,Muy insatisfecho,A menudo,A menudo,A menudo,Excelente,Ocasionalmente,Muy buena,Siempre,Ocasionalmente,Nunca,En desacuerdo
+555,Femenino,31,Segundo semestre,Satisfecho,Siempre,Nunca,Nunca,Buena,Rara vez,Muy buena,Rara vez,Ocasionalmente,Ocasionalmente,En desacuerdo
+556,Femenino,20,Primer semestre,Muy satisfecho,Siempre,Rara vez,Nunca,Buena,Rara vez,Mala,Nunca,Ocasionalmente,Nunca,Totalmente de acuerdo
+557,Femenino,31,Primer semestre,Neutral,A menudo,Rara vez,Nunca,Buena,Siempre,Excelente,Rara vez,Nunca,Nunca,Totalmente en desacuerdo
+558,Masculino,44,Primer semestre,Neutral,A menudo,A menudo,Siempre,Buena,Ocasionalmente,Muy buena,Rara vez,Nunca,Ocasionalmente,En desacuerdo
+559,Femenino,46,Primer semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Nunca,Regular,Nunca,Regular,Nunca,Rara vez,Siempre,Neutral
+560,Femenino,51,Quinto Semestre,Insatisfecho,Rara vez,Ocasionalmente,Siempre,Mala,Siempre,Regular,Rara vez,Rara vez,Nunca,Neutral
+561,Femenino,44,Quinto Semestre,Muy satisfecho,Nunca,Nunca,A menudo,Muy buena,Nunca,Excelente,Rara vez,Rara vez,Nunca,Totalmente en desacuerdo
+562,Femenino,51,Cuarto semestre,Muy satisfecho,Siempre,A menudo,Siempre,Buena,Nunca,Regular,Ocasionalmente,Rara vez,Nunca,Totalmente de acuerdo
+563,Masculino,41,Quinto Semestre,Satisfecho,A menudo,Ocasionalmente,Siempre,Buena,Nunca,Excelente,A menudo,Ocasionalmente,Siempre,Neutral
+564,Femenino,18,Tercer semestre,Satisfecho,A menudo,Siempre,Ocasionalmente,Buena,Nunca,Excelente,Siempre,Ocasionalmente,Rara vez,En desacuerdo
+565,Masculino,31,Tercer semestre,Satisfecho,A menudo,Nunca,Nunca,Mala,Siempre,Muy buena,A menudo,Ocasionalmente,Nunca,Neutral
+566,Femenino,44,Segundo semestre,Muy satisfecho,A menudo,Rara vez,Siempre,Buena,A menudo,Mala,Siempre,A menudo,Siempre,Totalmente en desacuerdo
+567,Femenino,49,Segundo semestre,Muy satisfecho,A menudo,Ocasionalmente,Nunca,Mala,A menudo,Buena,Nunca,A menudo,Nunca,Totalmente en desacuerdo
+568,Femenino,24,Segundo semestre,Satisfecho,Nunca,Rara vez,Ocasionalmente,Regular,A menudo,Muy buena,Nunca,Rara vez,A menudo,Neutral
+569,Masculino,43,Tercer semestre,Satisfecho,Ocasionalmente,Rara vez,Siempre,Buena,Siempre,Muy buena,Ocasionalmente,A menudo,A menudo,Neutral
+570,Femenino,38,Segundo semestre,Muy satisfecho,Nunca,A menudo,Nunca,Muy buena,A menudo,Excelente,Nunca,Nunca,A menudo,Totalmente en desacuerdo
+571,Femenino,30,Quinto Semestre,Muy insatisfecho,Rara vez,Rara vez,Ocasionalmente,Excelente,Siempre,Mala,A menudo,A menudo,Rara vez,En desacuerdo
+572,Femenino,45,Primer semestre,Insatisfecho,A menudo,Ocasionalmente,A menudo,Muy buena,A menudo,Excelente,Rara vez,Ocasionalmente,A menudo,Neutral
+573,Femenino,50,Tercer semestre,Muy satisfecho,Rara vez,A menudo,Siempre,Muy buena,Nunca,Buena,Ocasionalmente,A menudo,Ocasionalmente,Totalmente en desacuerdo
+574,Masculino,16,Segundo semestre,Muy satisfecho,Siempre,A menudo,Nunca,Mala,A menudo,Muy buena,Nunca,A menudo,Rara vez,Totalmente en desacuerdo
+575,Masculino,38,Segundo semestre,Muy satisfecho,Ocasionalmente,Ocasionalmente,Siempre,Regular,Nunca,Muy buena,Rara vez,Nunca,Siempre,Neutral
+576,Femenino,40,Segundo semestre,Satisfecho,Rara vez,Siempre,Siempre,Buena,A menudo,Mala,Siempre,A menudo,Rara vez,Neutral
+577,Femenino,49,Tercer semestre,Neutral,Rara vez,Ocasionalmente,A menudo,Muy buena,Ocasionalmente,Regular,Siempre,A menudo,Siempre,De acuerdo en gran medida
+578,Femenino,18,Primer semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Ocasionalmente,Muy buena,Nunca,Muy buena,Siempre,A menudo,A menudo,Totalmente en desacuerdo
+579,Femenino,17,Primer semestre,Neutral,Siempre,Ocasionalmente,Rara vez,Buena,Siempre,Regular,A menudo,Siempre,Ocasionalmente,Totalmente de acuerdo
+580,Femenino,35,Quinto Semestre,Satisfecho,Siempre,Siempre,Nunca,Buena,A menudo,Buena,Rara vez,Nunca,Ocasionalmente,Totalmente en desacuerdo
+581,Femenino,46,Cuarto semestre,Muy satisfecho,Rara vez,Siempre,A menudo,Mala,Rara vez,Buena,Nunca,A menudo,Rara vez,Neutral
+582,Femenino,32,Primer semestre,Satisfecho,Rara vez,A menudo,Ocasionalmente,Regular,Nunca,Buena,A menudo,Nunca,Ocasionalmente,Neutral
+583,Femenino,44,Tercer semestre,Insatisfecho,Siempre,Siempre,Siempre,Buena,Ocasionalmente,Buena,Ocasionalmente,A menudo,Nunca,Totalmente de acuerdo
+584,Masculino,23,Segundo semestre,Insatisfecho,Siempre,Siempre,Rara vez,Mala,Ocasionalmente,Buena,Siempre,Siempre,Ocasionalmente,Neutral
+585,Femenino,48,Segundo semestre,Muy insatisfecho,Siempre,A menudo,Nunca,Excelente,Rara vez,Buena,Rara vez,Ocasionalmente,A menudo,Totalmente de acuerdo
+586,Femenino,32,Quinto Semestre,Muy insatisfecho,Ocasionalmente,Siempre,Siempre,Mala,A menudo,Muy buena,Ocasionalmente,Siempre,Nunca,Neutral
+587,Femenino,18,Tercer semestre,Neutral,Nunca,Siempre,Siempre,Buena,Siempre,Muy buena,Siempre,Siempre,A menudo,Totalmente de acuerdo
+588,Femenino,33,Segundo semestre,Satisfecho,A menudo,A menudo,Nunca,Regular,Rara vez,Regular,Ocasionalmente,Rara vez,Rara vez,Totalmente de acuerdo
+589,Femenino,30,Segundo semestre,Muy insatisfecho,Ocasionalmente,Rara vez,Siempre,Regular,Nunca,Regular,Siempre,Rara vez,Nunca,En desacuerdo
+590,Femenino,24,Tercer semestre,Muy insatisfecho,Nunca,A menudo,Siempre,Excelente,A menudo,Muy buena,Nunca,A menudo,Siempre,En desacuerdo
+591,Masculino,23,Quinto Semestre,Muy satisfecho,Rara vez,Nunca,Rara vez,Mala,Nunca,Excelente,Ocasionalmente,A menudo,A menudo,Neutral
+592,Femenino,18,Cuarto semestre,Insatisfecho,Nunca,Ocasionalmente,Rara vez,Muy buena,Nunca,Excelente,A menudo,Rara vez,Siempre,Neutral
+593,Femenino,48,Primer semestre,Muy insatisfecho,Nunca,Rara vez,A menudo,Regular,Siempre,Muy buena,Siempre,Rara vez,Nunca,Totalmente en desacuerdo
+594,Femenino,46,Tercer semestre,Muy insatisfecho,Rara vez,Rara vez,Siempre,Mala,Nunca,Mala,Ocasionalmente,Siempre,A menudo,Neutral
+595,Femenino,54,Quinto Semestre,Satisfecho,Nunca,Nunca,Siempre,Excelente,Siempre,Excelente,Siempre,Rara vez,A menudo,Totalmente en desacuerdo
+596,Femenino,16,Quinto Semestre,Muy insatisfecho,A menudo,Ocasionalmente,Ocasionalmente,Excelente,A menudo,Muy buena,Nunca,Rara vez,Nunca,Neutral
+597,Femenino,23,Segundo semestre,Neutral,Nunca,Nunca,Siempre,Mala,A menudo,Mala,Ocasionalmente,Siempre,Ocasionalmente,En desacuerdo
+598,Femenino,47,Segundo semestre,Insatisfecho,A menudo,Nunca,Siempre,Buena,Ocasionalmente,Excelente,Ocasionalmente,A menudo,Ocasionalmente,Totalmente en desacuerdo
+599,Femenino,44,Primer semestre,Satisfecho,Nunca,Nunca,A menudo,Mala,Rara vez,Mala,A menudo,Siempre,A menudo,En desacuerdo
+600,Femenino,37,Segundo semestre,Insatisfecho,Siempre,Ocasionalmente,A menudo,Mala,Nunca,Muy buena,Nunca,A menudo,Ocasionalmente,De acuerdo en gran medida
+601,Masculino,46,Segundo semestre,Insatisfecho,Rara vez,Rara vez,Siempre,Buena,Siempre,Mala,Ocasionalmente,A menudo,Ocasionalmente,Totalmente de acuerdo
+602,Femenino,55,Quinto Semestre,Neutral,Nunca,Rara vez,Siempre,Mala,A menudo,Mala,A menudo,Rara vez,Siempre,De acuerdo en gran medida
+603,Femenino,42,Tercer semestre,Satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Regular,Rara vez,Excelente,A menudo,Nunca,Rara vez,Neutral
+604,Femenino,39,Quinto Semestre,Neutral,Rara vez,Ocasionalmente,A menudo,Buena,Rara vez,Regular,Siempre,Ocasionalmente,Rara vez,Totalmente de acuerdo
+605,Masculino,32,Cuarto semestre,Neutral,Rara vez,Siempre,A menudo,Buena,Rara vez,Regular,Rara vez,Siempre,Nunca,Totalmente en desacuerdo
+606,Masculino,36,Quinto Semestre,Insatisfecho,A menudo,Ocasionalmente,A menudo,Muy buena,A menudo,Buena,Siempre,A menudo,Siempre,En desacuerdo
+607,Femenino,17,Segundo semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Siempre,Mala,Rara vez,Regular,Ocasionalmente,Siempre,Rara vez,Totalmente en desacuerdo
+608,Femenino,37,Tercer semestre,Satisfecho,Nunca,A menudo,Nunca,Mala,Ocasionalmente,Excelente,Siempre,Siempre,Siempre,Neutral
+609,Femenino,19,Tercer semestre,Insatisfecho,A menudo,Nunca,Siempre,Buena,A menudo,Regular,Nunca,Nunca,Siempre,De acuerdo en gran medida
+610,Femenino,50,Cuarto semestre,Neutral,A menudo,Ocasionalmente,A menudo,Buena,Nunca,Mala,Siempre,Ocasionalmente,Nunca,Totalmente de acuerdo
+611,Femenino,40,Primer semestre,Neutral,Siempre,A menudo,Ocasionalmente,Buena,Rara vez,Mala,Nunca,Rara vez,Ocasionalmente,En desacuerdo
+612,Femenino,27,Cuarto semestre,Insatisfecho,Ocasionalmente,Rara vez,Rara vez,Muy buena,A menudo,Mala,Rara vez,Siempre,Nunca,Totalmente de acuerdo
+613,Femenino,18,Cuarto semestre,Satisfecho,Rara vez,Siempre,Rara vez,Excelente,Rara vez,Regular,Siempre,Nunca,Nunca,De acuerdo en gran medida
+614,Femenino,25,Tercer semestre,Neutral,Ocasionalmente,A menudo,Rara vez,Buena,A menudo,Mala,Siempre,Nunca,Nunca,De acuerdo en gran medida
+615,Masculino,23,Tercer semestre,Satisfecho,A menudo,Rara vez,Nunca,Excelente,Nunca,Excelente,Rara vez,Rara vez,Nunca,De acuerdo en gran medida
+616,Femenino,53,Cuarto semestre,Muy satisfecho,Ocasionalmente,Rara vez,Siempre,Muy buena,Ocasionalmente,Buena,Ocasionalmente,Ocasionalmente,Rara vez,De acuerdo en gran medida
+617,Masculino,28,Cuarto semestre,Satisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Excelente,A menudo,Buena,Nunca,Siempre,Rara vez,Neutral
+618,Femenino,38,Tercer semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Rara vez,Muy buena,Siempre,Buena,Ocasionalmente,A menudo,A menudo,Neutral
+619,Masculino,29,Primer semestre,Muy insatisfecho,Rara vez,Ocasionalmente,A menudo,Mala,A menudo,Buena,A menudo,Siempre,A menudo,De acuerdo en gran medida
+620,Femenino,27,Primer semestre,Satisfecho,Siempre,Nunca,Ocasionalmente,Excelente,Siempre,Regular,Nunca,Nunca,Siempre,Totalmente de acuerdo
+621,Femenino,41,Segundo semestre,Muy satisfecho,Siempre,A menudo,Siempre,Excelente,Siempre,Buena,A menudo,Siempre,Siempre,Totalmente en desacuerdo
+622,Masculino,31,Segundo semestre,Neutral,A menudo,A menudo,Ocasionalmente,Regular,Rara vez,Muy buena,Ocasionalmente,Nunca,Ocasionalmente,Totalmente en desacuerdo
+623,Femenino,19,Segundo semestre,Neutral,Nunca,Ocasionalmente,Nunca,Regular,A menudo,Muy buena,Ocasionalmente,Siempre,A menudo,De acuerdo en gran medida
+624,Femenino,55,Quinto Semestre,Insatisfecho,Ocasionalmente,Siempre,Nunca,Muy buena,Ocasionalmente,Mala,A menudo,A menudo,A menudo,Neutral
+625,Femenino,26,Tercer semestre,Insatisfecho,Nunca,Siempre,Siempre,Excelente,Ocasionalmente,Buena,Siempre,Rara vez,Nunca,Neutral
+626,Femenino,30,Segundo semestre,Neutral,Ocasionalmente,Ocasionalmente,A menudo,Excelente,Siempre,Muy buena,Ocasionalmente,Ocasionalmente,Siempre,Neutral
+627,Femenino,32,Segundo semestre,Neutral,Rara vez,Nunca,Siempre,Muy buena,Nunca,Buena,Ocasionalmente,Siempre,Ocasionalmente,Neutral
+628,Masculino,44,Segundo semestre,Muy insatisfecho,Nunca,Siempre,Nunca,Regular,Ocasionalmente,Regular,Rara vez,Siempre,A menudo,De acuerdo en gran medida
+629,Femenino,22,Quinto Semestre,Neutral,Ocasionalmente,Siempre,A menudo,Muy buena,Siempre,Excelente,Ocasionalmente,Nunca,A menudo,Totalmente en desacuerdo
+630,Masculino,48,Cuarto semestre,Insatisfecho,Siempre,Ocasionalmente,A menudo,Muy buena,Siempre,Buena,Ocasionalmente,Siempre,Ocasionalmente,Totalmente en desacuerdo
+631,Femenino,34,Quinto Semestre,Muy satisfecho,A menudo,Rara vez,Ocasionalmente,Regular,Ocasionalmente,Excelente,Rara vez,Rara vez,Rara vez,Neutral
+632,Masculino,47,Tercer semestre,Satisfecho,Rara vez,A menudo,Nunca,Muy buena,Siempre,Excelente,A menudo,Nunca,Rara vez,De acuerdo en gran medida
+633,Masculino,37,Quinto Semestre,Neutral,A menudo,A menudo,Rara vez,Excelente,A menudo,Buena,Siempre,Rara vez,Nunca,Totalmente de acuerdo
+634,Masculino,38,Primer semestre,Neutral,Rara vez,Siempre,A menudo,Regular,Siempre,Regular,Ocasionalmente,Nunca,Ocasionalmente,Totalmente de acuerdo
+635,Femenino,51,Cuarto semestre,Muy insatisfecho,Rara vez,Rara vez,Siempre,Muy buena,Ocasionalmente,Excelente,A menudo,A menudo,Rara vez,Neutral
+636,Femenino,37,Segundo semestre,Satisfecho,Ocasionalmente,Ocasionalmente,A menudo,Excelente,Ocasionalmente,Muy buena,Rara vez,Siempre,Ocasionalmente,En desacuerdo
+637,Femenino,34,Segundo semestre,Insatisfecho,Siempre,Ocasionalmente,Ocasionalmente,Buena,Nunca,Buena,Nunca,Rara vez,Rara vez,Totalmente de acuerdo
+638,Femenino,22,Tercer semestre,Satisfecho,A menudo,Siempre,Ocasionalmente,Mala,Ocasionalmente,Muy buena,Siempre,Ocasionalmente,A menudo,En desacuerdo
+639,Masculino,55,Cuarto semestre,Satisfecho,A menudo,Rara vez,Ocasionalmente,Muy buena,Siempre,Regular,Ocasionalmente,Siempre,Siempre,De acuerdo en gran medida
+640,Masculino,55,Cuarto semestre,Neutral,Rara vez,Rara vez,A menudo,Muy buena,Siempre,Mala,Nunca,A menudo,A menudo,Neutral
+641,Femenino,17,Primer semestre,Satisfecho,Siempre,Rara vez,Nunca,Buena,Ocasionalmente,Muy buena,Rara vez,Nunca,Ocasionalmente,Totalmente en desacuerdo
+642,Masculino,22,Primer semestre,Satisfecho,A menudo,Ocasionalmente,Siempre,Muy buena,Nunca,Muy buena,Nunca,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+643,Femenino,47,Quinto Semestre,Satisfecho,A menudo,Rara vez,Rara vez,Buena,Siempre,Muy buena,A menudo,Siempre,Ocasionalmente,Totalmente de acuerdo
+644,Masculino,36,Tercer semestre,Muy satisfecho,Siempre,Siempre,Ocasionalmente,Buena,Siempre,Buena,Rara vez,Siempre,Ocasionalmente,De acuerdo en gran medida
+645,Femenino,26,Primer semestre,Muy insatisfecho,Siempre,Rara vez,Siempre,Excelente,Nunca,Regular,Siempre,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+646,Masculino,47,Segundo semestre,Muy satisfecho,A menudo,Nunca,Ocasionalmente,Buena,Ocasionalmente,Mala,A menudo,Ocasionalmente,Ocasionalmente,Totalmente en desacuerdo
+647,Femenino,47,Cuarto semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Rara vez,Muy buena,Siempre,Muy buena,Ocasionalmente,Siempre,Rara vez,Neutral
+648,Masculino,21,Cuarto semestre,Insatisfecho,Siempre,Nunca,Nunca,Regular,A menudo,Buena,Siempre,Siempre,Ocasionalmente,Totalmente en desacuerdo
+649,Femenino,41,Primer semestre,Insatisfecho,Ocasionalmente,A menudo,Siempre,Buena,Siempre,Mala,Siempre,Siempre,Ocasionalmente,De acuerdo en gran medida
+650,Femenino,39,Cuarto semestre,Satisfecho,Ocasionalmente,A menudo,Siempre,Mala,A menudo,Regular,Siempre,Ocasionalmente,A menudo,En desacuerdo
+651,Masculino,38,Quinto Semestre,Insatisfecho,Rara vez,A menudo,Siempre,Buena,A menudo,Buena,Ocasionalmente,Nunca,Ocasionalmente,Totalmente en desacuerdo
+652,Femenino,55,Quinto Semestre,Satisfecho,Rara vez,A menudo,A menudo,Muy buena,Ocasionalmente,Buena,A menudo,A menudo,Rara vez,Totalmente de acuerdo
+653,Femenino,37,Primer semestre,Neutral,Siempre,Siempre,Siempre,Mala,Ocasionalmente,Buena,Rara vez,Ocasionalmente,Rara vez,Neutral
+654,Masculino,46,Cuarto semestre,Neutral,Nunca,Rara vez,Rara vez,Regular,Siempre,Excelente,Siempre,Ocasionalmente,A menudo,De acuerdo en gran medida
+655,Masculino,20,Cuarto semestre,Muy satisfecho,A menudo,Rara vez,A menudo,Excelente,Siempre,Mala,Ocasionalmente,Rara vez,A menudo,Totalmente de acuerdo
+656,Femenino,17,Primer semestre,Satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Buena,Siempre,Excelente,A menudo,Rara vez,A menudo,Totalmente en desacuerdo
+657,Femenino,16,Primer semestre,Satisfecho,Nunca,Ocasionalmente,A menudo,Excelente,Rara vez,Regular,Nunca,Nunca,Siempre,Neutral
+658,Femenino,38,Primer semestre,Insatisfecho,Nunca,Siempre,A menudo,Mala,Siempre,Regular,Ocasionalmente,Siempre,Rara vez,Totalmente en desacuerdo
+659,Masculino,18,Cuarto semestre,Satisfecho,A menudo,Siempre,Siempre,Excelente,Ocasionalmente,Buena,Siempre,A menudo,A menudo,Neutral
+660,Femenino,27,Tercer semestre,Neutral,Nunca,Nunca,Ocasionalmente,Mala,A menudo,Buena,Ocasionalmente,A menudo,Ocasionalmente,Totalmente en desacuerdo
+661,Femenino,40,Cuarto semestre,Insatisfecho,Nunca,Rara vez,Nunca,Regular,A menudo,Buena,A menudo,Siempre,Rara vez,Neutral
+662,Femenino,39,Segundo semestre,Muy satisfecho,Ocasionalmente,Ocasionalmente,Rara vez,Buena,Siempre,Regular,A menudo,Ocasionalmente,A menudo,De acuerdo en gran medida
+663,Masculino,17,Tercer semestre,Satisfecho,Nunca,Nunca,Rara vez,Regular,A menudo,Buena,Nunca,Siempre,A menudo,De acuerdo en gran medida
+664,Masculino,53,Cuarto semestre,Muy satisfecho,A menudo,Ocasionalmente,Ocasionalmente,Muy buena,Ocasionalmente,Buena,A menudo,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+665,Masculino,25,Cuarto semestre,Muy satisfecho,Nunca,Nunca,Ocasionalmente,Buena,A menudo,Mala,Rara vez,Ocasionalmente,Ocasionalmente,Neutral
+666,Masculino,28,Tercer semestre,Neutral,A menudo,A menudo,Siempre,Muy buena,Siempre,Mala,Siempre,Nunca,Nunca,Totalmente en desacuerdo
+667,Masculino,54,Segundo semestre,Muy insatisfecho,Ocasionalmente,Rara vez,A menudo,Mala,A menudo,Regular,Rara vez,Ocasionalmente,A menudo,De acuerdo en gran medida
+668,Femenino,35,Cuarto semestre,Satisfecho,Rara vez,Siempre,A menudo,Muy buena,Nunca,Muy buena,Ocasionalmente,Nunca,Rara vez,De acuerdo en gran medida
+669,Masculino,26,Tercer semestre,Muy satisfecho,Siempre,Siempre,Siempre,Excelente,A menudo,Buena,Nunca,Rara vez,Siempre,Totalmente en desacuerdo
+670,Masculino,34,Quinto Semestre,Neutral,Siempre,Ocasionalmente,Ocasionalmente,Buena,Nunca,Muy buena,Siempre,Siempre,Ocasionalmente,Totalmente de acuerdo
+671,Femenino,37,Primer semestre,Muy insatisfecho,A menudo,A menudo,Siempre,Buena,A menudo,Buena,Siempre,Ocasionalmente,Siempre,Totalmente en desacuerdo
+672,Femenino,25,Segundo semestre,Muy insatisfecho,Siempre,Nunca,Nunca,Regular,Rara vez,Buena,Rara vez,Siempre,Siempre,Neutral
+673,Femenino,47,Quinto Semestre,Neutral,Nunca,Rara vez,Ocasionalmente,Buena,Nunca,Buena,Ocasionalmente,Siempre,Rara vez,Totalmente en desacuerdo
+674,Femenino,47,Cuarto semestre,Muy insatisfecho,Nunca,Siempre,Ocasionalmente,Muy buena,Nunca,Buena,Ocasionalmente,Ocasionalmente,Nunca,De acuerdo en gran medida
+675,Masculino,33,Quinto Semestre,Satisfecho,A menudo,Rara vez,A menudo,Mala,Rara vez,Regular,A menudo,A menudo,Rara vez,En desacuerdo
+676,Femenino,51,Segundo semestre,Muy insatisfecho,Ocasionalmente,A menudo,A menudo,Buena,Nunca,Regular,Rara vez,Rara vez,A menudo,En desacuerdo
+677,Femenino,27,Cuarto semestre,Muy insatisfecho,A menudo,Nunca,Nunca,Excelente,Nunca,Buena,Ocasionalmente,Siempre,A menudo,En desacuerdo
+678,Femenino,38,Cuarto semestre,Satisfecho,Nunca,A menudo,Siempre,Regular,Nunca,Buena,Siempre,Rara vez,A menudo,Totalmente en desacuerdo
+679,Femenino,45,Quinto Semestre,Muy insatisfecho,Nunca,Rara vez,Rara vez,Mala,Siempre,Excelente,Ocasionalmente,Nunca,Rara vez,De acuerdo en gran medida
+680,Femenino,35,Primer semestre,Satisfecho,Rara vez,Rara vez,A menudo,Buena,Rara vez,Excelente,Siempre,A menudo,Rara vez,De acuerdo en gran medida
+681,Femenino,24,Primer semestre,Muy insatisfecho,Nunca,Nunca,Nunca,Buena,Siempre,Muy buena,Siempre,Rara vez,Ocasionalmente,De acuerdo en gran medida
+682,Masculino,19,Tercer semestre,Satisfecho,Ocasionalmente,A menudo,A menudo,Regular,Nunca,Mala,A menudo,Rara vez,A menudo,De acuerdo en gran medida
+683,Masculino,28,Quinto Semestre,Satisfecho,Siempre,A menudo,Ocasionalmente,Regular,Nunca,Buena,Ocasionalmente,Rara vez,A menudo,De acuerdo en gran medida
+684,Masculino,44,Cuarto semestre,Muy satisfecho,Siempre,Siempre,Siempre,Excelente,Siempre,Regular,Siempre,Rara vez,Rara vez,Neutral
+685,Masculino,48,Segundo semestre,Satisfecho,A menudo,A menudo,Nunca,Muy buena,Siempre,Mala,Siempre,Rara vez,Siempre,Neutral
+686,Masculino,41,Tercer semestre,Muy satisfecho,A menudo,A menudo,A menudo,Regular,Nunca,Excelente,Siempre,Nunca,Siempre,Totalmente de acuerdo
+687,Femenino,50,Cuarto semestre,Neutral,Nunca,A menudo,Nunca,Buena,Siempre,Regular,A menudo,Siempre,Siempre,De acuerdo en gran medida
+688,Femenino,18,Tercer semestre,Muy insatisfecho,Nunca,Siempre,Rara vez,Mala,Nunca,Excelente,A menudo,A menudo,Rara vez,Totalmente en desacuerdo
+689,Masculino,40,Segundo semestre,Muy insatisfecho,Ocasionalmente,A menudo,Rara vez,Regular,Ocasionalmente,Mala,A menudo,Nunca,Siempre,Totalmente en desacuerdo
+690,Femenino,33,Cuarto semestre,Muy satisfecho,Ocasionalmente,A menudo,Siempre,Muy buena,Rara vez,Buena,A menudo,A menudo,Ocasionalmente,Totalmente en desacuerdo
+691,Femenino,48,Tercer semestre,Muy satisfecho,A menudo,A menudo,Nunca,Muy buena,Ocasionalmente,Mala,Ocasionalmente,Siempre,A menudo,Totalmente de acuerdo
+692,Femenino,31,Cuarto semestre,Muy insatisfecho,Rara vez,Nunca,Siempre,Excelente,Ocasionalmente,Mala,Nunca,Ocasionalmente,A menudo,Neutral
+693,Masculino,31,Quinto Semestre,Neutral,Rara vez,A menudo,Ocasionalmente,Excelente,Rara vez,Excelente,Siempre,Rara vez,Nunca,Totalmente en desacuerdo
+694,Masculino,34,Cuarto semestre,Satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Buena,Rara vez,Regular,Rara vez,Siempre,Ocasionalmente,Totalmente de acuerdo
+695,Femenino,22,Cuarto semestre,Muy satisfecho,Ocasionalmente,Nunca,Ocasionalmente,Muy buena,Ocasionalmente,Mala,A menudo,Nunca,A menudo,En desacuerdo
+696,Masculino,40,Cuarto semestre,Muy insatisfecho,Nunca,Siempre,A menudo,Buena,Ocasionalmente,Muy buena,A menudo,Rara vez,Ocasionalmente,Totalmente de acuerdo
+697,Femenino,22,Tercer semestre,Muy satisfecho,Siempre,Rara vez,A menudo,Mala,Siempre,Buena,Rara vez,A menudo,A menudo,Totalmente en desacuerdo
+698,Masculino,22,Primer semestre,Insatisfecho,Ocasionalmente,A menudo,Ocasionalmente,Buena,Nunca,Muy buena,A menudo,Nunca,Rara vez,En desacuerdo
+699,Femenino,26,Quinto Semestre,Neutral,Siempre,Siempre,Siempre,Regular,A menudo,Mala,Siempre,Ocasionalmente,Nunca,Neutral
+700,Femenino,49,Segundo semestre,Muy insatisfecho,Nunca,Nunca,Nunca,Regular,Ocasionalmente,Muy buena,Nunca,Siempre,A menudo,Neutral
+701,Masculino,36,Segundo semestre,Insatisfecho,Nunca,Nunca,Ocasionalmente,Muy buena,A menudo,Muy buena,Rara vez,Siempre,Rara vez,Neutral
+702,Femenino,55,Primer semestre,Neutral,Siempre,Ocasionalmente,Siempre,Muy buena,Nunca,Buena,Siempre,Nunca,Rara vez,En desacuerdo
+703,Masculino,26,Segundo semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Siempre,Regular,Rara vez,Excelente,Rara vez,Nunca,Ocasionalmente,Totalmente de acuerdo
+704,Femenino,52,Quinto Semestre,Muy insatisfecho,Siempre,Siempre,Nunca,Mala,Rara vez,Excelente,Siempre,Nunca,Siempre,De acuerdo en gran medida
+705,Femenino,45,Quinto Semestre,Insatisfecho,A menudo,A menudo,Siempre,Buena,Rara vez,Mala,Siempre,A menudo,Ocasionalmente,En desacuerdo
+706,Masculino,42,Quinto Semestre,Neutral,Siempre,Siempre,Siempre,Muy buena,Ocasionalmente,Regular,A menudo,Rara vez,A menudo,De acuerdo en gran medida
+707,Masculino,32,Tercer semestre,Muy insatisfecho,A menudo,A menudo,A menudo,Regular,Siempre,Muy buena,Rara vez,Ocasionalmente,Rara vez,En desacuerdo
+708,Masculino,52,Cuarto semestre,Insatisfecho,Siempre,Rara vez,Rara vez,Buena,A menudo,Mala,Siempre,Nunca,Ocasionalmente,Neutral
+709,Femenino,38,Segundo semestre,Muy satisfecho,A menudo,A menudo,Rara vez,Mala,Ocasionalmente,Muy buena,Siempre,Ocasionalmente,Siempre,Totalmente de acuerdo
+710,Femenino,49,Segundo semestre,Neutral,Ocasionalmente,Ocasionalmente,Nunca,Buena,Siempre,Mala,Ocasionalmente,Siempre,A menudo,De acuerdo en gran medida
+711,Femenino,31,Cuarto semestre,Insatisfecho,A menudo,Nunca,Siempre,Buena,Nunca,Regular,Nunca,Rara vez,A menudo,Neutral
+712,Femenino,23,Primer semestre,Insatisfecho,A menudo,Siempre,Ocasionalmente,Mala,A menudo,Regular,Rara vez,Rara vez,Rara vez,En desacuerdo
+713,Femenino,47,Cuarto semestre,Insatisfecho,A menudo,Rara vez,Ocasionalmente,Excelente,A menudo,Excelente,Rara vez,Nunca,A menudo,De acuerdo en gran medida
+714,Femenino,27,Primer semestre,Satisfecho,A menudo,Ocasionalmente,Siempre,Muy buena,Nunca,Regular,Ocasionalmente,Rara vez,Rara vez,De acuerdo en gran medida
+715,Femenino,39,Primer semestre,Insatisfecho,Ocasionalmente,Rara vez,Siempre,Buena,Siempre,Buena,Rara vez,Ocasionalmente,Ocasionalmente,Neutral
+716,Femenino,44,Quinto Semestre,Muy insatisfecho,Siempre,A menudo,Nunca,Mala,Nunca,Regular,Ocasionalmente,A menudo,Ocasionalmente,Totalmente en desacuerdo
+717,Masculino,25,Tercer semestre,Satisfecho,A menudo,Rara vez,Rara vez,Muy buena,Siempre,Mala,A menudo,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+718,Femenino,52,Quinto Semestre,Neutral,Siempre,Ocasionalmente,Siempre,Buena,A menudo,Regular,A menudo,Siempre,A menudo,Neutral
+719,Femenino,46,Primer semestre,Muy satisfecho,A menudo,A menudo,Ocasionalmente,Regular,Ocasionalmente,Mala,Nunca,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+720,Femenino,17,Segundo semestre,Satisfecho,Nunca,Nunca,Rara vez,Excelente,A menudo,Mala,Siempre,Siempre,Nunca,En desacuerdo
+721,Femenino,22,Segundo semestre,Muy satisfecho,Nunca,A menudo,Nunca,Excelente,Ocasionalmente,Excelente,A menudo,Nunca,Rara vez,Neutral
+722,Femenino,24,Tercer semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Nunca,Regular,Ocasionalmente,Muy buena,Rara vez,Nunca,Rara vez,Totalmente en desacuerdo
+723,Masculino,24,Tercer semestre,Muy satisfecho,A menudo,Ocasionalmente,Siempre,Buena,A menudo,Buena,Nunca,Ocasionalmente,Rara vez,Totalmente de acuerdo
+724,Femenino,45,Segundo semestre,Muy satisfecho,Siempre,Rara vez,Ocasionalmente,Buena,Nunca,Excelente,Nunca,Siempre,A menudo,Totalmente de acuerdo
+725,Femenino,48,Cuarto semestre,Neutral,Siempre,Nunca,Nunca,Muy buena,Ocasionalmente,Excelente,A menudo,A menudo,Nunca,Totalmente de acuerdo
+726,Femenino,32,Tercer semestre,Neutral,Ocasionalmente,Siempre,Nunca,Mala,Siempre,Excelente,Siempre,Ocasionalmente,Ocasionalmente,Totalmente en desacuerdo
+727,Femenino,38,Tercer semestre,Satisfecho,Rara vez,Siempre,A menudo,Mala,Nunca,Mala,Ocasionalmente,A menudo,A menudo,En desacuerdo
+728,Masculino,39,Tercer semestre,Insatisfecho,Nunca,Ocasionalmente,Rara vez,Regular,A menudo,Excelente,Siempre,Nunca,Nunca,En desacuerdo
+729,Masculino,45,Segundo semestre,Neutral,Siempre,Rara vez,Nunca,Muy buena,Ocasionalmente,Mala,A menudo,Siempre,Siempre,En desacuerdo
+730,Femenino,46,Primer semestre,Satisfecho,A menudo,A menudo,Ocasionalmente,Regular,Rara vez,Buena,Rara vez,A menudo,Nunca,Totalmente en desacuerdo
+731,Masculino,23,Tercer semestre,Satisfecho,Ocasionalmente,Nunca,Siempre,Regular,Siempre,Regular,Nunca,Nunca,Rara vez,En desacuerdo
+732,Femenino,40,Quinto Semestre,Insatisfecho,Rara vez,Siempre,Rara vez,Excelente,Nunca,Muy buena,Rara vez,A menudo,Siempre,De acuerdo en gran medida
+733,Masculino,49,Quinto Semestre,Neutral,A menudo,Rara vez,Rara vez,Excelente,A menudo,Mala,A menudo,Rara vez,Rara vez,Neutral
+734,Masculino,32,Segundo semestre,Satisfecho,Ocasionalmente,Siempre,Nunca,Buena,Nunca,Excelente,Rara vez,Rara vez,Rara vez,Totalmente en desacuerdo
+735,Femenino,36,Segundo semestre,Muy insatisfecho,Rara vez,Nunca,Nunca,Mala,A menudo,Regular,Ocasionalmente,Siempre,Rara vez,En desacuerdo
+736,Femenino,55,Segundo semestre,Satisfecho,Siempre,A menudo,Nunca,Excelente,Nunca,Mala,Ocasionalmente,Ocasionalmente,Nunca,De acuerdo en gran medida
+737,Masculino,51,Quinto Semestre,Muy satisfecho,Nunca,A menudo,Rara vez,Mala,Ocasionalmente,Regular,Nunca,Nunca,Ocasionalmente,De acuerdo en gran medida
+738,Masculino,18,Segundo semestre,Neutral,Ocasionalmente,Siempre,Siempre,Muy buena,Rara vez,Buena,Nunca,Nunca,Nunca,En desacuerdo
+739,Masculino,38,Quinto Semestre,Insatisfecho,Rara vez,Ocasionalmente,A menudo,Excelente,A menudo,Buena,Siempre,Siempre,Siempre,En desacuerdo
+740,Femenino,24,Tercer semestre,Neutral,Siempre,A menudo,Nunca,Excelente,Ocasionalmente,Mala,Siempre,A menudo,Siempre,Totalmente de acuerdo
+741,Femenino,29,Primer semestre,Neutral,Nunca,Nunca,Rara vez,Buena,Rara vez,Mala,A menudo,Nunca,A menudo,En desacuerdo
+742,Masculino,53,Quinto Semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Ocasionalmente,Excelente,Siempre,Excelente,Siempre,Nunca,Ocasionalmente,Neutral
+743,Femenino,41,Tercer semestre,Muy satisfecho,Rara vez,Siempre,A menudo,Muy buena,Nunca,Excelente,Ocasionalmente,A menudo,Ocasionalmente,En desacuerdo
+744,Femenino,41,Segundo semestre,Muy insatisfecho,Nunca,Nunca,A menudo,Mala,Ocasionalmente,Muy buena,Siempre,A menudo,Siempre,Totalmente en desacuerdo
+745,Femenino,55,Segundo semestre,Muy satisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Regular,A menudo,Mala,Siempre,Siempre,Rara vez,Neutral
+746,Femenino,35,Tercer semestre,Muy insatisfecho,Nunca,A menudo,Rara vez,Excelente,Rara vez,Regular,Nunca,Siempre,Nunca,Totalmente de acuerdo
+747,Masculino,52,Primer semestre,Muy insatisfecho,Ocasionalmente,Nunca,Ocasionalmente,Muy buena,Siempre,Excelente,Nunca,Nunca,Nunca,De acuerdo en gran medida
+748,Masculino,22,Segundo semestre,Muy insatisfecho,A menudo,Rara vez,A menudo,Mala,Rara vez,Muy buena,Nunca,Siempre,Siempre,Totalmente en desacuerdo
+749,Masculino,20,Cuarto semestre,Muy insatisfecho,Siempre,Nunca,Ocasionalmente,Buena,Rara vez,Regular,Nunca,Ocasionalmente,Ocasionalmente,En desacuerdo
+750,Femenino,19,Tercer semestre,Neutral,A menudo,A menudo,Rara vez,Excelente,Ocasionalmente,Buena,Nunca,Rara vez,Rara vez,Totalmente en desacuerdo
+751,Masculino,31,Quinto Semestre,Muy satisfecho,Siempre,A menudo,Rara vez,Mala,Siempre,Mala,Nunca,Siempre,Siempre,Neutral
+752,Femenino,51,Cuarto semestre,Satisfecho,Rara vez,A menudo,Nunca,Excelente,Siempre,Regular,A menudo,A menudo,A menudo,De acuerdo en gran medida
+753,Masculino,18,Primer semestre,Satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Excelente,A menudo,Mala,Ocasionalmente,A menudo,A menudo,Totalmente en desacuerdo
+754,Masculino,47,Cuarto semestre,Muy satisfecho,A menudo,Siempre,Ocasionalmente,Buena,Rara vez,Regular,Ocasionalmente,Siempre,Rara vez,En desacuerdo
+755,Femenino,46,Primer semestre,Muy satisfecho,A menudo,Nunca,Siempre,Buena,Ocasionalmente,Excelente,Ocasionalmente,Siempre,Siempre,De acuerdo en gran medida
+756,Femenino,53,Segundo semestre,Neutral,Nunca,Rara vez,Rara vez,Mala,A menudo,Excelente,Ocasionalmente,Rara vez,Nunca,Totalmente de acuerdo
+757,Femenino,30,Quinto Semestre,Muy satisfecho,Nunca,Rara vez,A menudo,Mala,A menudo,Muy buena,Siempre,Nunca,Rara vez,Totalmente de acuerdo
+758,Femenino,36,Cuarto semestre,Insatisfecho,Siempre,A menudo,A menudo,Buena,Nunca,Regular,Nunca,Ocasionalmente,Nunca,Totalmente de acuerdo
+759,Femenino,42,Quinto Semestre,Muy satisfecho,Rara vez,Nunca,Nunca,Buena,Siempre,Regular,Nunca,Nunca,Rara vez,De acuerdo en gran medida
+760,Femenino,50,Segundo semestre,Muy satisfecho,Siempre,A menudo,Siempre,Buena,Ocasionalmente,Excelente,Nunca,Ocasionalmente,Siempre,De acuerdo en gran medida
+761,Masculino,32,Primer semestre,Muy satisfecho,Siempre,Rara vez,Siempre,Muy buena,Nunca,Buena,Nunca,Ocasionalmente,Ocasionalmente,Totalmente de acuerdo
+762,Masculino,54,Tercer semestre,Satisfecho,Ocasionalmente,Siempre,Rara vez,Regular,Siempre,Regular,Ocasionalmente,Siempre,Rara vez,En desacuerdo
+763,Masculino,31,Segundo semestre,Muy satisfecho,Ocasionalmente,Nunca,Ocasionalmente,Excelente,Ocasionalmente,Muy buena,Rara vez,Ocasionalmente,Nunca,Totalmente de acuerdo
+764,Femenino,29,Cuarto semestre,Neutral,Siempre,A menudo,Ocasionalmente,Regular,A menudo,Excelente,A menudo,Nunca,A menudo,Totalmente de acuerdo
+765,Masculino,46,Segundo semestre,Neutral,A menudo,Siempre,A menudo,Excelente,Nunca,Regular,Ocasionalmente,A menudo,A menudo,Totalmente de acuerdo
+766,Masculino,33,Quinto Semestre,Muy satisfecho,Ocasionalmente,Nunca,Siempre,Excelente,Rara vez,Mala,Nunca,Ocasionalmente,Rara vez,Totalmente de acuerdo
+767,Femenino,31,Primer semestre,Muy insatisfecho,Nunca,A menudo,Rara vez,Buena,Ocasionalmente,Muy buena,Nunca,Rara vez,Ocasionalmente,De acuerdo en gran medida
+768,Masculino,41,Segundo semestre,Muy insatisfecho,Ocasionalmente,Rara vez,Rara vez,Buena,Siempre,Excelente,A menudo,Ocasionalmente,Nunca,Totalmente en desacuerdo
+769,Femenino,43,Segundo semestre,Neutral,Nunca,A menudo,Ocasionalmente,Buena,Siempre,Buena,Nunca,Ocasionalmente,Siempre,Totalmente de acuerdo
+770,Femenino,39,Cuarto semestre,Neutral,Rara vez,Nunca,Siempre,Excelente,Nunca,Mala,Siempre,Siempre,Rara vez,En desacuerdo
+771,Masculino,42,Segundo semestre,Muy insatisfecho,Rara vez,Siempre,Nunca,Muy buena,Siempre,Excelente,Nunca,Ocasionalmente,A menudo,Totalmente en desacuerdo
+772,Masculino,28,Tercer semestre,Satisfecho,A menudo,A menudo,Nunca,Regular,A menudo,Mala,Rara vez,Siempre,Rara vez,Totalmente de acuerdo
+773,Masculino,20,Segundo semestre,Neutral,Ocasionalmente,Rara vez,Rara vez,Regular,Siempre,Mala,Siempre,A menudo,Nunca,En desacuerdo
+774,Femenino,44,Segundo semestre,Satisfecho,Rara vez,Ocasionalmente,Siempre,Excelente,Nunca,Regular,Ocasionalmente,Rara vez,Ocasionalmente,Totalmente en desacuerdo
+775,Masculino,36,Tercer semestre,Muy satisfecho,Rara vez,Ocasionalmente,Rara vez,Regular,Rara vez,Regular,Rara vez,Nunca,Rara vez,Totalmente en desacuerdo
+776,Femenino,41,Primer semestre,Muy satisfecho,Ocasionalmente,Rara vez,Nunca,Buena,Siempre,Buena,Siempre,A menudo,Ocasionalmente,Totalmente de acuerdo
+777,Masculino,36,Segundo semestre,Satisfecho,Siempre,Nunca,A menudo,Buena,Nunca,Excelente,Siempre,A menudo,Ocasionalmente,De acuerdo en gran medida
+778,Femenino,40,Primer semestre,Satisfecho,A menudo,A menudo,Nunca,Regular,Nunca,Mala,Nunca,Siempre,Siempre,En desacuerdo
+779,Femenino,26,Segundo semestre,Muy satisfecho,Ocasionalmente,Ocasionalmente,Siempre,Excelente,A menudo,Muy buena,Rara vez,Siempre,A menudo,Neutral
+780,Femenino,19,Primer semestre,Muy insatisfecho,Siempre,A menudo,Rara vez,Muy buena,Nunca,Excelente,Nunca,Ocasionalmente,Siempre,De acuerdo en gran medida
+781,Femenino,40,Quinto Semestre,Muy insatisfecho,Ocasionalmente,Siempre,Ocasionalmente,Mala,Ocasionalmente,Regular,Ocasionalmente,Ocasionalmente,Siempre,Totalmente de acuerdo
+782,Femenino,24,Tercer semestre,Insatisfecho,Nunca,Siempre,A menudo,Mala,Nunca,Mala,A menudo,A menudo,A menudo,Totalmente de acuerdo
+783,Femenino,31,Primer semestre,Muy insatisfecho,Ocasionalmente,A menudo,Ocasionalmente,Buena,Ocasionalmente,Mala,Ocasionalmente,Ocasionalmente,A menudo,Totalmente en desacuerdo
+784,Femenino,33,Quinto Semestre,Insatisfecho,Siempre,Ocasionalmente,Rara vez,Excelente,Ocasionalmente,Buena,Siempre,Ocasionalmente,Ocasionalmente,Totalmente en desacuerdo
+785,Femenino,37,Tercer semestre,Insatisfecho,Nunca,Ocasionalmente,Ocasionalmente,Excelente,Siempre,Regular,Nunca,Nunca,Rara vez,En desacuerdo
+786,Femenino,20,Cuarto semestre,Muy insatisfecho,A menudo,A menudo,Rara vez,Excelente,A menudo,Muy buena,Ocasionalmente,Ocasionalmente,Rara vez,Neutral
+787,Femenino,50,Primer semestre,Neutral,Rara vez,Siempre,Siempre,Muy buena,Ocasionalmente,Buena,Ocasionalmente,A menudo,Ocasionalmente,En desacuerdo
+788,Femenino,51,Tercer semestre,Insatisfecho,Nunca,Rara vez,Ocasionalmente,Excelente,Ocasionalmente,Regular,Rara vez,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+789,Femenino,44,Quinto Semestre,Neutral,Ocasionalmente,Rara vez,Rara vez,Mala,Siempre,Buena,Ocasionalmente,Ocasionalmente,Rara vez,En desacuerdo
+790,Masculino,20,Segundo semestre,Satisfecho,Ocasionalmente,Siempre,Siempre,Mala,Siempre,Excelente,A menudo,Rara vez,Ocasionalmente,Totalmente en desacuerdo
+791,Masculino,47,Cuarto semestre,Muy insatisfecho,A menudo,Nunca,A menudo,Regular,Nunca,Excelente,Ocasionalmente,Rara vez,Rara vez,Totalmente en desacuerdo
+792,Femenino,48,Quinto Semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Nunca,Excelente,Ocasionalmente,Excelente,Nunca,A menudo,Siempre,De acuerdo en gran medida
+793,Masculino,53,Segundo semestre,Satisfecho,Ocasionalmente,Siempre,A menudo,Excelente,A menudo,Regular,Nunca,Ocasionalmente,Rara vez,En desacuerdo
+794,Femenino,23,Quinto Semestre,Neutral,Ocasionalmente,A menudo,Nunca,Muy buena,Rara vez,Muy buena,Siempre,Rara vez,Rara vez,Totalmente en desacuerdo
+795,Femenino,27,Quinto Semestre,Muy satisfecho,Nunca,A menudo,Nunca,Buena,Ocasionalmente,Excelente,Ocasionalmente,Siempre,Ocasionalmente,Totalmente en desacuerdo
+796,Femenino,24,Cuarto semestre,Neutral,Ocasionalmente,Siempre,Siempre,Mala,Siempre,Muy buena,Ocasionalmente,Siempre,Rara vez,Totalmente de acuerdo
+797,Masculino,37,Quinto Semestre,Muy insatisfecho,A menudo,Rara vez,Rara vez,Buena,Siempre,Mala,Siempre,Rara vez,Rara vez,Totalmente de acuerdo
+798,Masculino,44,Tercer semestre,Muy insatisfecho,Ocasionalmente,Rara vez,Nunca,Muy buena,Ocasionalmente,Muy buena,Nunca,Rara vez,Siempre,Neutral
+799,Femenino,46,Tercer semestre,Insatisfecho,Siempre,Ocasionalmente,A menudo,Buena,Siempre,Regular,Ocasionalmente,A menudo,Nunca,Neutral
+800,Masculino,18,Primer semestre,Neutral,Ocasionalmente,Nunca,Ocasionalmente,Excelente,Rara vez,Muy buena,A menudo,Ocasionalmente,Rara vez,De acuerdo en gran medida
+801,Masculino,39,Tercer semestre,Muy satisfecho,A menudo,Nunca,Siempre,Muy buena,Ocasionalmente,Muy buena,Siempre,Rara vez,Rara vez,Totalmente en desacuerdo
+802,Femenino,16,Primer semestre,Satisfecho,Siempre,Siempre,A menudo,Muy buena,Ocasionalmente,Buena,Rara vez,Rara vez,Nunca,Totalmente en desacuerdo
+803,Femenino,43,Cuarto semestre,Insatisfecho,Nunca,Nunca,Ocasionalmente,Regular,A menudo,Buena,Rara vez,A menudo,Ocasionalmente,Totalmente de acuerdo
+804,Femenino,47,Cuarto semestre,Muy satisfecho,A menudo,A menudo,Nunca,Muy buena,Siempre,Buena,Ocasionalmente,A menudo,A menudo,De acuerdo en gran medida
+805,Femenino,33,Cuarto semestre,Neutral,Siempre,Nunca,Rara vez,Regular,Nunca,Regular,Rara vez,Siempre,Rara vez,Neutral
+806,Masculino,37,Primer semestre,Satisfecho,Siempre,Rara vez,Ocasionalmente,Buena,Ocasionalmente,Mala,Ocasionalmente,Siempre,Siempre,Totalmente en desacuerdo
+807,Femenino,30,Quinto Semestre,Satisfecho,Nunca,Ocasionalmente,Ocasionalmente,Buena,A menudo,Mala,Rara vez,Ocasionalmente,Ocasionalmente,En desacuerdo
+808,Femenino,54,Segundo semestre,Muy satisfecho,Ocasionalmente,Rara vez,Nunca,Regular,Siempre,Buena,Ocasionalmente,Siempre,Siempre,En desacuerdo
+809,Masculino,55,Quinto Semestre,Insatisfecho,Rara vez,Ocasionalmente,Siempre,Mala,Nunca,Muy buena,Nunca,Ocasionalmente,Siempre,Totalmente en desacuerdo
+810,Masculino,25,Tercer semestre,Muy insatisfecho,Siempre,Ocasionalmente,Ocasionalmente,Buena,Siempre,Regular,Rara vez,A menudo,A menudo,Totalmente en desacuerdo
+811,Femenino,32,Cuarto semestre,Insatisfecho,Siempre,A menudo,A menudo,Mala,Rara vez,Buena,Siempre,Rara vez,Ocasionalmente,Neutral
+812,Femenino,24,Primer semestre,Muy insatisfecho,Siempre,Nunca,Nunca,Excelente,Nunca,Mala,Nunca,Nunca,Rara vez,Neutral
+813,Femenino,45,Tercer semestre,Muy insatisfecho,A menudo,Nunca,Rara vez,Mala,Ocasionalmente,Muy buena,Ocasionalmente,Siempre,Rara vez,De acuerdo en gran medida
+814,Femenino,27,Tercer semestre,Muy insatisfecho,Ocasionalmente,Siempre,Ocasionalmente,Muy buena,Ocasionalmente,Excelente,Nunca,Nunca,A menudo,Neutral
+815,Femenino,48,Segundo semestre,Muy insatisfecho,Siempre,Rara vez,A menudo,Regular,Siempre,Buena,Rara vez,Siempre,Rara vez,De acuerdo en gran medida
+816,Femenino,43,Tercer semestre,Muy satisfecho,Siempre,Nunca,A menudo,Excelente,Siempre,Mala,Ocasionalmente,A menudo,A menudo,Totalmente de acuerdo
+817,Femenino,31,Cuarto semestre,Neutral,Siempre,A menudo,Nunca,Regular,Rara vez,Buena,Ocasionalmente,A menudo,Rara vez,En desacuerdo
+818,Femenino,32,Quinto Semestre,Muy insatisfecho,A menudo,Rara vez,Siempre,Buena,Rara vez,Buena,Rara vez,Siempre,Nunca,En desacuerdo
+819,Femenino,28,Segundo semestre,Satisfecho,Nunca,Ocasionalmente,Rara vez,Excelente,A menudo,Buena,Nunca,Rara vez,Ocasionalmente,Totalmente en desacuerdo
+820,Femenino,21,Cuarto semestre,Muy satisfecho,Rara vez,Ocasionalmente,Ocasionalmente,Mala,A menudo,Regular,Ocasionalmente,Rara vez,Nunca,De acuerdo en gran medida
+821,Masculino,33,Primer semestre,Neutral,Nunca,Nunca,A menudo,Muy buena,Ocasionalmente,Regular,Rara vez,Siempre,Siempre,De acuerdo en gran medida
+822,Femenino,45,Tercer semestre,Neutral,Siempre,A menudo,Nunca,Mala,Rara vez,Muy buena,Rara vez,Rara vez,Rara vez,Totalmente de acuerdo
+823,Femenino,38,Segundo semestre,Satisfecho,A menudo,Rara vez,Rara vez,Regular,Ocasionalmente,Muy buena,A menudo,Nunca,Rara vez,De acuerdo en gran medida
+824,Femenino,24,Primer semestre,Neutral,Siempre,Nunca,Nunca,Regular,Nunca,Excelente,Rara vez,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+825,Masculino,49,Primer semestre,Insatisfecho,Rara vez,Siempre,Siempre,Muy buena,Nunca,Excelente,A menudo,Ocasionalmente,A menudo,Neutral
+826,Masculino,41,Cuarto semestre,Satisfecho,Ocasionalmente,Siempre,Nunca,Muy buena,A menudo,Excelente,Siempre,Rara vez,Rara vez,En desacuerdo
+827,Femenino,41,Cuarto semestre,Muy satisfecho,Nunca,Rara vez,Siempre,Regular,Ocasionalmente,Muy buena,Ocasionalmente,A menudo,A menudo,Totalmente de acuerdo
+828,Masculino,39,Tercer semestre,Muy insatisfecho,Siempre,A menudo,A menudo,Muy buena,Rara vez,Buena,Siempre,Rara vez,Rara vez,Totalmente en desacuerdo
+829,Femenino,41,Quinto Semestre,Satisfecho,Rara vez,A menudo,Rara vez,Regular,Ocasionalmente,Regular,Ocasionalmente,Nunca,Rara vez,Neutral
+830,Masculino,20,Tercer semestre,Neutral,Siempre,Ocasionalmente,Siempre,Regular,Siempre,Buena,Ocasionalmente,Nunca,A menudo,Neutral
+831,Femenino,38,Tercer semestre,Neutral,Siempre,Nunca,A menudo,Mala,A menudo,Mala,Ocasionalmente,A menudo,Nunca,Totalmente en desacuerdo
+832,Masculino,47,Cuarto semestre,Satisfecho,Siempre,A menudo,A menudo,Regular,A menudo,Muy buena,Ocasionalmente,Siempre,Siempre,En desacuerdo
+833,Masculino,51,Tercer semestre,Insatisfecho,Ocasionalmente,Ocasionalmente,Siempre,Muy buena,Ocasionalmente,Mala,Nunca,Siempre,Rara vez,En desacuerdo
+834,Femenino,22,Segundo semestre,Satisfecho,A menudo,Siempre,Ocasionalmente,Muy buena,Ocasionalmente,Muy buena,Ocasionalmente,Rara vez,A menudo,Totalmente de acuerdo
+835,Femenino,53,Quinto Semestre,Muy satisfecho,Rara vez,Ocasionalmente,A menudo,Buena,Siempre,Mala,Siempre,Ocasionalmente,Nunca,De acuerdo en gran medida
+836,Masculino,29,Cuarto semestre,Neutral,Rara vez,Nunca,Rara vez,Mala,Siempre,Excelente,Siempre,Rara vez,Ocasionalmente,De acuerdo en gran medida
+837,Masculino,36,Cuarto semestre,Satisfecho,A menudo,Ocasionalmente,Rara vez,Buena,Ocasionalmente,Excelente,Siempre,A menudo,Rara vez,De acuerdo en gran medida
+838,Masculino,55,Tercer semestre,Muy satisfecho,Ocasionalmente,Nunca,A menudo,Mala,Siempre,Mala,Siempre,Rara vez,Siempre,Totalmente en desacuerdo
+839,Femenino,27,Quinto Semestre,Muy insatisfecho,A menudo,Nunca,Nunca,Buena,Siempre,Excelente,Nunca,Siempre,Ocasionalmente,En desacuerdo
+840,Femenino,33,Tercer semestre,Neutral,Ocasionalmente,A menudo,Rara vez,Muy buena,A menudo,Buena,Siempre,Ocasionalmente,A menudo,Totalmente de acuerdo
+841,Masculino,46,Tercer semestre,Insatisfecho,Rara vez,Ocasionalmente,Siempre,Muy buena,Nunca,Buena,Ocasionalmente,Ocasionalmente,A menudo,Neutral
+842,Femenino,17,Cuarto semestre,Muy satisfecho,Rara vez,A menudo,Rara vez,Buena,Rara vez,Excelente,Rara vez,Ocasionalmente,Siempre,De acuerdo en gran medida
+843,Femenino,48,Segundo semestre,Muy insatisfecho,Nunca,Rara vez,Ocasionalmente,Regular,Siempre,Excelente,A menudo,Rara vez,Ocasionalmente,Totalmente de acuerdo
+844,Masculino,19,Tercer semestre,Muy insatisfecho,Siempre,Siempre,A menudo,Excelente,Ocasionalmente,Excelente,A menudo,A menudo,Nunca,Neutral
+845,Femenino,44,Quinto Semestre,Satisfecho,Nunca,Siempre,Nunca,Regular,Ocasionalmente,Excelente,A menudo,Siempre,A menudo,Totalmente en desacuerdo
+846,Femenino,42,Tercer semestre,Muy satisfecho,Rara vez,Nunca,Ocasionalmente,Excelente,Nunca,Regular,Siempre,A menudo,Ocasionalmente,Neutral
+847,Femenino,41,Tercer semestre,Muy satisfecho,A menudo,Rara vez,Ocasionalmente,Mala,Siempre,Regular,A menudo,Siempre,A menudo,Totalmente de acuerdo
+848,Masculino,53,Cuarto semestre,Insatisfecho,Ocasionalmente,Nunca,Siempre,Excelente,Rara vez,Regular,A menudo,Siempre,Rara vez,Totalmente de acuerdo
+849,Femenino,49,Quinto Semestre,Muy satisfecho,Nunca,Rara vez,Nunca,Mala,Ocasionalmente,Mala,A menudo,Ocasionalmente,A menudo,Totalmente en desacuerdo
+850,Femenino,21,Tercer semestre,Insatisfecho,Rara vez,Rara vez,Siempre,Buena,Siempre,Buena,Nunca,Rara vez,Ocasionalmente,En desacuerdo
+851,Masculino,29,Primer semestre,Muy satisfecho,Ocasionalmente,Ocasionalmente,A menudo,Muy buena,Rara vez,Mala,A menudo,A menudo,Siempre,De acuerdo en gran medida
+852,Femenino,32,Tercer semestre,Muy satisfecho,Ocasionalmente,A menudo,Siempre,Muy buena,Siempre,Buena,Siempre,Ocasionalmente,Nunca,Totalmente de acuerdo
+853,Femenino,54,Cuarto semestre,Neutral,Nunca,Nunca,Rara vez,Muy buena,Nunca,Buena,Siempre,Ocasionalmente,A menudo,De acuerdo en gran medida
+854,Femenino,39,Primer semestre,Satisfecho,Rara vez,A menudo,A menudo,Buena,Ocasionalmente,Mala,Siempre,A menudo,Rara vez,Totalmente de acuerdo
+855,Femenino,48,Quinto Semestre,Insatisfecho,Rara vez,Nunca,A menudo,Muy buena,Rara vez,Muy buena,Ocasionalmente,Ocasionalmente,Ocasionalmente,Totalmente en desacuerdo
+856,Masculino,39,Primer semestre,Muy satisfecho,Ocasionalmente,A menudo,Ocasionalmente,Mala,Ocasionalmente,Buena,Siempre,Nunca,A menudo,De acuerdo en gran medida
+857,Femenino,37,Primer semestre,Insatisfecho,Ocasionalmente,A menudo,Ocasionalmente,Excelente,Nunca,Muy buena,Nunca,Ocasionalmente,Rara vez,De acuerdo en gran medida
+858,Masculino,27,Primer semestre,Insatisfecho,Siempre,Nunca,Nunca,Mala,Rara vez,Excelente,Nunca,Siempre,A menudo,De acuerdo en gran medida
+859,Femenino,35,Segundo semestre,Muy insatisfecho,Nunca,Siempre,A menudo,Excelente,Ocasionalmente,Regular,Rara vez,Nunca,Nunca,Totalmente de acuerdo
+860,Masculino,52,Segundo semestre,Muy insatisfecho,Ocasionalmente,Nunca,A menudo,Mala,Nunca,Excelente,Ocasionalmente,Nunca,A menudo,En desacuerdo
+861,Femenino,48,Cuarto semestre,Satisfecho,Nunca,Ocasionalmente,Ocasionalmente,Regular,Ocasionalmente,Buena,Nunca,Siempre,Rara vez,En desacuerdo
+862,Masculino,50,Segundo semestre,Muy insatisfecho,A menudo,Siempre,Rara vez,Excelente,Nunca,Muy buena,Nunca,A menudo,Rara vez,Totalmente en desacuerdo
+863,Masculino,20,Cuarto semestre,Satisfecho,Siempre,Siempre,Ocasionalmente,Regular,Siempre,Excelente,Ocasionalmente,Nunca,Ocasionalmente,De acuerdo en gran medida
+864,Femenino,52,Primer semestre,Muy satisfecho,Nunca,Ocasionalmente,Rara vez,Excelente,Rara vez,Buena,Ocasionalmente,Siempre,Siempre,Totalmente en desacuerdo
+865,Masculino,23,Segundo semestre,Muy satisfecho,Siempre,Nunca,Rara vez,Muy buena,Rara vez,Buena,Ocasionalmente,Rara vez,Rara vez,Totalmente en desacuerdo
+866,Femenino,39,Cuarto semestre,Satisfecho,Nunca,Siempre,Nunca,Excelente,Rara vez,Excelente,Nunca,Siempre,Nunca,Totalmente de acuerdo
+867,Femenino,27,Tercer semestre,Satisfecho,Ocasionalmente,Rara vez,Ocasionalmente,Mala,Ocasionalmente,Buena,A menudo,Nunca,Rara vez,De acuerdo en gran medida
+868,Femenino,45,Tercer semestre,Muy satisfecho,Rara vez,Ocasionalmente,Siempre,Excelente,Siempre,Mala,A menudo,Rara vez,Nunca,Neutral
+869,Femenino,54,Tercer semestre,Muy satisfecho,Nunca,Nunca,Rara vez,Regular,Nunca,Mala,Rara vez,Ocasionalmente,A menudo,Totalmente en desacuerdo
+870,Femenino,28,Tercer semestre,Satisfecho,Ocasionalmente,Siempre,Siempre,Excelente,Siempre,Buena,Nunca,Ocasionalmente,Siempre,Totalmente en desacuerdo
+871,Masculino,51,Tercer semestre,Muy insatisfecho,A menudo,Siempre,Rara vez,Muy buena,A menudo,Buena,Rara vez,Ocasionalmente,Siempre,Totalmente en desacuerdo
+872,Masculino,27,Tercer semestre,Satisfecho,Siempre,A menudo,A menudo,Buena,Ocasionalmente,Buena,Rara vez,A menudo,A menudo,Totalmente en desacuerdo
+873,Femenino,37,Quinto Semestre,Muy satisfecho,A menudo,Ocasionalmente,Rara vez,Muy buena,Siempre,Excelente,Ocasionalmente,Siempre,Siempre,Neutral
+874,Femenino,47,Segundo semestre,Muy satisfecho,A menudo,Nunca,Ocasionalmente,Regular,Ocasionalmente,Buena,Nunca,Rara vez,Rara vez,De acuerdo en gran medida
+875,Femenino,30,Primer semestre,Satisfecho,Nunca,Ocasionalmente,Siempre,Mala,Siempre,Mala,Rara vez,Nunca,Rara vez,Neutral
+876,Masculino,19,Primer semestre,Neutral,Siempre,A menudo,Nunca,Mala,Ocasionalmente,Buena,A menudo,Nunca,A menudo,Totalmente en desacuerdo
+877,Femenino,31,Segundo semestre,Muy satisfecho,Ocasionalmente,Ocasionalmente,Ocasionalmente,Muy buena,Rara vez,Excelente,Siempre,Siempre,A menudo,Neutral
+878,Femenino,19,Quinto Semestre,Muy satisfecho,Siempre,Rara vez,Nunca,Buena,Rara vez,Excelente,Siempre,Nunca,Rara vez,Totalmente en desacuerdo
+879,Femenino,42,Tercer semestre,Muy satisfecho,A menudo,Ocasionalmente,Siempre,Muy buena,A menudo,Muy buena,Ocasionalmente,Siempre,A menudo,En desacuerdo
+880,Masculino,16,Segundo semestre,Muy insatisfecho,Rara vez,Nunca,Siempre,Excelente,A menudo,Excelente,Rara vez,Siempre,Ocasionalmente,Totalmente en desacuerdo
+881,Femenino,37,Segundo semestre,Satisfecho,A menudo,A menudo,Ocasionalmente,Excelente,Siempre,Regular,Ocasionalmente,Ocasionalmente,Nunca,De acuerdo en gran medida
+882,Femenino,41,Cuarto semestre,Muy insatisfecho,Nunca,Rara vez,Rara vez,Excelente,Ocasionalmente,Regular,Nunca,Ocasionalmente,Ocasionalmente,En desacuerdo
+883,Femenino,17,Segundo semestre,Satisfecho,Ocasionalmente,Siempre,A menudo,Regular,A menudo,Regular,A menudo,Siempre,Nunca,Totalmente de acuerdo
+884,Femenino,29,Tercer semestre,Satisfecho,A menudo,Ocasionalmente,Ocasionalmente,Mala,A menudo,Regular,Ocasionalmente,A menudo,Nunca,Neutral
+885,Masculino,44,Primer semestre,Neutral,Ocasionalmente,Rara vez,Ocasionalmente,Regular,Siempre,Muy buena,Nunca,A menudo,A menudo,De acuerdo en gran medida
+886,Femenino,49,Tercer semestre,Insatisfecho,Rara vez,A menudo,Nunca,Muy buena,A menudo,Buena,Rara vez,Siempre,A menudo,En desacuerdo
+887,Femenino,28,Primer semestre,Muy insatisfecho,A menudo,Ocasionalmente,Rara vez,Regular,Rara vez,Excelente,Ocasionalmente,Ocasionalmente,Siempre,Totalmente de acuerdo
+888,Femenino,48,Cuarto semestre,Insatisfecho,Rara vez,A menudo,A menudo,Muy buena,Rara vez,Mala,Nunca,Rara vez,Siempre,Totalmente de acuerdo
+889,Masculino,17,Cuarto semestre,Muy satisfecho,Siempre,Nunca,Siempre,Muy buena,Rara vez,Mala,Ocasionalmente,A menudo,A menudo,Neutral
+890,Masculino,51,Primer semestre,Satisfecho,A menudo,Siempre,Rara vez,Buena,Ocasionalmente,Buena,Nunca,Nunca,Rara vez,Neutral
+891,Femenino,46,Primer semestre,Satisfecho,Siempre,Nunca,Ocasionalmente,Mala,A menudo,Excelente,Rara vez,A menudo,A menudo,Totalmente de acuerdo
+892,Femenino,32,Primer semestre,Insatisfecho,A menudo,Siempre,Rara vez,Mala,Siempre,Excelente,Rara vez,Nunca,Ocasionalmente,De acuerdo en gran medida
+893,Femenino,20,Segundo semestre,Neutral,Ocasionalmente,Siempre,Siempre,Buena,Siempre,Mala,Siempre,Ocasionalmente,Ocasionalmente,Neutral
+894,Masculino,19,Tercer semestre,Muy satisfecho,Nunca,Rara vez,Rara vez,Regular,A menudo,Regular,Ocasionalmente,Ocasionalmente,Rara vez,Neutral
+895,Masculino,30,Segundo semestre,Muy insatisfecho,Rara vez,Nunca,Rara vez,Regular,A menudo,Mala,Nunca,Siempre,Rara vez,En desacuerdo
+896,Femenino,34,Segundo semestre,Muy satisfecho,Rara vez,Ocasionalmente,Rara vez,Regular,Siempre,Regular,Nunca,A menudo,A menudo,De acuerdo en gran medida
+897,Femenino,42,Tercer semestre,Insatisfecho,Nunca,Rara vez,Ocasionalmente,Excelente,Ocasionalmente,Regular,Nunca,Ocasionalmente,A menudo,De acuerdo en gran medida
+898,Femenino,18,Quinto Semestre,Neutral,Nunca,Siempre,Ocasionalmente,Buena,Nunca,Mala,Ocasionalmente,A menudo,A menudo,En desacuerdo
+899,Masculino,43,Tercer semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Ocasionalmente,Muy buena,A menudo,Excelente,Nunca,Nunca,Nunca,Totalmente de acuerdo
+900,Femenino,33,Primer semestre,Muy satisfecho,Ocasionalmente,Ocasionalmente,Rara vez,Regular,Siempre,Excelente,Ocasionalmente,Ocasionalmente,A menudo,Neutral
+901,Femenino,17,Primer semestre,Insatisfecho,Ocasionalmente,Nunca,Siempre,Muy buena,Siempre,Excelente,Ocasionalmente,Ocasionalmente,A menudo,En desacuerdo
+902,Masculino,40,Cuarto semestre,Satisfecho,Siempre,Siempre,A menudo,Excelente,Rara vez,Excelente,Siempre,A menudo,A menudo,Totalmente de acuerdo
+903,Masculino,31,Quinto Semestre,Insatisfecho,Rara vez,A menudo,Siempre,Regular,Nunca,Regular,Ocasionalmente,Rara vez,Ocasionalmente,Totalmente de acuerdo
+904,Masculino,36,Cuarto semestre,Satisfecho,Nunca,Siempre,Nunca,Excelente,A menudo,Regular,Ocasionalmente,Nunca,A menudo,Totalmente de acuerdo
+905,Masculino,18,Quinto Semestre,Muy satisfecho,Nunca,Rara vez,A menudo,Buena,Siempre,Buena,Nunca,Nunca,Rara vez,Totalmente en desacuerdo
+906,Masculino,26,Cuarto semestre,Muy insatisfecho,Nunca,Ocasionalmente,Rara vez,Muy buena,Ocasionalmente,Mala,A menudo,A menudo,Siempre,De acuerdo en gran medida
+907,Masculino,55,Primer semestre,Satisfecho,Nunca,Ocasionalmente,Siempre,Excelente,Siempre,Excelente,Ocasionalmente,Siempre,Nunca,En desacuerdo
+908,Femenino,49,Tercer semestre,Muy satisfecho,Rara vez,Rara vez,A menudo,Muy buena,A menudo,Muy buena,Ocasionalmente,Ocasionalmente,A menudo,Totalmente en desacuerdo
+909,Masculino,25,Cuarto semestre,Satisfecho,Siempre,Nunca,Nunca,Excelente,Siempre,Buena,Ocasionalmente,A menudo,Nunca,Neutral
+910,Femenino,37,Tercer semestre,Satisfecho,Ocasionalmente,Siempre,Nunca,Muy buena,Siempre,Regular,Ocasionalmente,Rara vez,Nunca,De acuerdo en gran medida
+911,Masculino,45,Cuarto semestre,Muy satisfecho,Ocasionalmente,Ocasionalmente,Nunca,Mala,Nunca,Buena,Siempre,A menudo,Nunca,Neutral
+912,Masculino,32,Quinto Semestre,Neutral,A menudo,Siempre,Siempre,Buena,Siempre,Mala,A menudo,Ocasionalmente,A menudo,Totalmente en desacuerdo
+913,Masculino,38,Tercer semestre,Muy insatisfecho,Ocasionalmente,A menudo,Rara vez,Regular,A menudo,Regular,Ocasionalmente,A menudo,Rara vez,De acuerdo en gran medida
+914,Femenino,44,Primer semestre,Muy satisfecho,Ocasionalmente,Rara vez,Rara vez,Buena,Ocasionalmente,Buena,Ocasionalmente,Rara vez,A menudo,De acuerdo en gran medida
+915,Femenino,43,Cuarto semestre,Muy satisfecho,Nunca,Rara vez,Rara vez,Muy buena,Rara vez,Regular,A menudo,Rara vez,Siempre,Totalmente de acuerdo
+916,Femenino,43,Quinto Semestre,Muy satisfecho,Ocasionalmente,A menudo,Rara vez,Buena,Ocasionalmente,Muy buena,Rara vez,Nunca,Nunca,Totalmente en desacuerdo
+917,Femenino,51,Tercer semestre,Insatisfecho,Ocasionalmente,A menudo,A menudo,Mala,Rara vez,Excelente,A menudo,Nunca,Ocasionalmente,Totalmente de acuerdo
+918,Femenino,21,Segundo semestre,Muy satisfecho,Nunca,A menudo,Ocasionalmente,Regular,Rara vez,Regular,A menudo,A menudo,Ocasionalmente,De acuerdo en gran medida
+919,Femenino,37,Primer semestre,Insatisfecho,Nunca,Rara vez,Ocasionalmente,Regular,Nunca,Mala,Nunca,Ocasionalmente,Nunca,De acuerdo en gran medida
+920,Masculino,43,Cuarto semestre,Muy insatisfecho,Ocasionalmente,Rara vez,A menudo,Excelente,Nunca,Regular,Siempre,Rara vez,A menudo,Neutral
+921,Femenino,51,Segundo semestre,Satisfecho,A menudo,Nunca,A menudo,Buena,Siempre,Mala,Siempre,A menudo,Nunca,En desacuerdo
+922,Masculino,41,Cuarto semestre,Satisfecho,Rara vez,A menudo,Rara vez,Mala,Nunca,Buena,A menudo,Rara vez,Nunca,En desacuerdo
+923,Femenino,46,Quinto Semestre,Muy satisfecho,Siempre,A menudo,Nunca,Regular,A menudo,Buena,Ocasionalmente,Nunca,Nunca,En desacuerdo
+924,Femenino,31,Quinto Semestre,Muy satisfecho,Rara vez,Siempre,Rara vez,Muy buena,A menudo,Regular,Ocasionalmente,Siempre,Siempre,Neutral
+925,Masculino,47,Cuarto semestre,Satisfecho,A menudo,A menudo,Nunca,Regular,Siempre,Muy buena,A menudo,Siempre,Nunca,Totalmente de acuerdo
+926,Femenino,54,Primer semestre,Satisfecho,Nunca,Rara vez,Rara vez,Regular,Nunca,Mala,Nunca,Siempre,Ocasionalmente,De acuerdo en gran medida
+927,Femenino,38,Cuarto semestre,Muy insatisfecho,Rara vez,Ocasionalmente,Nunca,Excelente,Ocasionalmente,Excelente,Nunca,A menudo,Siempre,Totalmente de acuerdo
+928,Masculino,44,Tercer semestre,Insatisfecho,A menudo,Rara vez,Nunca,Excelente,Rara vez,Regular,Rara vez,Siempre,Rara vez,De acuerdo en gran medida
+929,Masculino,37,Quinto Semestre,Neutral,Rara vez,Siempre,Siempre,Buena,Nunca,Muy buena,Ocasionalmente,Siempre,Rara vez,Totalmente en desacuerdo
+930,Femenino,51,Cuarto semestre,Insatisfecho,Ocasionalmente,Ocasionalmente,Siempre,Regular,Nunca,Muy buena,Ocasionalmente,Siempre,Ocasionalmente,Totalmente de acuerdo
+931,Femenino,55,Tercer semestre,Satisfecho,Rara vez,Nunca,Nunca,Muy buena,Siempre,Muy buena,Siempre,Siempre,Siempre,Neutral
+932,Femenino,41,Cuarto semestre,Muy satisfecho,A menudo,A menudo,Ocasionalmente,Regular,Rara vez,Mala,Rara vez,A menudo,A menudo,Totalmente de acuerdo
+933,Femenino,22,Tercer semestre,Satisfecho,Ocasionalmente,Ocasionalmente,Nunca,Buena,Rara vez,Muy buena,Ocasionalmente,Siempre,Rara vez,De acuerdo en gran medida
+934,Femenino,44,Quinto Semestre,Neutral,A menudo,A menudo,Siempre,Muy buena,A menudo,Mala,A menudo,Ocasionalmente,Nunca,Neutral
+935,Masculino,32,Quinto Semestre,Muy insatisfecho,A menudo,A menudo,Siempre,Muy buena,A menudo,Muy buena,Nunca,Ocasionalmente,Rara vez,Totalmente en desacuerdo
+936,Femenino,55,Segundo semestre,Muy insatisfecho,Nunca,Ocasionalmente,Rara vez,Regular,A menudo,Regular,A menudo,Rara vez,Nunca,Totalmente de acuerdo
+937,Masculino,17,Primer semestre,Satisfecho,A menudo,A menudo,Rara vez,Buena,A menudo,Muy buena,Rara vez,Rara vez,A menudo,Neutral
+938,Masculino,29,Quinto Semestre,Neutral,Rara vez,Rara vez,A menudo,Excelente,Siempre,Buena,Nunca,Siempre,Nunca,De acuerdo en gran medida
+939,Masculino,38,Tercer semestre,Neutral,Siempre,Nunca,Rara vez,Regular,Rara vez,Regular,Nunca,Siempre,A menudo,Totalmente de acuerdo
+940,Masculino,55,Primer semestre,Neutral,Rara vez,A menudo,A menudo,Excelente,Ocasionalmente,Excelente,A menudo,Rara vez,Rara vez,En desacuerdo
+941,Femenino,28,Quinto Semestre,Insatisfecho,Rara vez,Ocasionalmente,Nunca,Excelente,A menudo,Muy buena,Siempre,Ocasionalmente,Siempre,Totalmente de acuerdo
+942,Masculino,36,Primer semestre,Muy satisfecho,A menudo,Siempre,A menudo,Muy buena,Nunca,Mala,Siempre,Nunca,Rara vez,De acuerdo en gran medida
+943,Femenino,45,Segundo semestre,Muy insatisfecho,A menudo,A menudo,Siempre,Buena,A menudo,Buena,Rara vez,Nunca,A menudo,Neutral
+944,Femenino,41,Quinto Semestre,Neutral,A menudo,Nunca,Siempre,Excelente,Siempre,Mala,Rara vez,A menudo,Siempre,De acuerdo en gran medida
+945,Masculino,28,Quinto Semestre,Muy satisfecho,A menudo,A menudo,Rara vez,Buena,Rara vez,Excelente,Siempre,Nunca,Nunca,Totalmente en desacuerdo
+946,Masculino,36,Segundo semestre,Muy satisfecho,A menudo,Ocasionalmente,Ocasionalmente,Buena,A menudo,Excelente,Siempre,Rara vez,A menudo,Totalmente en desacuerdo
+947,Femenino,29,Primer semestre,Muy insatisfecho,Siempre,Siempre,Rara vez,Regular,Siempre,Regular,A menudo,Siempre,Nunca,En desacuerdo
+948,Femenino,33,Segundo semestre,Satisfecho,Ocasionalmente,Siempre,Nunca,Mala,Ocasionalmente,Regular,Ocasionalmente,Siempre,Nunca,En desacuerdo
+949,Masculino,38,Primer semestre,Muy satisfecho,Nunca,Siempre,Rara vez,Buena,Siempre,Excelente,Siempre,Rara vez,Nunca,Neutral
+950,Femenino,49,Cuarto semestre,Muy satisfecho,A menudo,Siempre,Ocasionalmente,Excelente,Rara vez,Mala,A menudo,A menudo,Siempre,Neutral
+951,Otros,48,Quinto Semestre,Insatisfecho,Siempre,A menudo,Nunca,Muy buena,Nunca,Regular,Nunca,Nunca,Rara vez,De acuerdo en gran medida
+952,Otros,24,Tercer semestre,Muy insatisfecho,Nunca,A menudo,A menudo,Mala,Ocasionalmente,Excelente,Ocasionalmente,Siempre,Nunca,Totalmente de acuerdo
+953,Otros,22,Segundo semestre,Insatisfecho,Ocasionalmente,Ocasionalmente,A menudo,Buena,Ocasionalmente,Mala,Siempre,Rara vez,A menudo,De acuerdo en gran medida
+954,Otros,20,Cuarto semestre,Insatisfecho,A menudo,Nunca,A menudo,Regular,Rara vez,Mala,Rara vez,Nunca,Ocasionalmente,Totalmente de acuerdo
+955,Otros,32,Tercer semestre,Neutral,A menudo,Rara vez,Ocasionalmente,Buena,Nunca,Mala,A menudo,Siempre,A menudo,Neutral
+956,Otros,19,Tercer semestre,Muy satisfecho,Nunca,Siempre,A menudo,Mala,Nunca,Muy buena,A menudo,Siempre,A menudo,De acuerdo en gran medida
+957,Femenino,17,Cuarto semestre,Satisfecho,Rara vez,A menudo,Siempre,Regular,A menudo,Regular,Siempre,Nunca,Ocasionalmente,Totalmente en desacuerdo
+958,Masculino,32,Primer semestre,Insatisfecho,Siempre,Siempre,Rara vez,Mala,Nunca,Buena,Siempre,Ocasionalmente,Nunca,Totalmente en desacuerdo
+959,Otros,53,Tercer semestre,Muy insatisfecho,A menudo,A menudo,Siempre,Excelente,Ocasionalmente,Buena,Rara vez,Siempre,A menudo,En desacuerdo
+960,Femenino,24,Tercer semestre,Neutral,A menudo,Rara vez,Ocasionalmente,Muy buena,Siempre,Regular,Rara vez,Siempre,Nunca,Totalmente en desacuerdo
+961,Masculino,29,Quinto Semestre,Satisfecho,A menudo,Siempre,A menudo,Buena,Nunca,Regular,Ocasionalmente,Siempre,Siempre,Totalmente en desacuerdo
+962,Femenino,17,Cuarto semestre,Neutral,A menudo,Ocasionalmente,Ocasionalmente,Muy buena,Rara vez,Buena,Siempre,Nunca,Ocasionalmente,Totalmente de acuerdo
+963,Otros,47,Segundo semestre,Muy satisfecho,A menudo,Ocasionalmente,Siempre,Excelente,Siempre,Buena,A menudo,Nunca,Nunca,Totalmente en desacuerdo
+964,Masculino,18,Primer semestre,Neutral,Nunca,Nunca,Rara vez,Mala,Siempre,Buena,A menudo,Rara vez,A menudo,Totalmente de acuerdo
+965,Masculino,28,Primer semestre,Muy satisfecho,Nunca,Ocasionalmente,Nunca,Muy buena,Siempre,Muy buena,A menudo,Nunca,Rara vez,De acuerdo en gran medida
+966,Otros,36,Tercer semestre,Satisfecho,Ocasionalmente,Siempre,Ocasionalmente,Muy buena,Ocasionalmente,Excelente,Rara vez,Nunca,A menudo,De acuerdo en gran medida
+967,Femenino,24,Cuarto semestre,Muy satisfecho,Siempre,Nunca,Rara vez,Muy buena,Rara vez,Buena,Nunca,A menudo,A menudo,Neutral
+968,Femenino,28,Cuarto semestre,Insatisfecho,Nunca,Ocasionalmente,A menudo,Regular,Rara vez,Muy buena,Siempre,Nunca,Nunca,En desacuerdo
+969,Otros,22,Quinto Semestre,Satisfecho,Nunca,Nunca,Nunca,Excelente,Nunca,Regular,Nunca,Rara vez,Ocasionalmente,Totalmente de acuerdo
+970,Masculino,49,Quinto Semestre,Muy insatisfecho,Rara vez,Siempre,Ocasionalmente,Buena,Nunca,Regular,A menudo,Nunca,Rara vez,De acuerdo en gran medida
+971,Masculino,52,Segundo semestre,Muy insatisfecho,Siempre,A menudo,Rara vez,Buena,A menudo,Excelente,Ocasionalmente,Rara vez,Rara vez,Totalmente en desacuerdo
+972,Masculino,44,Cuarto semestre,Insatisfecho,Rara vez,Rara vez,Siempre,Excelente,Siempre,Muy buena,Rara vez,Ocasionalmente,Rara vez,Totalmente de acuerdo
+973,Masculino,43,Quinto Semestre,Neutral,Ocasionalmente,A menudo,Rara vez,Regular,Nunca,Mala,Rara vez,Siempre,Nunca,En desacuerdo
+974,Masculino,40,Quinto Semestre,Muy satisfecho,Ocasionalmente,Ocasionalmente,Siempre,Mala,Nunca,Buena,Rara vez,Rara vez,A menudo,Neutral
+975,Femenino,21,Quinto Semestre,Muy insatisfecho,Nunca,Siempre,A menudo,Excelente,A menudo,Muy buena,A menudo,Ocasionalmente,Rara vez,Totalmente de acuerdo
+976,Masculino,17,Quinto Semestre,Neutral,Siempre,Ocasionalmente,Nunca,Buena,Siempre,Regular,Nunca,Ocasionalmente,Rara vez,En desacuerdo
+977,Masculino,32,Cuarto semestre,Neutral,Nunca,Rara vez,A menudo,Buena,Ocasionalmente,Buena,Rara vez,Ocasionalmente,Ocasionalmente,Neutral
+978,Femenino,16,Primer semestre,Muy satisfecho,Nunca,Siempre,Ocasionalmente,Buena,A menudo,Excelente,Siempre,Ocasionalmente,A menudo,Totalmente en desacuerdo
+979,Masculino,45,Tercer semestre,Muy insatisfecho,Rara vez,Rara vez,Nunca,Muy buena,A menudo,Muy buena,Rara vez,A menudo,A menudo,Totalmente en desacuerdo
+980,Femenino,16,Tercer semestre,Muy insatisfecho,Siempre,Rara vez,Nunca,Regular,Nunca,Mala,Nunca,Ocasionalmente,Rara vez,Totalmente de acuerdo
+981,Otros,33,Cuarto semestre,Insatisfecho,Rara vez,A menudo,Siempre,Mala,A menudo,Excelente,Nunca,Nunca,Rara vez,De acuerdo en gran medida
+982,Otros,42,Primer semestre,Muy insatisfecho,Ocasionalmente,Nunca,Ocasionalmente,Excelente,Siempre,Regular,Ocasionalmente,A menudo,A menudo,Totalmente en desacuerdo
+983,Masculino,48,Cuarto semestre,Satisfecho,Nunca,Siempre,Ocasionalmente,Excelente,Rara vez,Muy buena,A menudo,A menudo,Nunca,En desacuerdo
+984,Masculino,48,Cuarto semestre,Muy insatisfecho,Ocasionalmente,Nunca,Nunca,Muy buena,Ocasionalmente,Muy buena,Siempre,A menudo,A menudo,Totalmente de acuerdo
+985,Otros,53,Quinto Semestre,Neutral,Siempre,Ocasionalmente,Rara vez,Mala,Ocasionalmente,Muy buena,Siempre,Rara vez,Siempre,Totalmente en desacuerdo
+986,Masculino,36,Primer semestre,Muy insatisfecho,Ocasionalmente,Rara vez,A menudo,Excelente,A menudo,Regular,Ocasionalmente,Siempre,Rara vez,Totalmente de acuerdo
+987,Femenino,19,Quinto Semestre,Satisfecho,Rara vez,Ocasionalmente,Nunca,Buena,Rara vez,Muy buena,A menudo,Rara vez,Ocasionalmente,En desacuerdo
+988,Femenino,30,Tercer semestre,Muy satisfecho,A menudo,Rara vez,Ocasionalmente,Mala,Siempre,Mala,A menudo,A menudo,A menudo,Neutral
+989,Masculino,28,Tercer semestre,Neutral,Siempre,Nunca,Nunca,Buena,Siempre,Muy buena,A menudo,Rara vez,A menudo,De acuerdo en gran medida
+990,Femenino,54,Primer semestre,Neutral,Siempre,Rara vez,A menudo,Muy buena,A menudo,Buena,Ocasionalmente,A menudo,Siempre,Totalmente de acuerdo
+991,Masculino,37,Cuarto semestre,Muy insatisfecho,Ocasionalmente,Nunca,Rara vez,Buena,Ocasionalmente,Buena,A menudo,Rara vez,Siempre,De acuerdo en gran medida
+992,Otros,37,Segundo semestre,Neutral,A menudo,Rara vez,Ocasionalmente,Buena,A menudo,Regular,Rara vez,Rara vez,Rara vez,Neutral
+993,Femenino,30,Quinto Semestre,Insatisfecho,A menudo,Ocasionalmente,Ocasionalmente,Mala,Nunca,Mala,Rara vez,Rara vez,Rara vez,Totalmente de acuerdo
+994,Otros,53,Primer semestre,Muy insatisfecho,Ocasionalmente,Nunca,A menudo,Regular,Nunca,Buena,A menudo,Nunca,Ocasionalmente,Totalmente de acuerdo
+995,Masculino,23,Tercer semestre,Muy satisfecho,Siempre,Rara vez,Nunca,Excelente,Siempre,Muy buena,Siempre,A menudo,Ocasionalmente,Neutral
+996,Otros,47,Segundo semestre,Muy satisfecho,Siempre,Ocasionalmente,Ocasionalmente,Regular,Nunca,Excelente,Nunca,A menudo,Siempre,Totalmente de acuerdo
+997,Otros,19,Primer semestre,Satisfecho,Siempre,Rara vez,Ocasionalmente,Muy buena,A menudo,Excelente,Ocasionalmente,Rara vez,Nunca,De acuerdo en gran medida
+998,Otros,34,Primer semestre,Satisfecho,Rara vez,Ocasionalmente,Rara vez,Excelente,Siempre,Buena,A menudo,Rara vez,Rara vez,Totalmente en desacuerdo
+999,Otros,19,Quinto Semestre,Satisfecho,Nunca,Siempre,Nunca,Regular,Rara vez,Regular,A menudo,A menudo,Siempre,De acuerdo en gran medida
+1000,Masculino,19,Cuarto semestre,Muy insatisfecho,Siempre,Rara vez,Siempre,Mala,Nunca,Mala,Rara vez,Rara vez,Nunca,Totalmente de acuerdo
